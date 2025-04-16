@@ -1,0 +1,982 @@
+[
+    {
+        "issue_number": 403,
+        "state": "open",
+        "title": "Update banner verbiage for sku level budgets"
+    },
+    {
+        "issue_number": 402,
+        "state": "open",
+        "title": "Clarify Billing Manager Permissions Documentation"
+    },
+    {
+        "issue_number": 396,
+        "state": "open",
+        "title": "[Epic] Documentation improvements"
+    },
+    {
+        "issue_number": 394,
+        "state": "open",
+        "title": "Call Request for Intel"
+    },
+    {
+        "issue_number": 393,
+        "state": "open",
+        "title": "Questions from Porsche re Cost Centers"
+    },
+    {
+        "issue_number": 392,
+        "state": "open",
+        "title": "Feature request: Ability to pre-pay for LFS Bandwidth on vNext at reduced rate"
+    },
+    {
+        "issue_number": 391,
+        "state": "open",
+        "title": "Investigate and address unbilled usage on Proxima"
+    },
+    {
+        "issue_number": 390,
+        "state": "open",
+        "title": "[Epic] Billing For GitHub Models"
+    },
+    {
+        "issue_number": 386,
+        "state": "open",
+        "title": "Call Request for Epic Games"
+    },
+    {
+        "issue_number": 384,
+        "state": "open",
+        "title": "[Epic] Add support to manage Budgets via GitHub teams"
+    },
+    {
+        "issue_number": 383,
+        "state": "open",
+        "title": "Identify, communicate, and shut down all existing repo-scoped budgets for Packages"
+    },
+    {
+        "issue_number": 382,
+        "state": "open",
+        "title": "Update documentation to reflect the limitations of Packages emissions due to lack of repo information"
+    },
+    {
+        "issue_number": 381,
+        "state": "open",
+        "title": "Remove the option to create repo-scoped budgets for Packages"
+    },
+    {
+        "issue_number": 379,
+        "state": "open",
+        "title": "Request a feature for Invoiced accounts to store and have recurring payments for invoices/metered payments"
+    },
+    {
+        "issue_number": 378,
+        "state": "open",
+        "title": "Fix the iconography of the prepaid credits textbox on the Overview page"
+    },
+    {
+        "issue_number": 377,
+        "state": "open",
+        "title": "Send emails when included usage is exhausted"
+    },
+    {
+        "issue_number": 375,
+        "state": "open",
+        "title": "Update references to Meuse APIs"
+    },
+    {
+        "issue_number": 374,
+        "state": "open",
+        "title": "Consistent language \"Plans\" and \"Subscriptions\""
+    },
+    {
+        "issue_number": 373,
+        "state": "open",
+        "title": "Initiative - follow up work for Copilot premium requests"
+    },
+    {
+        "issue_number": 372,
+        "state": "open",
+        "title": "Call Request for Pictet Group"
+    },
+    {
+        "issue_number": 371,
+        "state": "open",
+        "title": "Simplify complex billing language in the UI to improve accessibility for all users"
+    },
+    {
+        "issue_number": 370,
+        "state": "open",
+        "title": "Cost center navigation improvements: search, filter, sort"
+    },
+    {
+        "issue_number": 367,
+        "state": "open",
+        "title": "Cost Centers: Add search to Azure Subscription ID dropdown"
+    },
+    {
+        "issue_number": 366,
+        "state": "open",
+        "title": "Expose `billing.budget_*` audit log events so they are customer accessible"
+    },
+    {
+        "issue_number": 364,
+        "state": "open",
+        "title": "Add tracking information to events for budget updates (unable to tell which budgets are updated or how modified)"
+    },
+    {
+        "issue_number": 363,
+        "state": "open",
+        "title": "Provide an API to manage budgets"
+    },
+    {
+        "issue_number": 360,
+        "state": "open",
+        "title": "Add descriptions to cost centers"
+    },
+    {
+        "issue_number": 356,
+        "state": "open",
+        "title": "Phase 3: Smart Budget Management / Budget Recommendations"
+    },
+    {
+        "issue_number": 355,
+        "state": "open",
+        "title": "Phase 2: Anomaly Detection for Usage"
+    },
+    {
+        "issue_number": 354,
+        "state": "open",
+        "title": "Phase 1: Enterprise / Organizational Usage Prediction"
+    },
+    {
+        "issue_number": 353,
+        "state": "open",
+        "title": "[Epic] AI for Billing / Licensing - Smart Budgets / Budget Recommendations"
+    },
+    {
+        "issue_number": 351,
+        "state": "open",
+        "title": "[Epic] CanProceedWithUsage for GHAS (unbundled teams plan)"
+    },
+    {
+        "issue_number": 350,
+        "state": "open",
+        "title": "[Epic] UX Improvements Q1FY26"
+    },
+    {
+        "issue_number": 349,
+        "state": "open",
+        "title": "[Epic] UX Improvements Q4FY25"
+    },
+    {
+        "issue_number": 348,
+        "state": "open",
+        "title": "Showing LFS SSH deploy key activity in usage reports"
+    },
+    {
+        "issue_number": 346,
+        "state": "open",
+        "title": "[TASK] Skipped billing dashboard improvements"
+    },
+    {
+        "issue_number": 345,
+        "state": "open",
+        "title": "Add ability to choose between what email to send billing reports to"
+    },
+    {
+        "issue_number": 344,
+        "state": "open",
+        "title": "Design for Hard Budgets for License-based products"
+    },
+    {
+        "issue_number": 343,
+        "state": "open",
+        "title": "Customer feedback to clarify public docs on base Enterprise Azure subscription charges"
+    },
+    {
+        "issue_number": 339,
+        "state": "open",
+        "title": "Customers want to track the progress of their included usage"
+    },
+    {
+        "issue_number": 337,
+        "state": "open",
+        "title": "[Epic] Assign anyone to receive budget alerts"
+    },
+    {
+        "issue_number": 336,
+        "state": "open",
+        "title": "[Initiative] Budget improvements"
+    },
+    {
+        "issue_number": 335,
+        "state": "open",
+        "title": "[Epic] Email address customization for billing receipts and usage reports"
+    },
+    {
+        "issue_number": 334,
+        "state": "open",
+        "title": "Make it clear at what time usage resets each month"
+    },
+    {
+        "issue_number": 332,
+        "state": "open",
+        "title": "Customers want to assign an Enterprise Team(s) to budget alerts"
+    },
+    {
+        "issue_number": 330,
+        "state": "open",
+        "title": "Cost Center APIs eventually consistent"
+    },
+    {
+        "issue_number": 329,
+        "state": "open",
+        "title": "New Billing -  Permissions too broad"
+    },
+    {
+        "issue_number": 327,
+        "state": "open",
+        "title": "Split cost type/SKU across cost centers"
+    },
+    {
+        "issue_number": 326,
+        "state": "open",
+        "title": "Customer feedback : Allow assigning a specific repository to a cost center"
+    },
+    {
+        "issue_number": 322,
+        "state": "open",
+        "title": "[TASK] Update budget and alerts docs to explain budget scopes"
+    },
+    {
+        "issue_number": 317,
+        "state": "open",
+        "title": "initial draft of fetch-all-usage.py"
+    },
+    {
+        "issue_number": 309,
+        "state": "open",
+        "title": "Call Request for Boston Consulting Group"
+    },
+    {
+        "issue_number": 308,
+        "state": "open",
+        "title": "[Task] Consolidate Team line items on Zuora invoices"
+    },
+    {
+        "issue_number": 305,
+        "state": "open",
+        "title": "[Task] Update stafftools for orgs on Free plan on vnext"
+    },
+    {
+        "issue_number": 301,
+        "state": "open",
+        "title": "Call Request for Wells Fargo"
+    },
+    {
+        "issue_number": 300,
+        "state": "open",
+        "title": "How might we make included usage more easily discoverable?"
+    },
+    {
+        "issue_number": 299,
+        "state": "open",
+        "title": "Track Billing documentation issues"
+    },
+    {
+        "issue_number": 295,
+        "state": "open",
+        "title": "Update stafftools for orgs on team plan on vnext"
+    },
+    {
+        "issue_number": 294,
+        "state": "open",
+        "title": "Clean up references to data packs for customers that are on metered LFS"
+    },
+    {
+        "issue_number": 293,
+        "state": "open",
+        "title": "Clarify the `Advanced Security enabled` and `Advanced Security via metered billing` values in stafftools"
+    },
+    {
+        "issue_number": 288,
+        "state": "open",
+        "title": "[Task]  Remove SKUs that are unbilled in the usage report"
+    },
+    {
+        "issue_number": 287,
+        "state": "open",
+        "title": "Require that all emissions to billing platform include `orgID`"
+    },
+    {
+        "issue_number": 286,
+        "state": "open",
+        "title": "[Design support to Sean] Integrate Copilot Business licensing journey into the enterprise layer."
+    },
+    {
+        "issue_number": 283,
+        "state": "open",
+        "title": "[Feedback] - Clarification concerning cost centers and volume GHE"
+    },
+    {
+        "issue_number": 282,
+        "state": "open",
+        "title": "[Batch] Remove mention of \"included minutes\" in Actions entitlements"
+    },
+    {
+        "issue_number": 278,
+        "state": "open",
+        "title": "[TASK] Billing & Licensing UI patterns"
+    },
+    {
+        "issue_number": 277,
+        "state": "open",
+        "title": "Improve Org to Enterprise upgrade path"
+    },
+    {
+        "issue_number": 275,
+        "state": "open",
+        "title": "[vNext Feedback] - Confusion in Copilot billing information between enterprise and org"
+    },
+    {
+        "issue_number": 272,
+        "state": "open",
+        "title": "How to monitor Actions Storage/alert when usage spikes or starts to take upward trends"
+    },
+    {
+        "issue_number": 267,
+        "state": "open",
+        "title": "[Epic] Provide anomaly detection to increase customer confidence in metered consumption model"
+    },
+    {
+        "issue_number": 263,
+        "state": "open",
+        "title": "Elsevier - RELX - Customer feedback on Billing platform"
+    },
+    {
+        "issue_number": 261,
+        "state": "open",
+        "title": "[Feature request] - Provide invoices for manual and failed payments"
+    },
+    {
+        "issue_number": 253,
+        "state": "open",
+        "title": "Need help understanding payment methods available for invoiced customers on different billing platforms (Meuse and vNext) for Invoiced Accounts"
+    },
+    {
+        "issue_number": 252,
+        "state": "open",
+        "title": "FTC - Click to cancel - subscriptions compliance"
+    },
+    {
+        "issue_number": 250,
+        "state": "open",
+        "title": "Billing FGPs for Cost centers"
+    },
+    {
+        "issue_number": 249,
+        "state": "open",
+        "title": "[TASK] Design explorations"
+    },
+    {
+        "issue_number": 251,
+        "state": "open",
+        "title": "Add REST API endpoint to list Cost Center resources"
+    },
+    {
+        "issue_number": 247,
+        "state": "open",
+        "title": "Feature Request/Customer Feedback - Make adding/removing/updating repos scalable"
+    },
+    {
+        "issue_number": 245,
+        "state": "open",
+        "title": "Improve product summary carousel"
+    },
+    {
+        "issue_number": 244,
+        "state": "open",
+        "title": "Cost center auditlogs/ webhooks"
+    },
+    {
+        "issue_number": 235,
+        "state": "open",
+        "title": "Billing FGPs/ Roles and Permissions - based on the Enterprise Roles and Permissions (ERP) initiative"
+    },
+    {
+        "issue_number": 234,
+        "state": "open",
+        "title": "Custom discounts on vNext"
+    },
+    {
+        "issue_number": 222,
+        "state": "open",
+        "title": "[Initiative] Promotions (Discounts, Coupons, Credits) for Vol and Metered"
+    },
+    {
+        "issue_number": 221,
+        "state": "open",
+        "title": "Find ways to make connecting an Azure subscription easier and scalable"
+    },
+    {
+        "issue_number": 220,
+        "state": "open",
+        "title": "[TASK]Remove deleted Cost Centers from UI/API results"
+    },
+    {
+        "issue_number": 219,
+        "state": "open",
+        "title": "Request a feature for making included actions minutes configurable"
+    },
+    {
+        "issue_number": 218,
+        "state": "open",
+        "title": "Initiative: Usage reports improvements"
+    },
+    {
+        "issue_number": 212,
+        "state": "open",
+        "title": "[Initiative] CanProceedWithUsage unified experience"
+    },
+    {
+        "issue_number": 211,
+        "state": "open",
+        "title": "[Initiative] Lost Revenue"
+    },
+    {
+        "issue_number": 208,
+        "state": "open",
+        "title": "[from Support] Change request: Add `Are you sure?` modal to Copilot trial upgrade flow"
+    },
+    {
+        "issue_number": 209,
+        "state": "open",
+        "title": "Epic: Usage page improvements"
+    },
+    {
+        "issue_number": 207,
+        "state": "open",
+        "title": "[Epic] Feature parity for Usage API"
+    },
+    {
+        "issue_number": 206,
+        "state": "open",
+        "title": "Customizable usage reports  "
+    },
+    {
+        "issue_number": 204,
+        "state": "open",
+        "title": "Control included minutes consumption & show included minutes in usage report -"
+    },
+    {
+        "issue_number": 203,
+        "state": "open",
+        "title": "Billing vNext Customer Feedback: Amway"
+    },
+    {
+        "issue_number": 200,
+        "state": "open",
+        "title": "[Epic]Add user to cost center when invited to org"
+    },
+    {
+        "issue_number": 194,
+        "state": "open",
+        "title": "[Epic] Update CanProceedWithUsage Logic and Alerts (Copilot)"
+    },
+    {
+        "issue_number": 387,
+        "state": "open",
+        "title": "Publish individuals API documentation"
+    },
+    {
+        "issue_number": 188,
+        "state": "open",
+        "title": "Question: Billing for GitHub Models"
+    },
+    {
+        "issue_number": 184,
+        "state": "open",
+        "title": "[Design Task] Reorganizing the information in Billing to better organize and consider removing pages like billing contacts, past invoices"
+    },
+    {
+        "issue_number": 183,
+        "state": "open",
+        "title": "[Design Task] Improve budgets feature"
+    },
+    {
+        "issue_number": 182,
+        "state": "open",
+        "title": "[Design Task] How do we show more billing functionality to users during the trial?"
+    },
+    {
+        "issue_number": 180,
+        "state": "open",
+        "title": "[Design Task] When a customer has never done invoicing payments before, do not show the past invoices page"
+    },
+    {
+        "issue_number": 179,
+        "state": "open",
+        "title": "[Design Task] Adding more clarity to the Payment options in Billing"
+    },
+    {
+        "issue_number": 178,
+        "state": "open",
+        "title": "[Design Task] Billing information sometimes lives in Billing and Licensing, and other times lives in Settings"
+    },
+    {
+        "issue_number": 177,
+        "state": "open",
+        "title": "[Design Task] Reduce redundancy of showing the usage graph twice on \"Overview\" and \"Usage\""
+    },
+    {
+        "issue_number": 176,
+        "state": "open",
+        "title": "[Design Task] How might we create a page to view all usage whether it is free or paid so we can track overall usage (even with trials)."
+    },
+    {
+        "issue_number": 174,
+        "state": "open",
+        "title": "Bring Copilot to the billing administration experience"
+    },
+    {
+        "issue_number": 173,
+        "state": "open",
+        "title": "[TASK] Budget & alert notifications for Licenses"
+    },
+    {
+        "issue_number": 172,
+        "state": "open",
+        "title": "[Design Task] In product guidance to support net new Billing customers and Meuse customers transitioning over to Billing"
+    },
+    {
+        "issue_number": 171,
+        "state": "open",
+        "title": "[Design Task] How might we organize Licensing and Billing pages so usage reports make more sense"
+    },
+    {
+        "issue_number": 170,
+        "state": "open",
+        "title": "Accenture scalability and security challenges with regard to cost centers and Azure subscriptions"
+    },
+    {
+        "issue_number": 168,
+        "state": "open",
+        "title": "[Design Task] Filling out billing info auto fills out the shipping info with the same address, then also shows error msg with shipping info"
+    },
+    {
+        "issue_number": 167,
+        "state": "open",
+        "title": "[Design Task] Improve the first time customer experience when a new user activates an Enterprise 30 day free trial"
+    },
+    {
+        "issue_number": 165,
+        "state": "open",
+        "title": "[Placeholder]  License / seat forecasting for metered Trials"
+    },
+    {
+        "issue_number": 161,
+        "state": "open",
+        "title": "[Epic] Update the Billing & Licensing Overview page"
+    },
+    {
+        "issue_number": 158,
+        "state": "open",
+        "title": "Improve shared storage experience for Actions & Packages"
+    },
+    {
+        "issue_number": 156,
+        "state": "open",
+        "title": "Zuora invoice enhancement"
+    },
+    {
+        "issue_number": 147,
+        "state": "open",
+        "title": "Cost Centers 2.0"
+    },
+    {
+        "issue_number": 140,
+        "state": "open",
+        "title": "Epic : Cost center UI updates"
+    },
+    {
+        "issue_number": 135,
+        "state": "open",
+        "title": "Clarify \"unlimited by default\" behavior of metered billing on BvN"
+    },
+    {
+        "issue_number": 134,
+        "state": "open",
+        "title": "Billing platform Research (post GA)"
+    },
+    {
+        "issue_number": 131,
+        "state": "open",
+        "title": "[Epic] Phase 2 - Auth and Capture "
+    },
+    {
+        "issue_number": 130,
+        "state": "open",
+        "title": "[Epic] Phase 3 - Promo Abuse"
+    },
+    {
+        "issue_number": 133,
+        "state": "open",
+        "title": "[from Support] Metered billing - Larger runners spend feedback"
+    },
+    {
+        "issue_number": 126,
+        "state": "open",
+        "title": "[Epic] Phase 2 - Proxima Payment Abuse"
+    },
+    {
+        "issue_number": 122,
+        "state": "open",
+        "title": "[Epic] Create a report of all \"late renewal\" accounts."
+    },
+    {
+        "issue_number": 120,
+        "state": "open",
+        "title": "[Epic] Hard Budget Limits for Seat-Based Metered Products"
+    },
+    {
+        "issue_number": 125,
+        "state": "open",
+        "title": "Bring back deleted Cost Center viewing for Stafftools"
+    },
+    {
+        "issue_number": 119,
+        "state": "open",
+        "title": "Allow organizations to be added to a cost center if its child repos are in a Cost Center + Generic Cost Center Improvements[Open to discussion/change]"
+    },
+    {
+        "issue_number": 117,
+        "state": "open",
+        "title": "[Epic] Phase 3 - Payment Abuse for Trials"
+    },
+    {
+        "issue_number": 115,
+        "state": "open",
+        "title": "[Epic] Bring billing settings to enterprise organizations"
+    },
+    {
+        "issue_number": 114,
+        "state": "open",
+        "title": "[Epic] Discount engine for Actions pricing change for FY25"
+    },
+    {
+        "issue_number": 113,
+        "state": "open",
+        "title": "Update budget banner behaviors on the overview page"
+    },
+    {
+        "issue_number": 112,
+        "state": "open",
+        "title": "Support Feedback: How can we identify customers on GitHub Paper or MSFT Paper (not on BvN) (via Stafftools, Chatops?)"
+    },
+    {
+        "issue_number": 111,
+        "state": "open",
+        "title": "Request a feature for cost center usage to be assignable to a specific Azure Resource Group"
+    },
+    {
+        "issue_number": 110,
+        "state": "open",
+        "title": "[from Support] Customer feedback - vNext metered usage feedback/confusion"
+    },
+    {
+        "issue_number": 109,
+        "state": "open",
+        "title": "[Epic] If sellers can be attached to accounts on the Team plan, make sure they can be compensated"
+    },
+    {
+        "issue_number": 105,
+        "state": "open",
+        "title": "Placeholder [Epic]Enable GH app authentication to vnext end points"
+    },
+    {
+        "issue_number": 104,
+        "state": "open",
+        "title": "[Epic] Block Prepaid cards"
+    },
+    {
+        "issue_number": 99,
+        "state": "open",
+        "title": "EMU Trial/Pilot Billing Flow if Copilot Enabled"
+    },
+    {
+        "issue_number": 97,
+        "state": "open",
+        "title": "Review Zuora Account Creation Process for Sales Serve Customers"
+    },
+    {
+        "issue_number": 118,
+        "state": "open",
+        "title": "Add a query param to the Billing Overview URL to filter for products"
+    },
+    {
+        "issue_number": 90,
+        "state": "open",
+        "title": "[Epic] Automatically add repos to a Cost Center based on defined repo properties"
+    },
+    {
+        "issue_number": 94,
+        "state": "open",
+        "title": "Unify enterprise billing checkout page"
+    },
+    {
+        "issue_number": 88,
+        "state": "open",
+        "title": "Initiative - Unified Metered Trials"
+    },
+    {
+        "issue_number": 92,
+        "state": "open",
+        "title": "Confusion with the new volume licensing spend tile on the overview page"
+    },
+    {
+        "issue_number": 85,
+        "state": "open",
+        "title": "[Epic] Copilot Business for non-GHE customers can self-provision their own metered enterprise account"
+    },
+    {
+        "issue_number": 84,
+        "state": "open",
+        "title": "[Epic] Handle the VSS emissions to show usage/consumption data without billing for it"
+    },
+    {
+        "issue_number": 79,
+        "state": "open",
+        "title": "[Epic] Copilot Business for non-GHE customers can support non-Azure payments"
+    },
+    {
+        "issue_number": 74,
+        "state": "open",
+        "title": "[Epic] Design Exploration - Forecasting"
+    },
+    {
+        "issue_number": 73,
+        "state": "open",
+        "title": "[Epic] Phase 2 -  Trust Tier Restructuring"
+    },
+    {
+        "issue_number": 232,
+        "state": "open",
+        "title": "Product Hub Links Overview"
+    },
+    {
+        "issue_number": 71,
+        "state": "open",
+        "title": "Copilot, GHE, and GHAS validations with billing platform"
+    },
+    {
+        "issue_number": 70,
+        "state": "open",
+        "title": "[Initiative] Payment Methods"
+    },
+    {
+        "issue_number": 231,
+        "state": "open",
+        "title": "Epic: Phase 3 of Promotions and Discounts on BvN"
+    },
+    {
+        "issue_number": 230,
+        "state": "open",
+        "title": "Epic: Metered Coupons"
+    },
+    {
+        "issue_number": 128,
+        "state": "open",
+        "title": "[from Support] Enterprise trials confused and angry with Actions limits"
+    },
+    {
+        "issue_number": 58,
+        "state": "open",
+        "title": "Initiative: Non enterprise experience in Billing vNext"
+    },
+    {
+        "issue_number": 50,
+        "state": "open",
+        "title": "Don't Billing Lock an account if it has no paid subscriptions"
+    },
+    {
+        "issue_number": 44,
+        "state": "open",
+        "title": "Easier installation of GitHub Subscription Permissions Validation Entra app"
+    },
+    {
+        "issue_number": 229,
+        "state": "open",
+        "title": "`Manage seats` button missing from enterprise accounts with failed payments"
+    },
+    {
+        "issue_number": 32,
+        "state": "open",
+        "title": "Support tooling enhancements in stafftools: cancelling accidentally purchased licenses for metered GHE and GHAS"
+    },
+    {
+        "issue_number": 197,
+        "state": "open",
+        "title": "[Epic] Actions non-billable usage minutes"
+    },
+    {
+        "issue_number": 311,
+        "state": "open",
+        "title": "vNext GA - Enhance docs for usage reports"
+    },
+    {
+        "issue_number": 23,
+        "state": "open",
+        "title": "vNext GA - Usage - Stafftools insight for individual workflow usage"
+    },
+    {
+        "issue_number": 22,
+        "state": "open",
+        "title": "Request a feature for more control over vNext Billing Permissions"
+    },
+    {
+        "issue_number": 196,
+        "state": "open",
+        "title": "Budgets UI should display budget type"
+    },
+    {
+        "issue_number": 26,
+        "state": "open",
+        "title": "[Epic] Add support to manage Cost centers via GitHub teams"
+    },
+    {
+        "issue_number": 195,
+        "state": "open",
+        "title": "vNext GA Bug - Budget Email Alerts"
+    },
+    {
+        "issue_number": 96,
+        "state": "open",
+        "title": "Placeholder : Post GA work on Alert recipients"
+    },
+    {
+        "issue_number": 28,
+        "state": "open",
+        "title": "Request a feature for Startup Program Coupon Abuse Prevention"
+    },
+    {
+        "issue_number": 159,
+        "state": "open",
+        "title": "vNext GA Bug - Clarify what adding optional Azure subscription to cost center does"
+    },
+    {
+        "issue_number": 20,
+        "state": "open",
+        "title": "[Batch] Confirm with the Salesforce team that managed accounts that were created self-serve will invoice through Zuora"
+    },
+    {
+        "issue_number": 1,
+        "state": "open",
+        "title": "[Epic] Standardize Billing models across all Products"
+    },
+    {
+        "issue_number": 2,
+        "state": "open",
+        "title": "[Epic] Bring Actions into compliance with GitHub's policy on charging for all consumption"
+    },
+    {
+        "issue_number": 3,
+        "state": "open",
+        "title": "[Epic] Cover all integration points for all new billing features"
+    },
+    {
+        "issue_number": 7,
+        "state": "open",
+        "title": "[Epic] Repair gaps in Salesforce or Revenue processes that lead to incorrect information in Zuora or Billing"
+    },
+    {
+        "issue_number": 18,
+        "state": "open",
+        "title": "[Initiative] Alignment with Azure commerce programs"
+    },
+    {
+        "issue_number": 15,
+        "state": "open",
+        "title": "[Epic] Centralized process for customer facing teams to know when billing errors are occurring and allow them to guide customers through errors"
+    },
+    {
+        "issue_number": 14,
+        "state": "open",
+        "title": "[Epic] Create alignment with MSFT engineering and operations to jointly troubleshoot customer challenges when reported"
+    },
+    {
+        "issue_number": 13,
+        "state": "open",
+        "title": "[Epic] Review and Fix account configuration process flow for upcoming metered launches"
+    },
+    {
+        "issue_number": 11,
+        "state": "open",
+        "title": "[Epic] Feedback loop in product when billing errors occur and proactive notification to the Account Team"
+    },
+    {
+        "issue_number": 10,
+        "state": "open",
+        "title": "[Epic] Create/standardize on metered billing release requirements that incorporate the operational nuances"
+    },
+    {
+        "issue_number": 9,
+        "state": "open",
+        "title": "[Epic] Connect and automate the end to end processes/systems associated with metered billing"
+    },
+    {
+        "issue_number": 8,
+        "state": "open",
+        "title": "EPD+R LT: Resolve Metered Skipped Billing Issues"
+    },
+    {
+        "issue_number": 192,
+        "state": "open",
+        "title": "[Bug] Org owner cannot create cost centers with their org -- Comcast"
+    },
+    {
+        "issue_number": 87,
+        "state": "open",
+        "title": "[Epic] Trials on BvN -- Product investigation"
+    },
+    {
+        "issue_number": 342,
+        "state": "open",
+        "title": "Epic: Customers want to manage cost centers at the product level"
+    },
+    {
+        "issue_number": 388,
+        "state": "open",
+        "title": "[Bug] Disparity between REST API and Enterprise Billing Dashboard"
+    },
+    {
+        "issue_number": 186,
+        "state": "open",
+        "title": "[Feature Request]: Additional Payment Methods in India and Europe"
+    },
+    {
+        "issue_number": 138,
+        "state": "open",
+        "title": "Upgrades to Enterprise are blocked by seat downgrade"
+    },
+    {
+        "issue_number": 228,
+        "state": "open",
+        "title": "Incremental coupon improvements - `Microsoft for Startups` "
+    },
+    {
+        "issue_number": 163,
+        "state": "open",
+        "title": "Add warning module in stafftools when changing accounts with paid Marketplace apps to invoiced"
+    },
+    {
+        "issue_number": 162,
+        "state": "open",
+        "title": "Epic: Receipt Redesign"
+    },
+    {
+        "issue_number": 389,
+        "state": "open",
+        "title": "[Epic]: Enforce trust-tier spending limit with vNext budget"
+    }
+]
