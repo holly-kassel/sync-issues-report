@@ -1,0 +1,2050 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Billing Issues Analysis - Issue Table</title>
+        <style>
+            body { font-family: Arial, sans-serif; margin: 20px; }
+            h1 { color: #333366; }
+            table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+            th, td { padding: 8px; text-align: left; border-bottom: 1px solid #ddd; }
+            th { background-color: #f2f2f2; cursor: pointer; }
+            tr:hover { background-color: #f5f5f5; }
+            .sorter:after { content: " ⇵"; color: #999; }
+        </style>
+        <script>
+            function sortTable(n) {
+                var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+                table = document.getElementById("issueTable");
+                switching = true;
+                dir = "asc";
+                while (switching) {
+                    switching = false;
+                    rows = table.rows;
+                    for (i = 1; i < (rows.length - 1); i++) {
+                        shouldSwitch = false;
+                        x = rows[i].getElementsByTagName("TD")[n];
+                        y = rows[i + 1].getElementsByTagName("TD")[n];
+                        
+                        if (dir == "asc") {
+                            if (isNaN(x.innerHTML) && isNaN(y.innerHTML)) {
+                                // Text comparison
+                                if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+                                    shouldSwitch = true;
+                                    break;
+                                }
+                            } else {
+                                // Numeric comparison
+                                if (Number(x.innerHTML) > Number(y.innerHTML)) {
+                                    shouldSwitch= true;
+                                    break;
+                                }
+                            }
+                        } else if (dir == "desc") {
+                            if (isNaN(x.innerHTML) && isNaN(y.innerHTML)) {
+                                // Text comparison
+                                if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+                                    shouldSwitch = true;
+                                    break;
+                                }
+                            } else {
+                                // Numeric comparison
+                                if (Number(x.innerHTML) < Number(y.innerHTML)) {
+                                    shouldSwitch = true;
+                                    break;
+                                }
+                            }
+                        }
+                    }
+                    if (shouldSwitch) {
+                        rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+                        switching = true;
+                        switchcount ++;
+                    } else {
+                        if (switchcount == 0 && dir == "asc") {
+                            dir = "desc";
+                            switching = true;
+                        }
+                    }
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Billing Issues Analysis - Sortable Issue Table</h1>
+        <p>Click on column headers to sort. Issues are initially sorted by days in backlog (descending).</p>
+        <table id="issueTable">
+            <tr>
+                <th class="sorter" onclick="sortTable(0)">Issue #</th>
+                <th class="sorter" onclick="sortTable(1)">Title</th>
+                <th class="sorter" onclick="sortTable(2)">State</th>
+                <th class="sorter" onclick="sortTable(3)">Created Date</th>
+                <th class="sorter" onclick="sortTable(4)">Days in Backlog</th>
+                <th class="sorter" onclick="sortTable(5)">Theme</th>
+                <th class="sorter" onclick="sortTable(6)">AI Summary</th>
+            </tr>
+    
+            <tr>
+                <td>1</td>
+                <td>[Epic] Standardize Billing models across all Products</td>
+                <td>open</td>
+                <td>2023-01-01</td>
+                <td>836</td>
+                <td>billing</td>
+                <td>Create standardized billing models for all products.</td>
+            </tr>
+        
+            <tr>
+                <td>2</td>
+                <td>[Epic] Bring Actions into compliance with GitHub's policy on charging for all consumption</td>
+                <td>open</td>
+                <td>2023-01-03</td>
+                <td>834</td>
+                <td>epic</td>
+                <td>Ensure Actions comply with GitHub's policy on charging for all consumption.</td>
+            </tr>
+        
+            <tr>
+                <td>3</td>
+                <td>[Epic] Cover all integration points for all new billing features</td>
+                <td>open</td>
+                <td>2023-01-05</td>
+                <td>832</td>
+                <td>billing</td>
+                <td>Address all integration points for new billing features.</td>
+            </tr>
+        
+            <tr>
+                <td>7</td>
+                <td>[Epic] Repair gaps in Salesforce or Revenue processes that lead to incorrect information in Zuora or Billing</td>
+                <td>open</td>
+                <td>2023-01-13</td>
+                <td>824</td>
+                <td>billing</td>
+                <td>Fix gaps in Salesforce or Revenue processes causing incorrect information in Zuora or Billing.</td>
+            </tr>
+        
+            <tr>
+                <td>8</td>
+                <td>EPD+R LT: Resolve Metered Skipped Billing Issues</td>
+                <td>open</td>
+                <td>2023-01-15</td>
+                <td>822</td>
+                <td>billing</td>
+                <td>Address and resolve issues related to metered skipped billing.</td>
+            </tr>
+        
+            <tr>
+                <td>9</td>
+                <td>[Epic] Connect and automate the end to end processes/systems associated with metered billing</td>
+                <td>open</td>
+                <td>2023-01-17</td>
+                <td>820</td>
+                <td>billing</td>
+                <td>Automate end-to-end processes and systems for metered billing.</td>
+            </tr>
+        
+            <tr>
+                <td>10</td>
+                <td>[Epic] Create/standardize on metered billing release requirements that incorporate the operational nuances</td>
+                <td>open</td>
+                <td>2023-01-19</td>
+                <td>818</td>
+                <td>billing</td>
+                <td>Standardize metered billing release requirements with operational nuances.</td>
+            </tr>
+        
+            <tr>
+                <td>11</td>
+                <td>[Epic] Feedback loop in product when billing errors occur and proactive notification to the Account Team</td>
+                <td>open</td>
+                <td>2023-01-21</td>
+                <td>816</td>
+                <td>billing</td>
+                <td>Create a feedback loop for billing errors and notify the Account Team proactively.</td>
+            </tr>
+        
+            <tr>
+                <td>13</td>
+                <td>[Epic] Review and Fix account configuration process flow for upcoming metered launches</td>
+                <td>open</td>
+                <td>2023-01-25</td>
+                <td>812</td>
+                <td>epic</td>
+                <td>Evaluate and improve account configuration process flow for metered launches.</td>
+            </tr>
+        
+            <tr>
+                <td>14</td>
+                <td>[Epic] Create alignment with MSFT engineering and operations to jointly troubleshoot customer challenges when reported</td>
+                <td>open</td>
+                <td>2023-01-27</td>
+                <td>810</td>
+                <td>epic</td>
+                <td>Collaborate with MSFT engineering and operations to troubleshoot customer challenges.</td>
+            </tr>
+        
+            <tr>
+                <td>15</td>
+                <td>[Epic] Centralized process for customer facing teams to know when billing errors are occurring and allow them to guide customers through errors</td>
+                <td>open</td>
+                <td>2023-01-29</td>
+                <td>808</td>
+                <td>billing</td>
+                <td>Develop a centralized process for customer-facing teams to address billing errors.</td>
+            </tr>
+        
+            <tr>
+                <td>18</td>
+                <td>[Initiative] Alignment with Azure commerce programs</td>
+                <td>open</td>
+                <td>2023-02-04</td>
+                <td>802</td>
+                <td>integration</td>
+                <td>Align billing processes with Azure commerce programs.</td>
+            </tr>
+        
+            <tr>
+                <td>20</td>
+                <td>[Batch] Confirm with the Salesforce team that managed accounts that were created self-serve will invoice through Zuora</td>
+                <td>open</td>
+                <td>2023-02-08</td>
+                <td>798</td>
+                <td>billing</td>
+                <td>Verify with the Salesforce team that self-serve managed accounts invoice through Zuora.</td>
+            </tr>
+        
+            <tr>
+                <td>22</td>
+                <td>Request a feature for more control over vNext Billing Permissions</td>
+                <td>open</td>
+                <td>2023-02-12</td>
+                <td>794</td>
+                <td>billing</td>
+                <td>Enable greater control over billing permissions in vNext.</td>
+            </tr>
+        
+            <tr>
+                <td>23</td>
+                <td>vNext GA - Usage - Stafftools insight for individual workflow usage</td>
+                <td>open</td>
+                <td>2023-02-14</td>
+                <td>792</td>
+                <td>other</td>
+                <td>Provide insights into individual workflow usage in Stafftools for vNext GA.</td>
+            </tr>
+        
+            <tr>
+                <td>26</td>
+                <td>[Epic] Add support to manage Cost centers via GitHub teams</td>
+                <td>open</td>
+                <td>2023-02-20</td>
+                <td>786</td>
+                <td>billing</td>
+                <td>Enable management of cost centers through GitHub teams.</td>
+            </tr>
+        
+            <tr>
+                <td>28</td>
+                <td>Request a feature for Startup Program Coupon Abuse Prevention</td>
+                <td>open</td>
+                <td>2023-02-24</td>
+                <td>782</td>
+                <td>feature</td>
+                <td>Develop features to prevent coupon abuse in the Startup Program.</td>
+            </tr>
+        
+            <tr>
+                <td>32</td>
+                <td>Support tooling enhancements in stafftools: cancelling accidentally purchased licenses for metered GHE and GHAS</td>
+                <td>open</td>
+                <td>2023-03-04</td>
+                <td>774</td>
+                <td>subscription</td>
+                <td>Enhance support tooling in stafftools to cancel accidentally purchased licenses for metered GHE and GHAS.</td>
+            </tr>
+        
+            <tr>
+                <td>44</td>
+                <td>Easier installation of GitHub Subscription Permissions Validation Entra app</td>
+                <td>open</td>
+                <td>2023-03-28</td>
+                <td>750</td>
+                <td>subscription</td>
+                <td>Simplify installation of the GitHub Subscription Permissions Validation Entra app.</td>
+            </tr>
+        
+            <tr>
+                <td>50</td>
+                <td>Don't Billing Lock an account if it has no paid subscriptions</td>
+                <td>open</td>
+                <td>2023-04-09</td>
+                <td>738</td>
+                <td>billing</td>
+                <td>Prevent billing locks on accounts without paid subscriptions.</td>
+            </tr>
+        
+            <tr>
+                <td>58</td>
+                <td>Initiative: Non enterprise experience in Billing vNext</td>
+                <td>open</td>
+                <td>2023-04-25</td>
+                <td>722</td>
+                <td>billing</td>
+                <td>Enhance the non-enterprise experience in Billing vNext.</td>
+            </tr>
+        
+            <tr>
+                <td>70</td>
+                <td>[Initiative] Payment Methods</td>
+                <td>open</td>
+                <td>2023-05-19</td>
+                <td>698</td>
+                <td>billing</td>
+                <td>Explore and implement diverse payment methods for better accessibility.</td>
+            </tr>
+        
+            <tr>
+                <td>71</td>
+                <td>Copilot, GHE, and GHAS validations with billing platform</td>
+                <td>open</td>
+                <td>2023-05-21</td>
+                <td>696</td>
+                <td>billing</td>
+                <td>Ensure validations for Copilot, GHE, and GHAS with the billing platform.</td>
+            </tr>
+        
+            <tr>
+                <td>73</td>
+                <td>[Epic] Phase 2 -  Trust Tier Restructuring</td>
+                <td>open</td>
+                <td>2023-05-25</td>
+                <td>692</td>
+                <td>subscription</td>
+                <td>Restructure trust tiers in Phase 2 for better compliance and usability.</td>
+            </tr>
+        
+            <tr>
+                <td>74</td>
+                <td>[Epic] Design Exploration - Forecasting</td>
+                <td>open</td>
+                <td>2023-05-27</td>
+                <td>690</td>
+                <td>ui/ux</td>
+                <td>Conduct design exploration for forecasting features.</td>
+            </tr>
+        
+            <tr>
+                <td>79</td>
+                <td>[Epic] Copilot Business for non-GHE customers can support non-Azure payments</td>
+                <td>open</td>
+                <td>2023-06-06</td>
+                <td>680</td>
+                <td>billing</td>
+                <td>Enable Copilot Business for non-GHE customers to support non-Azure payment methods.</td>
+            </tr>
+        
+            <tr>
+                <td>84</td>
+                <td>[Epic] Handle the VSS emissions to show usage/consumption data without billing for it</td>
+                <td>open</td>
+                <td>2023-06-16</td>
+                <td>670</td>
+                <td>billing</td>
+                <td>Manage VSS emissions to display usage data without associated billing.</td>
+            </tr>
+        
+            <tr>
+                <td>85</td>
+                <td>[Epic] Copilot Business for non-GHE customers can self-provision their own metered enterprise account</td>
+                <td>open</td>
+                <td>2023-06-18</td>
+                <td>668</td>
+                <td>enterprise</td>
+                <td>Enable self-provisioning of metered enterprise accounts for non-GHE customers using Copilot Business.</td>
+            </tr>
+        
+            <tr>
+                <td>87</td>
+                <td>[Epic] Trials on BvN -- Product investigation</td>
+                <td>open</td>
+                <td>2023-06-22</td>
+                <td>664</td>
+                <td>epic</td>
+                <td>Investigate product trials on BvN for better insights.</td>
+            </tr>
+        
+            <tr>
+                <td>88</td>
+                <td>Initiative - Unified Metered Trials</td>
+                <td>open</td>
+                <td>2023-06-24</td>
+                <td>662</td>
+                <td>other</td>
+                <td>Develop a unified approach for metered trials.</td>
+            </tr>
+        
+            <tr>
+                <td>90</td>
+                <td>[Epic] Automatically add repos to a Cost Center based on defined repo properties</td>
+                <td>open</td>
+                <td>2023-06-28</td>
+                <td>658</td>
+                <td>billing</td>
+                <td>Enable automatic addition of repositories to cost centers based on defined properties.</td>
+            </tr>
+        
+            <tr>
+                <td>92</td>
+                <td>Confusion with the new volume licensing spend tile on the overview page</td>
+                <td>open</td>
+                <td>2023-07-02</td>
+                <td>654</td>
+                <td>other</td>
+                <td>Address confusion regarding the new volume licensing spend tile on the overview page.</td>
+            </tr>
+        
+            <tr>
+                <td>94</td>
+                <td>Unify enterprise billing checkout page</td>
+                <td>open</td>
+                <td>2023-07-06</td>
+                <td>650</td>
+                <td>billing</td>
+                <td>Create a unified enterprise billing checkout page for better user experience.</td>
+            </tr>
+        
+            <tr>
+                <td>96</td>
+                <td>Placeholder : Post GA work on Alert recipients</td>
+                <td>open</td>
+                <td>2023-07-10</td>
+                <td>646</td>
+                <td>other</td>
+                <td>Conduct post-GA work on alert recipient functionality.</td>
+            </tr>
+        
+            <tr>
+                <td>97</td>
+                <td>Review Zuora Account Creation Process for Sales Serve Customers</td>
+                <td>open</td>
+                <td>2023-07-12</td>
+                <td>644</td>
+                <td>integration</td>
+                <td>Evaluate and improve the Zuora account creation process for Sales Serve customers.</td>
+            </tr>
+        
+            <tr>
+                <td>99</td>
+                <td>EMU Trial/Pilot Billing Flow if Copilot Enabled</td>
+                <td>open</td>
+                <td>2023-07-16</td>
+                <td>640</td>
+                <td>billing</td>
+                <td>Develop billing flow for EMU trials and pilots with Copilot enabled.</td>
+            </tr>
+        
+            <tr>
+                <td>104</td>
+                <td>[Epic] Block Prepaid cards</td>
+                <td>open</td>
+                <td>2023-07-26</td>
+                <td>630</td>
+                <td>copilot</td>
+                <td>Implement measures to block prepaid cards for better compliance.</td>
+            </tr>
+        
+            <tr>
+                <td>105</td>
+                <td>Placeholder [Epic]Enable GH app authentication to vnext end points</td>
+                <td>open</td>
+                <td>2023-07-28</td>
+                <td>628</td>
+                <td>epic</td>
+                <td>Enable GitHub app authentication for vNext endpoints.</td>
+            </tr>
+        
+            <tr>
+                <td>109</td>
+                <td>[Epic] If sellers can be attached to accounts on the Team plan, make sure they can be compensated</td>
+                <td>open</td>
+                <td>2023-08-05</td>
+                <td>620</td>
+                <td>subscription</td>
+                <td>Ensure sellers attached to Team plan accounts are properly compensated.</td>
+            </tr>
+        
+            <tr>
+                <td>110</td>
+                <td>[from Support] Customer feedback - vNext metered usage feedback/confusion</td>
+                <td>open</td>
+                <td>2023-08-07</td>
+                <td>618</td>
+                <td>other</td>
+                <td>Address customer feedback and confusion regarding vNext metered usage.</td>
+            </tr>
+        
+            <tr>
+                <td>111</td>
+                <td>Request a feature for cost center usage to be assignable to a specific Azure Resource Group</td>
+                <td>open</td>
+                <td>2023-08-09</td>
+                <td>616</td>
+                <td>billing</td>
+                <td>Enable assignment of cost center usage to specific Azure Resource Groups.</td>
+            </tr>
+        
+            <tr>
+                <td>112</td>
+                <td>Support Feedback: How can we identify customers on GitHub Paper or MSFT Paper (not on BvN) (via Stafftools, Chatops?)</td>
+                <td>open</td>
+                <td>2023-08-11</td>
+                <td>614</td>
+                <td>other</td>
+                <td>Develop methods to identify customers on GitHub Paper or MSFT Paper using Stafftools or Chatops.</td>
+            </tr>
+        
+            <tr>
+                <td>113</td>
+                <td>Update budget banner behaviors on the overview page</td>
+                <td>open</td>
+                <td>2023-08-13</td>
+                <td>612</td>
+                <td>other</td>
+                <td>Revise budget banner behaviors on the overview page for better clarity.</td>
+            </tr>
+        
+            <tr>
+                <td>114</td>
+                <td>[Epic] Discount engine for Actions pricing change for FY25</td>
+                <td>open</td>
+                <td>2023-08-15</td>
+                <td>610</td>
+                <td>epic</td>
+                <td>Develop a discount engine for Actions pricing changes in FY25.</td>
+            </tr>
+        
+            <tr>
+                <td>115</td>
+                <td>[Epic] Bring billing settings to enterprise organizations</td>
+                <td>open</td>
+                <td>2023-08-17</td>
+                <td>608</td>
+                <td>billing</td>
+                <td>Integrate billing settings into enterprise organizations.</td>
+            </tr>
+        
+            <tr>
+                <td>117</td>
+                <td>[Epic] Phase 3 - Payment Abuse for Trials</td>
+                <td>open</td>
+                <td>2023-08-21</td>
+                <td>604</td>
+                <td>billing</td>
+                <td>Address payment abuse in Phase 3 for trials.</td>
+            </tr>
+        
+            <tr>
+                <td>118</td>
+                <td>Add a query param to the Billing Overview URL to filter for products</td>
+                <td>open</td>
+                <td>2023-08-23</td>
+                <td>602</td>
+                <td>billing</td>
+                <td>Introduce a query parameter to filter products on the Billing Overview URL.</td>
+            </tr>
+        
+            <tr>
+                <td>119</td>
+                <td>Allow organizations to be added to a cost center if its child repos are in a Cost Center + Generic Cost Center Improvements[Open to discussion/change]</td>
+                <td>open</td>
+                <td>2023-08-25</td>
+                <td>600</td>
+                <td>billing</td>
+                <td>Allow organizations to be added to cost centers based on child repositories.</td>
+            </tr>
+        
+            <tr>
+                <td>120</td>
+                <td>[Epic] Hard Budget Limits for Seat-Based Metered Products</td>
+                <td>open</td>
+                <td>2023-08-27</td>
+                <td>598</td>
+                <td>subscription</td>
+                <td>Implement hard budget limits for seat-based metered products.</td>
+            </tr>
+        
+            <tr>
+                <td>122</td>
+                <td>[Epic] Create a report of all "late renewal" accounts.</td>
+                <td>open</td>
+                <td>2023-08-31</td>
+                <td>594</td>
+                <td>epic</td>
+                <td>Generate reports for accounts with late renewals.</td>
+            </tr>
+        
+            <tr>
+                <td>125</td>
+                <td>Bring back deleted Cost Center viewing for Stafftools</td>
+                <td>open</td>
+                <td>2023-09-06</td>
+                <td>588</td>
+                <td>billing</td>
+                <td>Enable viewing of deleted cost centers in Stafftools.</td>
+            </tr>
+        
+            <tr>
+                <td>126</td>
+                <td>[Epic] Phase 2 - Proxima Payment Abuse</td>
+                <td>open</td>
+                <td>2023-09-08</td>
+                <td>586</td>
+                <td>billing</td>
+                <td>Address payment abuse in Phase 2 for Proxima.</td>
+            </tr>
+        
+            <tr>
+                <td>128</td>
+                <td>[from Support] Enterprise trials confused and angry with Actions limits</td>
+                <td>open</td>
+                <td>2023-09-12</td>
+                <td>582</td>
+                <td>enterprise</td>
+                <td>Address confusion and dissatisfaction with Actions limits in enterprise trials.</td>
+            </tr>
+        
+            <tr>
+                <td>130</td>
+                <td>[Epic] Phase 3 - Promo Abuse</td>
+                <td>open</td>
+                <td>2023-09-16</td>
+                <td>578</td>
+                <td>epic</td>
+                <td>Address promo abuse in Phase 3 for better compliance.</td>
+            </tr>
+        
+            <tr>
+                <td>131</td>
+                <td>[Epic] Phase 2 - Auth and Capture </td>
+                <td>open</td>
+                <td>2023-09-18</td>
+                <td>576</td>
+                <td>epic</td>
+                <td>Implement Phase 2 of Auth and Capture for enhanced security.</td>
+            </tr>
+        
+            <tr>
+                <td>133</td>
+                <td>[from Support] Metered billing - Larger runners spend feedback</td>
+                <td>open</td>
+                <td>2023-09-22</td>
+                <td>572</td>
+                <td>billing</td>
+                <td>Incorporate feedback on larger runners' spend in metered billing.</td>
+            </tr>
+        
+            <tr>
+                <td>134</td>
+                <td>Billing platform Research (post GA)</td>
+                <td>open</td>
+                <td>2023-09-24</td>
+                <td>570</td>
+                <td>billing</td>
+                <td>Conduct research on the billing platform post-GA for improvements.</td>
+            </tr>
+        
+            <tr>
+                <td>135</td>
+                <td>Clarify "unlimited by default" behavior of metered billing on BvN</td>
+                <td>open</td>
+                <td>2023-09-26</td>
+                <td>568</td>
+                <td>billing</td>
+                <td>Provide clarity on the "unlimited by default" behavior of metered billing on BvN.</td>
+            </tr>
+        
+            <tr>
+                <td>138</td>
+                <td>Upgrades to Enterprise are blocked by seat downgrade</td>
+                <td>open</td>
+                <td>2023-10-02</td>
+                <td>562</td>
+                <td>subscription</td>
+                <td>Fix issues blocking Enterprise upgrades due to seat downgrades.</td>
+            </tr>
+        
+            <tr>
+                <td>140</td>
+                <td>Epic : Cost center UI updates</td>
+                <td>open</td>
+                <td>2023-10-06</td>
+                <td>558</td>
+                <td>billing</td>
+                <td>Update the cost center UI for better usability and functionality.</td>
+            </tr>
+        
+            <tr>
+                <td>147</td>
+                <td>Cost Centers 2.0</td>
+                <td>open</td>
+                <td>2023-10-20</td>
+                <td>544</td>
+                <td>billing</td>
+                <td>Develop the next iteration of cost centers with enhanced features.</td>
+            </tr>
+        
+            <tr>
+                <td>156</td>
+                <td>Zuora invoice enhancement</td>
+                <td>open</td>
+                <td>2023-11-07</td>
+                <td>526</td>
+                <td>billing</td>
+                <td>Improve Zuora invoice features for better user experience.</td>
+            </tr>
+        
+            <tr>
+                <td>158</td>
+                <td>Improve shared storage experience for Actions & Packages</td>
+                <td>open</td>
+                <td>2023-11-11</td>
+                <td>522</td>
+                <td>ui/ux</td>
+                <td>Enhance shared storage functionality for Actions and Packages.</td>
+            </tr>
+        
+            <tr>
+                <td>159</td>
+                <td>vNext GA Bug - Clarify what adding optional Azure subscription to cost center does</td>
+                <td>open</td>
+                <td>2023-11-13</td>
+                <td>520</td>
+                <td>billing</td>
+                <td>Clarify the functionality of adding optional Azure subscriptions to cost centers in vNext GA.</td>
+            </tr>
+        
+            <tr>
+                <td>161</td>
+                <td>[Epic] Update the Billing & Licensing Overview page</td>
+                <td>open</td>
+                <td>2023-11-17</td>
+                <td>516</td>
+                <td>billing</td>
+                <td>Revise the Billing & Licensing Overview page for better usability.</td>
+            </tr>
+        
+            <tr>
+                <td>162</td>
+                <td>Epic: Receipt Redesign</td>
+                <td>open</td>
+                <td>2023-11-19</td>
+                <td>514</td>
+                <td>ui/ux</td>
+                <td>Redesign receipts for better clarity and usability.</td>
+            </tr>
+        
+            <tr>
+                <td>163</td>
+                <td>Add warning module in stafftools when changing accounts with paid Marketplace apps to invoiced</td>
+                <td>open</td>
+                <td>2023-11-21</td>
+                <td>512</td>
+                <td>billing</td>
+                <td>Introduce a warning module in stafftools for account changes involving paid Marketplace apps.</td>
+            </tr>
+        
+            <tr>
+                <td>165</td>
+                <td>[Placeholder]  License / seat forecasting for metered Trials</td>
+                <td>open</td>
+                <td>2023-11-25</td>
+                <td>508</td>
+                <td>subscription</td>
+                <td>Develop forecasting tools for licenses and seats in metered trials.</td>
+            </tr>
+        
+            <tr>
+                <td>167</td>
+                <td>[Design Task] Improve the first time customer experience when a new user activates an Enterprise 30 day free trial</td>
+                <td>open</td>
+                <td>2023-11-29</td>
+                <td>504</td>
+                <td>ui/ux</td>
+                <td>Enhance the onboarding experience for new users activating an Enterprise free trial.</td>
+            </tr>
+        
+            <tr>
+                <td>168</td>
+                <td>[Design Task] Filling out billing info auto fills out the shipping info with the same address, then also shows error msg with shipping info</td>
+                <td>open</td>
+                <td>2023-12-01</td>
+                <td>502</td>
+                <td>billing</td>
+                <td>Fix auto-fill and error message issues with billing and shipping info.</td>
+            </tr>
+        
+            <tr>
+                <td>170</td>
+                <td>Accenture scalability and security challenges with regard to cost centers and Azure subscriptions</td>
+                <td>open</td>
+                <td>2023-12-05</td>
+                <td>498</td>
+                <td>billing</td>
+                <td>Address scalability and security challenges for Accenture related to cost centers and Azure subscriptions.</td>
+            </tr>
+        
+            <tr>
+                <td>171</td>
+                <td>[Design Task] How might we organize Licensing and Billing pages so usage reports make more sense</td>
+                <td>open</td>
+                <td>2023-12-07</td>
+                <td>496</td>
+                <td>billing</td>
+                <td>Reorganize Licensing and Billing pages for better understanding of usage reports.</td>
+            </tr>
+        
+            <tr>
+                <td>172</td>
+                <td>[Design Task] In product guidance to support net new Billing customers and Meuse customers transitioning over to Billing</td>
+                <td>open</td>
+                <td>2023-12-09</td>
+                <td>494</td>
+                <td>billing</td>
+                <td>Provide in-product guidance for new Billing customers and Meuse transitions.</td>
+            </tr>
+        
+            <tr>
+                <td>173</td>
+                <td>[TASK] Budget & alert notifications for Licenses</td>
+                <td>open</td>
+                <td>2023-12-11</td>
+                <td>492</td>
+                <td>subscription</td>
+                <td>Implement budget and alert notifications for licenses.</td>
+            </tr>
+        
+            <tr>
+                <td>174</td>
+                <td>Bring Copilot to the billing administration experience</td>
+                <td>open</td>
+                <td>2023-12-13</td>
+                <td>490</td>
+                <td>billing</td>
+                <td>Integrate Copilot into the billing administration experience.</td>
+            </tr>
+        
+            <tr>
+                <td>176</td>
+                <td>[Design Task] How might we create a page to view all usage whether it is free or paid so we can track overall usage (even with trials).</td>
+                <td>open</td>
+                <td>2023-12-17</td>
+                <td>486</td>
+                <td>ui/ux</td>
+                <td>Develop a unified page to track all usage, including free and paid.</td>
+            </tr>
+        
+            <tr>
+                <td>177</td>
+                <td>[Design Task] Reduce redundancy of showing the usage graph twice on "Overview" and "Usage"</td>
+                <td>open</td>
+                <td>2023-12-19</td>
+                <td>484</td>
+                <td>ui/ux</td>
+                <td>Eliminate redundancy by showing the usage graph only once.</td>
+            </tr>
+        
+            <tr>
+                <td>178</td>
+                <td>[Design Task] Billing information sometimes lives in Billing and Licensing, and other times lives in Settings</td>
+                <td>open</td>
+                <td>2023-12-21</td>
+                <td>482</td>
+                <td>billing</td>
+                <td>Standardize the location of billing information across Billing, Licensing, and Settings.</td>
+            </tr>
+        
+            <tr>
+                <td>179</td>
+                <td>[Design Task] Adding more clarity to the Payment options in Billing</td>
+                <td>open</td>
+                <td>2023-12-23</td>
+                <td>480</td>
+                <td>billing</td>
+                <td>Improve clarity of payment options in the billing section.</td>
+            </tr>
+        
+            <tr>
+                <td>180</td>
+                <td>[Design Task] When a customer has never done invoicing payments before, do not show the past invoices page</td>
+                <td>open</td>
+                <td>2023-12-25</td>
+                <td>478</td>
+                <td>billing</td>
+                <td>Hide the past invoices page for customers new to invoicing payments.</td>
+            </tr>
+        
+            <tr>
+                <td>182</td>
+                <td>[Design Task] How do we show more billing functionality to users during the trial?</td>
+                <td>open</td>
+                <td>2023-12-29</td>
+                <td>474</td>
+                <td>billing</td>
+                <td>Explore ways to showcase more billing functionality during user trials.</td>
+            </tr>
+        
+            <tr>
+                <td>183</td>
+                <td>[Design Task] Improve budgets feature</td>
+                <td>open</td>
+                <td>2023-12-31</td>
+                <td>472</td>
+                <td>ui/ux</td>
+                <td>Enhance the budgets feature for better usability.</td>
+            </tr>
+        
+            <tr>
+                <td>184</td>
+                <td>[Design Task] Reorganizing the information in Billing to better organize and consider removing pages like billing contacts, past invoices</td>
+                <td>open</td>
+                <td>2024-01-02</td>
+                <td>470</td>
+                <td>billing</td>
+                <td>Reorganize billing information and consider removing redundant pages.</td>
+            </tr>
+        
+            <tr>
+                <td>186</td>
+                <td>[Feature Request]: Additional Payment Methods in India and Europe</td>
+                <td>open</td>
+                <td>2024-01-06</td>
+                <td>466</td>
+                <td>billing</td>
+                <td>Introduce additional payment methods for users in India and Europe.</td>
+            </tr>
+        
+            <tr>
+                <td>188</td>
+                <td>Question: Billing for GitHub Models</td>
+                <td>open</td>
+                <td>2024-01-10</td>
+                <td>462</td>
+                <td>billing</td>
+                <td>Clarify billing processes for GitHub Models.</td>
+            </tr>
+        
+            <tr>
+                <td>192</td>
+                <td>[Bug] Org owner cannot create cost centers with their org -- Comcast</td>
+                <td>open</td>
+                <td>2024-01-18</td>
+                <td>454</td>
+                <td>billing</td>
+                <td>Fix bug preventing org owners from creating cost centers with their organization.</td>
+            </tr>
+        
+            <tr>
+                <td>194</td>
+                <td>[Epic] Update CanProceedWithUsage Logic and Alerts (Copilot)</td>
+                <td>open</td>
+                <td>2024-01-22</td>
+                <td>450</td>
+                <td>copilot</td>
+                <td>Revise CanProceedWithUsage logic and alerts for Copilot.</td>
+            </tr>
+        
+            <tr>
+                <td>195</td>
+                <td>vNext GA Bug - Budget Email Alerts</td>
+                <td>open</td>
+                <td>2024-01-24</td>
+                <td>448</td>
+                <td>copilot</td>
+                <td>Fix bugs related to budget email alerts in vNext GA.</td>
+            </tr>
+        
+            <tr>
+                <td>196</td>
+                <td>Budgets UI should display budget type</td>
+                <td>open</td>
+                <td>2024-01-26</td>
+                <td>446</td>
+                <td>ui/ux</td>
+                <td>Update the Budgets UI to display the type of budget.</td>
+            </tr>
+        
+            <tr>
+                <td>197</td>
+                <td>[Epic] Actions non-billable usage minutes</td>
+                <td>open</td>
+                <td>2024-01-28</td>
+                <td>444</td>
+                <td>epic</td>
+                <td>Enable tracking of non-billable usage minutes for Actions.</td>
+            </tr>
+        
+            <tr>
+                <td>200</td>
+                <td>[Epic]Add user to cost center when invited to org</td>
+                <td>open</td>
+                <td>2024-02-03</td>
+                <td>438</td>
+                <td>billing</td>
+                <td>Automatically add users to cost centers when invited to an organization.</td>
+            </tr>
+        
+            <tr>
+                <td>203</td>
+                <td>Billing vNext Customer Feedback: Amway</td>
+                <td>open</td>
+                <td>2024-02-09</td>
+                <td>432</td>
+                <td>billing</td>
+                <td>Address customer feedback from Amway regarding Billing vNext.</td>
+            </tr>
+        
+            <tr>
+                <td>204</td>
+                <td>Control included minutes consumption & show included minutes in usage report -</td>
+                <td>open</td>
+                <td>2024-02-11</td>
+                <td>430</td>
+                <td>other</td>
+                <td>Provide controls for included minutes consumption and display them in usage reports.</td>
+            </tr>
+        
+            <tr>
+                <td>206</td>
+                <td>Customizable usage reports  </td>
+                <td>open</td>
+                <td>2024-02-15</td>
+                <td>426</td>
+                <td>other</td>
+                <td>Enable customization of usage reports for tailored insights.</td>
+            </tr>
+        
+            <tr>
+                <td>207</td>
+                <td>[Epic] Feature parity for Usage API</td>
+                <td>open</td>
+                <td>2024-02-17</td>
+                <td>424</td>
+                <td>infrastructure</td>
+                <td>Achieve feature parity for the Usage API across platforms.</td>
+            </tr>
+        
+            <tr>
+                <td>208</td>
+                <td>[from Support] Change request: Add `Are you sure?` modal to Copilot trial upgrade flow</td>
+                <td>open</td>
+                <td>2024-02-19</td>
+                <td>422</td>
+                <td>copilot</td>
+                <td>Introduce a confirmation modal in the Copilot trial upgrade flow.</td>
+            </tr>
+        
+            <tr>
+                <td>209</td>
+                <td>Epic: Usage page improvements</td>
+                <td>open</td>
+                <td>2024-02-21</td>
+                <td>420</td>
+                <td>other</td>
+                <td>Enhance the usage page for better user experience and insights.</td>
+            </tr>
+        
+            <tr>
+                <td>211</td>
+                <td>[Initiative] Lost Revenue</td>
+                <td>open</td>
+                <td>2024-02-25</td>
+                <td>416</td>
+                <td>other</td>
+                <td>Address issues related to lost revenue and improve recovery mechanisms.</td>
+            </tr>
+        
+            <tr>
+                <td>212</td>
+                <td>[Initiative] CanProceedWithUsage unified experience</td>
+                <td>open</td>
+                <td>2024-02-27</td>
+                <td>414</td>
+                <td>ui/ux</td>
+                <td>Create a unified experience for CanProceedWithUsage functionality.</td>
+            </tr>
+        
+            <tr>
+                <td>218</td>
+                <td>Initiative: Usage reports improvements</td>
+                <td>open</td>
+                <td>2024-03-10</td>
+                <td>402</td>
+                <td>other</td>
+                <td>Enhance usage reports for better insights and usability.</td>
+            </tr>
+        
+            <tr>
+                <td>219</td>
+                <td>Request a feature for making included actions minutes configurable</td>
+                <td>open</td>
+                <td>2024-03-12</td>
+                <td>400</td>
+                <td>feature</td>
+                <td>Enable configuration of included actions minutes for better customization.</td>
+            </tr>
+        
+            <tr>
+                <td>220</td>
+                <td>[TASK]Remove deleted Cost Centers from UI/API results</td>
+                <td>open</td>
+                <td>2024-03-14</td>
+                <td>398</td>
+                <td>billing</td>
+                <td>Exclude deleted cost centers from UI and API results.</td>
+            </tr>
+        
+            <tr>
+                <td>221</td>
+                <td>Find ways to make connecting an Azure subscription easier and scalable</td>
+                <td>open</td>
+                <td>2024-03-16</td>
+                <td>396</td>
+                <td>subscription</td>
+                <td>Simplify and scale the process of connecting Azure subscriptions.</td>
+            </tr>
+        
+            <tr>
+                <td>222</td>
+                <td>[Initiative] Promotions (Discounts, Coupons, Credits) for Vol and Metered</td>
+                <td>open</td>
+                <td>2024-03-18</td>
+                <td>394</td>
+                <td>other</td>
+                <td>Implement promotions including discounts, coupons, and credits for volume and metered billing.</td>
+            </tr>
+        
+            <tr>
+                <td>228</td>
+                <td>Incremental coupon improvements - `Microsoft for Startups` </td>
+                <td>open</td>
+                <td>2024-03-30</td>
+                <td>382</td>
+                <td>other</td>
+                <td>Enhance coupon functionality for the `Microsoft for Startups` program.</td>
+            </tr>
+        
+            <tr>
+                <td>229</td>
+                <td>`Manage seats` button missing from enterprise accounts with failed payments</td>
+                <td>open</td>
+                <td>2024-04-01</td>
+                <td>380</td>
+                <td>billing</td>
+                <td>Restore the `Manage seats` button for enterprise accounts with failed payments.</td>
+            </tr>
+        
+            <tr>
+                <td>230</td>
+                <td>Epic: Metered Coupons</td>
+                <td>open</td>
+                <td>2024-04-03</td>
+                <td>378</td>
+                <td>other</td>
+                <td>Develop metered coupons for better promotional offers.</td>
+            </tr>
+        
+            <tr>
+                <td>231</td>
+                <td>Epic: Phase 3 of Promotions and Discounts on BvN</td>
+                <td>open</td>
+                <td>2024-04-05</td>
+                <td>376</td>
+                <td>other</td>
+                <td>Implement Phase 3 of promotions and discounts on BvN.</td>
+            </tr>
+        
+            <tr>
+                <td>232</td>
+                <td>Product Hub Links Overview</td>
+                <td>open</td>
+                <td>2024-04-07</td>
+                <td>374</td>
+                <td>other</td>
+                <td>Provide an overview of Product Hub links for better navigation.</td>
+            </tr>
+        
+            <tr>
+                <td>234</td>
+                <td>Custom discounts on vNext</td>
+                <td>open</td>
+                <td>2024-04-11</td>
+                <td>370</td>
+                <td>other</td>
+                <td>Enable custom discounts for users on the vNext platform.</td>
+            </tr>
+        
+            <tr>
+                <td>235</td>
+                <td>Billing FGPs/ Roles and Permissions - based on the Enterprise Roles and Permissions (ERP) initiative</td>
+                <td>open</td>
+                <td>2024-04-13</td>
+                <td>368</td>
+                <td>billing</td>
+                <td>Develop Billing FGPs aligned with the Enterprise Roles and Permissions initiative.</td>
+            </tr>
+        
+            <tr>
+                <td>244</td>
+                <td>Cost center auditlogs/ webhooks</td>
+                <td>open</td>
+                <td>2024-05-01</td>
+                <td>350</td>
+                <td>billing</td>
+                <td>Introduce audit logs and webhooks for cost center activities.</td>
+            </tr>
+        
+            <tr>
+                <td>245</td>
+                <td>Improve product summary carousel</td>
+                <td>open</td>
+                <td>2024-05-03</td>
+                <td>348</td>
+                <td>other</td>
+                <td>Enhance the product summary carousel for better user interaction.</td>
+            </tr>
+        
+            <tr>
+                <td>247</td>
+                <td>Feature Request/Customer Feedback - Make adding/removing/updating repos scalable</td>
+                <td>open</td>
+                <td>2024-05-07</td>
+                <td>344</td>
+                <td>feature</td>
+                <td>Enable scalable addition, removal, and updating of repositories based on customer feedback.</td>
+            </tr>
+        
+            <tr>
+                <td>249</td>
+                <td>[TASK] Design explorations</td>
+                <td>open</td>
+                <td>2024-05-11</td>
+                <td>340</td>
+                <td>ui/ux</td>
+                <td>Conduct design explorations for improved user experience.</td>
+            </tr>
+        
+            <tr>
+                <td>250</td>
+                <td>Billing FGPs for Cost centers</td>
+                <td>open</td>
+                <td>2024-05-13</td>
+                <td>338</td>
+                <td>billing</td>
+                <td>Develop Billing FGPs tailored for cost centers.</td>
+            </tr>
+        
+            <tr>
+                <td>251</td>
+                <td>Add REST API endpoint to list Cost Center resources</td>
+                <td>open</td>
+                <td>2024-05-15</td>
+                <td>336</td>
+                <td>billing</td>
+                <td>Create a REST API endpoint to list resources associated with cost centers.</td>
+            </tr>
+        
+            <tr>
+                <td>252</td>
+                <td>FTC - Click to cancel - subscriptions compliance</td>
+                <td>open</td>
+                <td>2024-05-17</td>
+                <td>334</td>
+                <td>subscription</td>
+                <td>Ensure compliance with FTC regulations for subscription cancellation.</td>
+            </tr>
+        
+            <tr>
+                <td>253</td>
+                <td>Need help understanding payment methods available for invoiced customers on different billing platforms (Meuse and vNext) for Invoiced Accounts</td>
+                <td>open</td>
+                <td>2024-05-19</td>
+                <td>332</td>
+                <td>billing</td>
+                <td>Clarify payment methods for invoiced customers across Meuse and vNext platforms.</td>
+            </tr>
+        
+            <tr>
+                <td>261</td>
+                <td>[Feature request] - Provide invoices for manual and failed payments</td>
+                <td>open</td>
+                <td>2024-06-04</td>
+                <td>316</td>
+                <td>billing</td>
+                <td>Enable generation of invoices for manual and failed payments.</td>
+            </tr>
+        
+            <tr>
+                <td>263</td>
+                <td>Elsevier - RELX - Customer feedback on Billing platform</td>
+                <td>open</td>
+                <td>2024-06-08</td>
+                <td>312</td>
+                <td>billing</td>
+                <td>Address customer feedback from Elsevier - RELX regarding the billing platform.</td>
+            </tr>
+        
+            <tr>
+                <td>267</td>
+                <td>[Epic] Provide anomaly detection to increase customer confidence in metered consumption model</td>
+                <td>open</td>
+                <td>2024-06-16</td>
+                <td>304</td>
+                <td>copilot</td>
+                <td>Implement anomaly detection to boost customer confidence in the metered consumption model.</td>
+            </tr>
+        
+            <tr>
+                <td>272</td>
+                <td>How to monitor Actions Storage/alert when usage spikes or starts to take upward trends</td>
+                <td>open</td>
+                <td>2024-06-26</td>
+                <td>294</td>
+                <td>other</td>
+                <td>Develop monitoring and alerting mechanisms for Actions Storage usage trends.</td>
+            </tr>
+        
+            <tr>
+                <td>275</td>
+                <td>[vNext Feedback] - Confusion in Copilot billing information between enterprise and org</td>
+                <td>open</td>
+                <td>2024-07-02</td>
+                <td>288</td>
+                <td>billing</td>
+                <td>Address confusion in Copilot billing information between enterprise and organization levels.</td>
+            </tr>
+        
+            <tr>
+                <td>277</td>
+                <td>Improve Org to Enterprise upgrade path</td>
+                <td>open</td>
+                <td>2024-07-06</td>
+                <td>284</td>
+                <td>enterprise</td>
+                <td>Enhance the upgrade path from Organization to Enterprise for better user experience.</td>
+            </tr>
+        
+            <tr>
+                <td>278</td>
+                <td>[TASK] Billing & Licensing UI patterns</td>
+                <td>open</td>
+                <td>2024-07-08</td>
+                <td>282</td>
+                <td>billing</td>
+                <td>Develop consistent UI patterns for Billing & Licensing.</td>
+            </tr>
+        
+            <tr>
+                <td>282</td>
+                <td>[Batch] Remove mention of "included minutes" in Actions entitlements</td>
+                <td>open</td>
+                <td>2024-07-16</td>
+                <td>274</td>
+                <td>other</td>
+                <td>Eliminate references to "included minutes" in Actions entitlements.</td>
+            </tr>
+        
+            <tr>
+                <td>283</td>
+                <td>[Feedback] - Clarification concerning cost centers and volume GHE</td>
+                <td>open</td>
+                <td>2024-07-18</td>
+                <td>272</td>
+                <td>billing</td>
+                <td>Provide clarification on cost centers and volume GHE based on feedback.</td>
+            </tr>
+        
+            <tr>
+                <td>286</td>
+                <td>[Design support to Sean] Integrate Copilot Business licensing journey into the enterprise layer.</td>
+                <td>open</td>
+                <td>2024-07-24</td>
+                <td>266</td>
+                <td>ui/ux</td>
+                <td>Assist in integrating Copilot Business licensing journey into the enterprise layer.</td>
+            </tr>
+        
+            <tr>
+                <td>287</td>
+                <td>Require that all emissions to billing platform include `orgID`</td>
+                <td>open</td>
+                <td>2024-07-26</td>
+                <td>264</td>
+                <td>billing</td>
+                <td>Mandate inclusion of `orgID` in all emissions to the billing platform.</td>
+            </tr>
+        
+            <tr>
+                <td>288</td>
+                <td>[Task]  Remove SKUs that are unbilled in the usage report</td>
+                <td>open</td>
+                <td>2024-07-28</td>
+                <td>262</td>
+                <td>other</td>
+                <td>Exclude unbilled SKUs from the usage report for better accuracy.</td>
+            </tr>
+        
+            <tr>
+                <td>293</td>
+                <td>Clarify the `Advanced Security enabled` and `Advanced Security via metered billing` values in stafftools</td>
+                <td>open</td>
+                <td>2024-08-07</td>
+                <td>252</td>
+                <td>billing</td>
+                <td>Provide clarity on `Advanced Security enabled` and `Advanced Security via metered billing` values in stafftools.</td>
+            </tr>
+        
+            <tr>
+                <td>294</td>
+                <td>Clean up references to data packs for customers that are on metered LFS</td>
+                <td>open</td>
+                <td>2024-08-09</td>
+                <td>250</td>
+                <td>other</td>
+                <td>Remove outdated references to data packs for customers using metered LFS.</td>
+            </tr>
+        
+            <tr>
+                <td>295</td>
+                <td>Update stafftools for orgs on team plan on vnext</td>
+                <td>open</td>
+                <td>2024-08-11</td>
+                <td>248</td>
+                <td>subscription</td>
+                <td>Enhance stafftools to support organizations on the Team plan in vNext.</td>
+            </tr>
+        
+            <tr>
+                <td>299</td>
+                <td>Track Billing documentation issues</td>
+                <td>open</td>
+                <td>2024-08-19</td>
+                <td>240</td>
+                <td>billing</td>
+                <td>Monitor and address issues in billing documentation for better accuracy.</td>
+            </tr>
+        
+            <tr>
+                <td>300</td>
+                <td>How might we make included usage more easily discoverable?</td>
+                <td>open</td>
+                <td>2024-08-21</td>
+                <td>238</td>
+                <td>other</td>
+                <td>Explore ways to improve discoverability of included usage for users.</td>
+            </tr>
+        
+            <tr>
+                <td>301</td>
+                <td>Call Request for Wells Fargo</td>
+                <td>open</td>
+                <td>2024-08-23</td>
+                <td>236</td>
+                <td>other</td>
+                <td>Schedule a call with Wells Fargo to discuss their requirements.</td>
+            </tr>
+        
+            <tr>
+                <td>305</td>
+                <td>[Task] Update stafftools for orgs on Free plan on vnext</td>
+                <td>open</td>
+                <td>2024-08-31</td>
+                <td>228</td>
+                <td>subscription</td>
+                <td>Enhance stafftools to support organizations on the Free plan in vNext.</td>
+            </tr>
+        
+            <tr>
+                <td>308</td>
+                <td>[Task] Consolidate Team line items on Zuora invoices</td>
+                <td>open</td>
+                <td>2024-09-06</td>
+                <td>222</td>
+                <td>billing</td>
+                <td>Combine Team line items on Zuora invoices for better clarity.</td>
+            </tr>
+        
+            <tr>
+                <td>309</td>
+                <td>Call Request for Boston Consulting Group</td>
+                <td>open</td>
+                <td>2024-09-08</td>
+                <td>220</td>
+                <td>other</td>
+                <td>Arrange a call with Boston Consulting Group to address their concerns.</td>
+            </tr>
+        
+            <tr>
+                <td>311</td>
+                <td>vNext GA - Enhance docs for usage reports</td>
+                <td>open</td>
+                <td>2024-09-12</td>
+                <td>216</td>
+                <td>documentation</td>
+                <td>Improve documentation for usage reports in vNext GA.</td>
+            </tr>
+        
+            <tr>
+                <td>317</td>
+                <td>initial draft of fetch-all-usage.py</td>
+                <td>open</td>
+                <td>2024-09-24</td>
+                <td>204</td>
+                <td>other</td>
+                <td>Create an initial draft of the fetch-all-usage.py script for usage data retrieval.</td>
+            </tr>
+        
+            <tr>
+                <td>322</td>
+                <td>[TASK] Update budget and alerts docs to explain budget scopes</td>
+                <td>open</td>
+                <td>2024-10-04</td>
+                <td>194</td>
+                <td>copilot</td>
+                <td>Revise documentation to clearly explain budget scopes and alerts.</td>
+            </tr>
+        
+            <tr>
+                <td>326</td>
+                <td>Customer feedback : Allow assigning a specific repository to a cost center</td>
+                <td>open</td>
+                <td>2024-10-12</td>
+                <td>186</td>
+                <td>billing</td>
+                <td>Enable assignment of specific repositories to cost centers based on customer feedback.</td>
+            </tr>
+        
+            <tr>
+                <td>327</td>
+                <td>Split cost type/SKU across cost centers</td>
+                <td>open</td>
+                <td>2024-10-14</td>
+                <td>184</td>
+                <td>billing</td>
+                <td>Allow splitting of cost types/SKUs across multiple cost centers.</td>
+            </tr>
+        
+            <tr>
+                <td>329</td>
+                <td>New Billing -  Permissions too broad</td>
+                <td>open</td>
+                <td>2024-10-18</td>
+                <td>180</td>
+                <td>billing</td>
+                <td>Refine permissions in the new billing system to avoid excessive access.</td>
+            </tr>
+        
+            <tr>
+                <td>330</td>
+                <td>Cost Center APIs eventually consistent</td>
+                <td>open</td>
+                <td>2024-10-20</td>
+                <td>178</td>
+                <td>billing</td>
+                <td>Ensure eventual consistency in Cost Center APIs.</td>
+            </tr>
+        
+            <tr>
+                <td>332</td>
+                <td>Customers want to assign an Enterprise Team(s) to budget alerts</td>
+                <td>open</td>
+                <td>2024-10-24</td>
+                <td>174</td>
+                <td>enterprise</td>
+                <td>Enable assignment of budget alerts to specific Enterprise Teams.</td>
+            </tr>
+        
+            <tr>
+                <td>334</td>
+                <td>Make it clear at what time usage resets each month</td>
+                <td>open</td>
+                <td>2024-10-28</td>
+                <td>170</td>
+                <td>other</td>
+                <td>Clarify the monthly usage reset time for users.</td>
+            </tr>
+        
+            <tr>
+                <td>335</td>
+                <td>[Epic] Email address customization for billing receipts and usage reports</td>
+                <td>open</td>
+                <td>2024-10-30</td>
+                <td>168</td>
+                <td>billing</td>
+                <td>Allow customization of email addresses for billing receipts and usage reports.</td>
+            </tr>
+        
+            <tr>
+                <td>336</td>
+                <td>[Initiative] Budget improvements</td>
+                <td>open</td>
+                <td>2024-11-01</td>
+                <td>166</td>
+                <td>other</td>
+                <td>Implement enhancements to the budget management system.</td>
+            </tr>
+        
+            <tr>
+                <td>337</td>
+                <td>[Epic] Assign anyone to receive budget alerts</td>
+                <td>open</td>
+                <td>2024-11-03</td>
+                <td>164</td>
+                <td>epic</td>
+                <td>Enable assignment of budget alerts to any user for better notification management.</td>
+            </tr>
+        
+            <tr>
+                <td>339</td>
+                <td>Customers want to track the progress of their included usage</td>
+                <td>open</td>
+                <td>2024-11-07</td>
+                <td>160</td>
+                <td>other</td>
+                <td>Provide tools for customers to monitor their included usage progress.</td>
+            </tr>
+        
+            <tr>
+                <td>342</td>
+                <td>Epic: Customers want to manage cost centers at the product level</td>
+                <td>open</td>
+                <td>2024-11-13</td>
+                <td>154</td>
+                <td>billing</td>
+                <td>Enable cost center management at the product level for customers.</td>
+            </tr>
+        
+            <tr>
+                <td>343</td>
+                <td>Customer feedback to clarify public docs on base Enterprise Azure subscription charges</td>
+                <td>open</td>
+                <td>2024-11-15</td>
+                <td>152</td>
+                <td>billing</td>
+                <td>Update public documentation to clarify charges for base Enterprise Azure subscriptions.</td>
+            </tr>
+        
+            <tr>
+                <td>344</td>
+                <td>Design for Hard Budgets for License-based products</td>
+                <td>open</td>
+                <td>2024-11-17</td>
+                <td>150</td>
+                <td>subscription</td>
+                <td>Create designs for implementing hard budgets for license-based products.</td>
+            </tr>
+        
+            <tr>
+                <td>345</td>
+                <td>Add ability to choose between what email to send billing reports to</td>
+                <td>open</td>
+                <td>2024-11-19</td>
+                <td>148</td>
+                <td>billing</td>
+                <td>Allow users to select the email address for receiving billing reports.</td>
+            </tr>
+        
+            <tr>
+                <td>346</td>
+                <td>[TASK] Skipped billing dashboard improvements</td>
+                <td>open</td>
+                <td>2024-11-21</td>
+                <td>146</td>
+                <td>billing</td>
+                <td>Enhance the dashboard for skipped billing scenarios.</td>
+            </tr>
+        
+            <tr>
+                <td>348</td>
+                <td>Showing LFS SSH deploy key activity in usage reports</td>
+                <td>open</td>
+                <td>2024-11-25</td>
+                <td>142</td>
+                <td>other</td>
+                <td>Display LFS SSH deploy key activity in usage reports for better tracking.</td>
+            </tr>
+        
+            <tr>
+                <td>349</td>
+                <td>[Epic] UX Improvements Q4FY25</td>
+                <td>open</td>
+                <td>2024-11-27</td>
+                <td>140</td>
+                <td>ui/ux</td>
+                <td>Plan and execute UX improvements for Q4FY25.</td>
+            </tr>
+        
+            <tr>
+                <td>350</td>
+                <td>[Epic] UX Improvements Q1FY26</td>
+                <td>open</td>
+                <td>2024-11-29</td>
+                <td>138</td>
+                <td>ui/ux</td>
+                <td>Plan and execute UX improvements for Q1FY26.</td>
+            </tr>
+        
+            <tr>
+                <td>351</td>
+                <td>[Epic] CanProceedWithUsage for GHAS (unbundled teams plan)</td>
+                <td>open</td>
+                <td>2024-12-01</td>
+                <td>136</td>
+                <td>subscription</td>
+                <td>Enable CanProceedWithUsage functionality for GHAS under the unbundled teams plan.</td>
+            </tr>
+        
+            <tr>
+                <td>353</td>
+                <td>[Epic] AI for Billing / Licensing - Smart Budgets / Budget Recommendations</td>
+                <td>open</td>
+                <td>2024-12-05</td>
+                <td>132</td>
+                <td>billing</td>
+                <td>Leverage AI to enhance billing and licensing with smart budgets and recommendations.</td>
+            </tr>
+        
+            <tr>
+                <td>354</td>
+                <td>Phase 1: Enterprise / Organizational Usage Prediction</td>
+                <td>open</td>
+                <td>2024-12-07</td>
+                <td>130</td>
+                <td>enterprise</td>
+                <td>Develop predictive analytics for enterprise and organizational usage.</td>
+            </tr>
+        
+            <tr>
+                <td>355</td>
+                <td>Phase 2: Anomaly Detection for Usage</td>
+                <td>open</td>
+                <td>2024-12-09</td>
+                <td>128</td>
+                <td>other</td>
+                <td>Introduce anomaly detection mechanisms to monitor usage patterns.</td>
+            </tr>
+        
+            <tr>
+                <td>356</td>
+                <td>Phase 3: Smart Budget Management / Budget Recommendations</td>
+                <td>open</td>
+                <td>2024-12-11</td>
+                <td>126</td>
+                <td>enterprise</td>
+                <td>Implement advanced budget management and recommendation features.</td>
+            </tr>
+        
+            <tr>
+                <td>360</td>
+                <td>Add descriptions to cost centers</td>
+                <td>open</td>
+                <td>2024-12-19</td>
+                <td>118</td>
+                <td>billing</td>
+                <td>Enable the addition of descriptive information to cost centers for clarity.</td>
+            </tr>
+        
+            <tr>
+                <td>363</td>
+                <td>Provide an API to manage budgets</td>
+                <td>open</td>
+                <td>2024-12-25</td>
+                <td>112</td>
+                <td>infrastructure</td>
+                <td>Develop an API to facilitate budget management for users.</td>
+            </tr>
+        
+            <tr>
+                <td>364</td>
+                <td>Add tracking information to events for budget updates (unable to tell which budgets are updated or how modified)</td>
+                <td>open</td>
+                <td>2024-12-27</td>
+                <td>110</td>
+                <td>other</td>
+                <td>Include tracking details in budget update events for better traceability.</td>
+            </tr>
+        
+            <tr>
+                <td>366</td>
+                <td>Expose `billing.budget_*` audit log events so they are customer accessible</td>
+                <td>open</td>
+                <td>2024-12-31</td>
+                <td>106</td>
+                <td>billing</td>
+                <td>Make `billing.budget_*` audit log events accessible to customers for transparency.</td>
+            </tr>
+        
+            <tr>
+                <td>367</td>
+                <td>Cost Centers: Add search to Azure Subscription ID dropdown</td>
+                <td>open</td>
+                <td>2025-01-02</td>
+                <td>104</td>
+                <td>billing</td>
+                <td>Introduce search functionality to the Azure Subscription ID dropdown in cost centers.</td>
+            </tr>
+        
+            <tr>
+                <td>370</td>
+                <td>Cost center navigation improvements: search, filter, sort</td>
+                <td>open</td>
+                <td>2025-01-08</td>
+                <td>98</td>
+                <td>billing</td>
+                <td>Enhance cost center navigation with improved search, filter, and sort functionalities.</td>
+            </tr>
+        
+            <tr>
+                <td>371</td>
+                <td>Simplify complex billing language in the UI to improve accessibility for all users</td>
+                <td>open</td>
+                <td>2025-01-10</td>
+                <td>96</td>
+                <td>billing</td>
+                <td>Simplify billing-related language in the UI for enhanced user accessibility.</td>
+            </tr>
+        
+            <tr>
+                <td>372</td>
+                <td>Call Request for Pictet Group</td>
+                <td>open</td>
+                <td>2025-01-12</td>
+                <td>94</td>
+                <td>other</td>
+                <td>Arrange a call with Pictet Group to address their specific needs.</td>
+            </tr>
+        
+            <tr>
+                <td>373</td>
+                <td>Initiative - follow up work for Copilot premium requests</td>
+                <td>open</td>
+                <td>2025-01-14</td>
+                <td>92</td>
+                <td>copilot</td>
+                <td>Conduct follow-up tasks related to Copilot premium feature requests.</td>
+            </tr>
+        
+            <tr>
+                <td>374</td>
+                <td>Consistent language "Plans" and "Subscriptions"</td>
+                <td>open</td>
+                <td>2025-01-16</td>
+                <td>90</td>
+                <td>subscription</td>
+                <td>Standardize terminology for "Plans" and "Subscriptions" across the platform.</td>
+            </tr>
+        
+            <tr>
+                <td>375</td>
+                <td>Update references to Meuse APIs</td>
+                <td>open</td>
+                <td>2025-01-18</td>
+                <td>88</td>
+                <td>infrastructure</td>
+                <td>Refresh and update references to Meuse APIs for better integration.</td>
+            </tr>
+        
+            <tr>
+                <td>377</td>
+                <td>Send emails when included usage is exhausted</td>
+                <td>open</td>
+                <td>2025-01-22</td>
+                <td>84</td>
+                <td>copilot</td>
+                <td>Implement email notifications for users when their included usage is fully utilized.</td>
+            </tr>
+        
+            <tr>
+                <td>378</td>
+                <td>Fix the iconography of the prepaid credits textbox on the Overview page</td>
+                <td>open</td>
+                <td>2025-01-24</td>
+                <td>82</td>
+                <td>copilot</td>
+                <td>Correct the visual representation of the prepaid credits textbox on the Overview page.</td>
+            </tr>
+        
+            <tr>
+                <td>379</td>
+                <td>Request a feature for Invoiced accounts to store and have recurring payments for invoices/metered payments</td>
+                <td>open</td>
+                <td>2025-01-26</td>
+                <td>80</td>
+                <td>billing</td>
+                <td>Add functionality for invoiced accounts to save and automate recurring payments for invoices.</td>
+            </tr>
+        
+            <tr>
+                <td>381</td>
+                <td>Remove the option to create repo-scoped budgets for Packages</td>
+                <td>open</td>
+                <td>2025-01-30</td>
+                <td>76</td>
+                <td>other</td>
+                <td>Eliminate the ability to create repo-scoped budgets for Packages to streamline budget management.</td>
+            </tr>
+        
+            <tr>
+                <td>382</td>
+                <td>Update documentation to reflect the limitations of Packages emissions due to lack of repo information</td>
+                <td>open</td>
+                <td>2025-02-01</td>
+                <td>74</td>
+                <td>documentation</td>
+                <td>Revise documentation to highlight limitations in Packages emissions caused by missing repo data.</td>
+            </tr>
+        
+            <tr>
+                <td>383</td>
+                <td>Identify, communicate, and shut down all existing repo-scoped budgets for Packages</td>
+                <td>open</td>
+                <td>2025-02-03</td>
+                <td>72</td>
+                <td>other</td>
+                <td>Ensure all repo-scoped budgets for Packages are identified, communicated, and deactivated.</td>
+            </tr>
+        
+            <tr>
+                <td>384</td>
+                <td>[Epic] Add support to manage Budgets via GitHub teams</td>
+                <td>open</td>
+                <td>2025-02-05</td>
+                <td>70</td>
+                <td>enterprise</td>
+                <td>Enable budget management through GitHub teams for better collaboration.</td>
+            </tr>
+        
+            <tr>
+                <td>386</td>
+                <td>Call Request for Epic Games</td>
+                <td>open</td>
+                <td>2025-02-09</td>
+                <td>66</td>
+                <td>other</td>
+                <td>Schedule a call with Epic Games to discuss their requirements.</td>
+            </tr>
+        
+            <tr>
+                <td>387</td>
+                <td>Publish individuals API documentation</td>
+                <td>open</td>
+                <td>2025-02-11</td>
+                <td>64</td>
+                <td>infrastructure</td>
+                <td>Release API documentation for individual users.</td>
+            </tr>
+        
+            <tr>
+                <td>388</td>
+                <td>[Bug] Disparity between REST API and Enterprise Billing Dashboard</td>
+                <td>open</td>
+                <td>2025-02-13</td>
+                <td>62</td>
+                <td>billing</td>
+                <td>Resolve discrepancies between REST API and Enterprise Billing Dashboard.</td>
+            </tr>
+        
+            <tr>
+                <td>389</td>
+                <td>[Epic]: Enforce trust-tier spending limit with vNext budget</td>
+                <td>open</td>
+                <td>2025-02-15</td>
+                <td>60</td>
+                <td>subscription</td>
+                <td>Implement trust-tier spending limits with vNext budget.</td>
+            </tr>
+        
+            <tr>
+                <td>390</td>
+                <td>[Epic] Billing For GitHub Models</td>
+                <td>open</td>
+                <td>2025-02-17</td>
+                <td>58</td>
+                <td>billing</td>
+                <td>Develop billing solutions tailored for GitHub Models.</td>
+            </tr>
+        
+            <tr>
+                <td>391</td>
+                <td>Investigate and address unbilled usage on Proxima</td>
+                <td>open</td>
+                <td>2025-02-19</td>
+                <td>56</td>
+                <td>other</td>
+                <td>Investigate and resolve issues related to unbilled usage on Proxima.</td>
+            </tr>
+        
+            <tr>
+                <td>392</td>
+                <td>Feature request: Ability to pre-pay for LFS Bandwidth on vNext at reduced rate</td>
+                <td>open</td>
+                <td>2025-02-21</td>
+                <td>54</td>
+                <td>feature</td>
+                <td>Introduce a feature to allow pre-payment for LFS Bandwidth at a discounted rate.</td>
+            </tr>
+        
+            <tr>
+                <td>393</td>
+                <td>Questions from Porsche re Cost Centers</td>
+                <td>open</td>
+                <td>2025-02-23</td>
+                <td>52</td>
+                <td>billing</td>
+                <td>Address Porsche's inquiries regarding cost center functionality.</td>
+            </tr>
+        
+            <tr>
+                <td>394</td>
+                <td>Call Request for Intel</td>
+                <td>open</td>
+                <td>2025-02-25</td>
+                <td>50</td>
+                <td>other</td>
+                <td>Coordinate a call with Intel to address specific concerns or requests.</td>
+            </tr>
+        
+            <tr>
+                <td>396</td>
+                <td>[Epic] Documentation improvements</td>
+                <td>open</td>
+                <td>2025-03-01</td>
+                <td>46</td>
+                <td>documentation</td>
+                <td>Improve and expand documentation for better user understanding.</td>
+            </tr>
+        
+            <tr>
+                <td>402</td>
+                <td>Clarify Billing Manager Permissions Documentation</td>
+                <td>open</td>
+                <td>2025-03-13</td>
+                <td>34</td>
+                <td>billing</td>
+                <td>Enhance documentation to clearly define Billing Manager permissions.</td>
+            </tr>
+        
+            <tr>
+                <td>403</td>
+                <td>Update banner verbiage for sku level budgets</td>
+                <td>open</td>
+                <td>2025-03-15</td>
+                <td>32</td>
+                <td>other</td>
+                <td>Update the banner text to improve clarity for SKU-level budget information.</td>
+            </tr>
+        
+        </table>
+    </body>
+    </html>
+    
