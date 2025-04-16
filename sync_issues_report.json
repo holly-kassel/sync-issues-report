@@ -2,981 +2,1177 @@
     {
         "issue_number": 403,
         "state": "open",
-        "title": "Update banner verbiage for sku level budgets"
+        "title": "Update banner verbiage for sku level budgets",
+        "AI Summary": "Update the banner text to improve clarity for SKU-level budget information."
     },
     {
         "issue_number": 402,
         "state": "open",
-        "title": "Clarify Billing Manager Permissions Documentation"
+        "title": "Clarify Billing Manager Permissions Documentation",
+        "AI Summary": "Enhance documentation to clearly define Billing Manager permissions."
     },
     {
         "issue_number": 396,
         "state": "open",
-        "title": "[Epic] Documentation improvements"
+        "title": "[Epic] Documentation improvements",
+        "AI Summary": "Improve and expand documentation for better user understanding."
     },
     {
         "issue_number": 394,
         "state": "open",
-        "title": "Call Request for Intel"
+        "title": "Call Request for Intel",
+        "AI Summary": "Coordinate a call with Intel to address specific concerns or requests."
     },
     {
         "issue_number": 393,
         "state": "open",
-        "title": "Questions from Porsche re Cost Centers"
+        "title": "Questions from Porsche re Cost Centers",
+        "AI Summary": "Address Porsche's inquiries regarding cost center functionality."
     },
     {
         "issue_number": 392,
         "state": "open",
-        "title": "Feature request: Ability to pre-pay for LFS Bandwidth on vNext at reduced rate"
+        "title": "Feature request: Ability to pre-pay for LFS Bandwidth on vNext at reduced rate",
+        "AI Summary": "Introduce a feature to allow pre-payment for LFS Bandwidth at a discounted rate."
     },
     {
         "issue_number": 391,
         "state": "open",
-        "title": "Investigate and address unbilled usage on Proxima"
+        "title": "Investigate and address unbilled usage on Proxima",
+        "AI Summary": "Investigate and resolve issues related to unbilled usage on Proxima."
     },
     {
         "issue_number": 390,
         "state": "open",
-        "title": "[Epic] Billing For GitHub Models"
+        "title": "[Epic] Billing For GitHub Models",
+        "AI Summary": "Develop billing solutions tailored for GitHub Models."
     },
     {
         "issue_number": 386,
         "state": "open",
-        "title": "Call Request for Epic Games"
+        "title": "Call Request for Epic Games",
+        "AI Summary": "Schedule a call with Epic Games to discuss their requirements."
     },
     {
         "issue_number": 384,
         "state": "open",
-        "title": "[Epic] Add support to manage Budgets via GitHub teams"
+        "title": "[Epic] Add support to manage Budgets via GitHub teams",
+        "AI Summary": "Enable budget management through GitHub teams for better collaboration."
     },
     {
         "issue_number": 383,
         "state": "open",
-        "title": "Identify, communicate, and shut down all existing repo-scoped budgets for Packages"
+        "title": "Identify, communicate, and shut down all existing repo-scoped budgets for Packages",
+        "AI Summary": "Ensure all repo-scoped budgets for Packages are identified, communicated, and deactivated."
     },
     {
         "issue_number": 382,
         "state": "open",
-        "title": "Update documentation to reflect the limitations of Packages emissions due to lack of repo information"
+        "title": "Update documentation to reflect the limitations of Packages emissions due to lack of repo information",
+        "AI Summary": "Revise documentation to highlight limitations in Packages emissions caused by missing repo data."
     },
     {
         "issue_number": 381,
         "state": "open",
-        "title": "Remove the option to create repo-scoped budgets for Packages"
+        "title": "Remove the option to create repo-scoped budgets for Packages",
+        "AI Summary": "Eliminate the ability to create repo-scoped budgets for Packages to streamline budget management."
     },
     {
         "issue_number": 379,
         "state": "open",
-        "title": "Request a feature for Invoiced accounts to store and have recurring payments for invoices/metered payments"
+        "title": "Request a feature for Invoiced accounts to store and have recurring payments for invoices/metered payments",
+        "AI Summary": "Add functionality for invoiced accounts to save and automate recurring payments for invoices."
     },
     {
         "issue_number": 378,
         "state": "open",
-        "title": "Fix the iconography of the prepaid credits textbox on the Overview page"
+        "title": "Fix the iconography of the prepaid credits textbox on the Overview page",
+        "AI Summary": "Correct the visual representation of the prepaid credits textbox on the Overview page."
     },
     {
         "issue_number": 377,
         "state": "open",
-        "title": "Send emails when included usage is exhausted"
+        "title": "Send emails when included usage is exhausted",
+        "AI Summary": "Implement email notifications for users when their included usage is fully utilized."
     },
     {
         "issue_number": 375,
         "state": "open",
-        "title": "Update references to Meuse APIs"
+        "title": "Update references to Meuse APIs",
+        "AI Summary": "Refresh and update references to Meuse APIs for better integration."
     },
     {
         "issue_number": 374,
         "state": "open",
-        "title": "Consistent language \"Plans\" and \"Subscriptions\""
+        "title": "Consistent language \"Plans\" and \"Subscriptions\"",
+        "AI Summary": "Standardize terminology for \"Plans\" and \"Subscriptions\" across the platform."
     },
     {
         "issue_number": 373,
         "state": "open",
-        "title": "Initiative - follow up work for Copilot premium requests"
+        "title": "Initiative - follow up work for Copilot premium requests",
+        "AI Summary": "Conduct follow-up tasks related to Copilot premium feature requests."
     },
     {
         "issue_number": 372,
         "state": "open",
-        "title": "Call Request for Pictet Group"
+        "title": "Call Request for Pictet Group",
+        "AI Summary": "Arrange a call with Pictet Group to address their specific needs."
     },
     {
         "issue_number": 371,
         "state": "open",
-        "title": "Simplify complex billing language in the UI to improve accessibility for all users"
+        "title": "Simplify complex billing language in the UI to improve accessibility for all users",
+        "AI Summary": "Simplify billing-related language in the UI for enhanced user accessibility."
     },
     {
         "issue_number": 370,
         "state": "open",
-        "title": "Cost center navigation improvements: search, filter, sort"
+        "title": "Cost center navigation improvements: search, filter, sort",
+        "AI Summary": "Enhance cost center navigation with improved search, filter, and sort functionalities."
     },
     {
         "issue_number": 367,
         "state": "open",
-        "title": "Cost Centers: Add search to Azure Subscription ID dropdown"
+        "title": "Cost Centers: Add search to Azure Subscription ID dropdown",
+        "AI Summary": "Introduce search functionality to the Azure Subscription ID dropdown in cost centers."
     },
     {
         "issue_number": 366,
         "state": "open",
-        "title": "Expose `billing.budget_*` audit log events so they are customer accessible"
+        "title": "Expose `billing.budget_*` audit log events so they are customer accessible",
+        "AI Summary": "Make `billing.budget_*` audit log events accessible to customers for transparency."
     },
     {
         "issue_number": 364,
         "state": "open",
-        "title": "Add tracking information to events for budget updates (unable to tell which budgets are updated or how modified)"
+        "title": "Add tracking information to events for budget updates (unable to tell which budgets are updated or how modified)",
+        "AI Summary": "Include tracking details in budget update events for better traceability."
     },
     {
         "issue_number": 363,
         "state": "open",
-        "title": "Provide an API to manage budgets"
+        "title": "Provide an API to manage budgets",
+        "AI Summary": "Develop an API to facilitate budget management for users."
     },
     {
         "issue_number": 360,
         "state": "open",
-        "title": "Add descriptions to cost centers"
+        "title": "Add descriptions to cost centers",
+        "AI Summary": "Enable the addition of descriptive information to cost centers for clarity."
     },
     {
         "issue_number": 356,
         "state": "open",
-        "title": "Phase 3: Smart Budget Management / Budget Recommendations"
+        "title": "Phase 3: Smart Budget Management / Budget Recommendations",
+        "AI Summary": "Implement advanced budget management and recommendation features."
     },
     {
         "issue_number": 355,
         "state": "open",
-        "title": "Phase 2: Anomaly Detection for Usage"
+        "title": "Phase 2: Anomaly Detection for Usage",
+        "AI Summary": "Introduce anomaly detection mechanisms to monitor usage patterns."
     },
     {
         "issue_number": 354,
         "state": "open",
-        "title": "Phase 1: Enterprise / Organizational Usage Prediction"
+        "title": "Phase 1: Enterprise / Organizational Usage Prediction",
+        "AI Summary": "Develop predictive analytics for enterprise and organizational usage."
     },
     {
         "issue_number": 353,
         "state": "open",
-        "title": "[Epic] AI for Billing / Licensing - Smart Budgets / Budget Recommendations"
+        "title": "[Epic] AI for Billing / Licensing - Smart Budgets / Budget Recommendations",
+        "AI Summary": "Leverage AI to enhance billing and licensing with smart budgets and recommendations."
     },
     {
         "issue_number": 351,
         "state": "open",
-        "title": "[Epic] CanProceedWithUsage for GHAS (unbundled teams plan)"
+        "title": "[Epic] CanProceedWithUsage for GHAS (unbundled teams plan)",
+        "AI Summary": "Enable CanProceedWithUsage functionality for GHAS under the unbundled teams plan."
     },
     {
         "issue_number": 350,
         "state": "open",
-        "title": "[Epic] UX Improvements Q1FY26"
+        "title": "[Epic] UX Improvements Q1FY26",
+        "AI Summary": "Plan and execute UX improvements for Q1FY26."
     },
     {
         "issue_number": 349,
         "state": "open",
-        "title": "[Epic] UX Improvements Q4FY25"
+        "title": "[Epic] UX Improvements Q4FY25",
+        "AI Summary": "Plan and execute UX improvements for Q4FY25."
     },
     {
         "issue_number": 348,
         "state": "open",
-        "title": "Showing LFS SSH deploy key activity in usage reports"
+        "title": "Showing LFS SSH deploy key activity in usage reports",
+        "AI Summary": "Display LFS SSH deploy key activity in usage reports for better tracking."
     },
     {
         "issue_number": 346,
         "state": "open",
-        "title": "[TASK] Skipped billing dashboard improvements"
+        "title": "[TASK] Skipped billing dashboard improvements",
+        "AI Summary": "Enhance the dashboard for skipped billing scenarios."
     },
     {
         "issue_number": 345,
         "state": "open",
-        "title": "Add ability to choose between what email to send billing reports to"
+        "title": "Add ability to choose between what email to send billing reports to",
+        "AI Summary": "Allow users to select the email address for receiving billing reports."
     },
     {
         "issue_number": 344,
         "state": "open",
-        "title": "Design for Hard Budgets for License-based products"
+        "title": "Design for Hard Budgets for License-based products",
+        "AI Summary": "Create designs for implementing hard budgets for license-based products."
     },
     {
         "issue_number": 343,
         "state": "open",
-        "title": "Customer feedback to clarify public docs on base Enterprise Azure subscription charges"
+        "title": "Customer feedback to clarify public docs on base Enterprise Azure subscription charges",
+        "AI Summary": "Update public documentation to clarify charges for base Enterprise Azure subscriptions."
     },
     {
         "issue_number": 339,
         "state": "open",
-        "title": "Customers want to track the progress of their included usage"
+        "title": "Customers want to track the progress of their included usage",
+        "AI Summary": "Provide tools for customers to monitor their included usage progress."
     },
     {
         "issue_number": 337,
         "state": "open",
-        "title": "[Epic] Assign anyone to receive budget alerts"
+        "title": "[Epic] Assign anyone to receive budget alerts",
+        "AI Summary": "Enable assignment of budget alerts to any user for better notification management."
     },
     {
         "issue_number": 336,
         "state": "open",
-        "title": "[Initiative] Budget improvements"
+        "title": "[Initiative] Budget improvements",
+        "AI Summary": "Implement enhancements to the budget management system."
     },
     {
         "issue_number": 335,
         "state": "open",
-        "title": "[Epic] Email address customization for billing receipts and usage reports"
+        "title": "[Epic] Email address customization for billing receipts and usage reports",
+        "AI Summary": "Allow customization of email addresses for billing receipts and usage reports."
     },
     {
         "issue_number": 334,
         "state": "open",
-        "title": "Make it clear at what time usage resets each month"
+        "title": "Make it clear at what time usage resets each month",
+        "AI Summary": "Clarify the monthly usage reset time for users."
     },
     {
         "issue_number": 332,
         "state": "open",
-        "title": "Customers want to assign an Enterprise Team(s) to budget alerts"
+        "title": "Customers want to assign an Enterprise Team(s) to budget alerts",
+        "AI Summary": "Enable assignment of budget alerts to specific Enterprise Teams."
     },
     {
         "issue_number": 330,
         "state": "open",
-        "title": "Cost Center APIs eventually consistent"
+        "title": "Cost Center APIs eventually consistent",
+        "AI Summary": "Ensure eventual consistency in Cost Center APIs."
     },
     {
         "issue_number": 329,
         "state": "open",
-        "title": "New Billing -  Permissions too broad"
+        "title": "New Billing -  Permissions too broad",
+        "AI Summary": "Refine permissions in the new billing system to avoid excessive access."
     },
     {
         "issue_number": 327,
         "state": "open",
-        "title": "Split cost type/SKU across cost centers"
+        "title": "Split cost type/SKU across cost centers",
+        "AI Summary": "Allow splitting of cost types/SKUs across multiple cost centers."
     },
     {
         "issue_number": 326,
         "state": "open",
-        "title": "Customer feedback : Allow assigning a specific repository to a cost center"
+        "title": "Customer feedback : Allow assigning a specific repository to a cost center",
+        "AI Summary": "Enable assignment of specific repositories to cost centers based on customer feedback."
     },
     {
         "issue_number": 322,
         "state": "open",
-        "title": "[TASK] Update budget and alerts docs to explain budget scopes"
+        "title": "[TASK] Update budget and alerts docs to explain budget scopes",
+        "AI Summary": "Revise documentation to clearly explain budget scopes and alerts."
     },
     {
         "issue_number": 317,
         "state": "open",
-        "title": "initial draft of fetch-all-usage.py"
+        "title": "initial draft of fetch-all-usage.py",
+        "AI Summary": "Create an initial draft of the fetch-all-usage.py script for usage data retrieval."
     },
     {
         "issue_number": 309,
         "state": "open",
-        "title": "Call Request for Boston Consulting Group"
+        "title": "Call Request for Boston Consulting Group",
+        "AI Summary": "Arrange a call with Boston Consulting Group to address their concerns."
     },
     {
         "issue_number": 308,
         "state": "open",
-        "title": "[Task] Consolidate Team line items on Zuora invoices"
+        "title": "[Task] Consolidate Team line items on Zuora invoices",
+        "AI Summary": "Combine Team line items on Zuora invoices for better clarity."
     },
     {
         "issue_number": 305,
         "state": "open",
-        "title": "[Task] Update stafftools for orgs on Free plan on vnext"
+        "title": "[Task] Update stafftools for orgs on Free plan on vnext",
+        "AI Summary": "Enhance stafftools to support organizations on the Free plan in vNext."
     },
     {
         "issue_number": 301,
         "state": "open",
-        "title": "Call Request for Wells Fargo"
+        "title": "Call Request for Wells Fargo",
+        "AI Summary": "Schedule a call with Wells Fargo to discuss their requirements."
     },
     {
         "issue_number": 300,
         "state": "open",
-        "title": "How might we make included usage more easily discoverable?"
+        "title": "How might we make included usage more easily discoverable?",
+        "AI Summary": "Explore ways to improve discoverability of included usage for users."
     },
     {
         "issue_number": 299,
         "state": "open",
-        "title": "Track Billing documentation issues"
+        "title": "Track Billing documentation issues",
+        "AI Summary": "Monitor and address issues in billing documentation for better accuracy."
     },
     {
         "issue_number": 295,
         "state": "open",
-        "title": "Update stafftools for orgs on team plan on vnext"
+        "title": "Update stafftools for orgs on team plan on vnext",
+        "AI Summary": "Enhance stafftools to support organizations on the Team plan in vNext."
     },
     {
         "issue_number": 294,
         "state": "open",
-        "title": "Clean up references to data packs for customers that are on metered LFS"
+        "title": "Clean up references to data packs for customers that are on metered LFS",
+        "AI Summary": "Remove outdated references to data packs for customers using metered LFS."
     },
     {
         "issue_number": 293,
         "state": "open",
-        "title": "Clarify the `Advanced Security enabled` and `Advanced Security via metered billing` values in stafftools"
+        "title": "Clarify the `Advanced Security enabled` and `Advanced Security via metered billing` values in stafftools",
+        "AI Summary": "Provide clarity on `Advanced Security enabled` and `Advanced Security via metered billing` values in stafftools."
     },
     {
         "issue_number": 288,
         "state": "open",
-        "title": "[Task]  Remove SKUs that are unbilled in the usage report"
+        "title": "[Task]  Remove SKUs that are unbilled in the usage report",
+        "AI Summary": "Exclude unbilled SKUs from the usage report for better accuracy."
     },
     {
         "issue_number": 287,
         "state": "open",
-        "title": "Require that all emissions to billing platform include `orgID`"
+        "title": "Require that all emissions to billing platform include `orgID`",
+        "AI Summary": "Mandate inclusion of `orgID` in all emissions to the billing platform."
     },
     {
         "issue_number": 286,
         "state": "open",
-        "title": "[Design support to Sean] Integrate Copilot Business licensing journey into the enterprise layer."
+        "title": "[Design support to Sean] Integrate Copilot Business licensing journey into the enterprise layer.",
+        "AI Summary": "Assist in integrating Copilot Business licensing journey into the enterprise layer."
     },
     {
         "issue_number": 283,
         "state": "open",
-        "title": "[Feedback] - Clarification concerning cost centers and volume GHE"
+        "title": "[Feedback] - Clarification concerning cost centers and volume GHE",
+        "AI Summary": "Provide clarification on cost centers and volume GHE based on feedback."
     },
     {
         "issue_number": 282,
         "state": "open",
-        "title": "[Batch] Remove mention of \"included minutes\" in Actions entitlements"
+        "title": "[Batch] Remove mention of \"included minutes\" in Actions entitlements",
+        "AI Summary": "Eliminate references to \"included minutes\" in Actions entitlements."
     },
     {
         "issue_number": 278,
         "state": "open",
-        "title": "[TASK] Billing & Licensing UI patterns"
+        "title": "[TASK] Billing & Licensing UI patterns",
+        "AI Summary": "Develop consistent UI patterns for Billing & Licensing."
     },
     {
         "issue_number": 277,
         "state": "open",
-        "title": "Improve Org to Enterprise upgrade path"
+        "title": "Improve Org to Enterprise upgrade path",
+        "AI Summary": "Enhance the upgrade path from Organization to Enterprise for better user experience."
     },
     {
         "issue_number": 275,
         "state": "open",
-        "title": "[vNext Feedback] - Confusion in Copilot billing information between enterprise and org"
+        "title": "[vNext Feedback] - Confusion in Copilot billing information between enterprise and org",
+        "AI Summary": "Address confusion in Copilot billing information between enterprise and organization levels."
     },
     {
         "issue_number": 272,
         "state": "open",
-        "title": "How to monitor Actions Storage/alert when usage spikes or starts to take upward trends"
+        "title": "How to monitor Actions Storage/alert when usage spikes or starts to take upward trends",
+        "AI Summary": "Develop monitoring and alerting mechanisms for Actions Storage usage trends."
     },
     {
         "issue_number": 267,
         "state": "open",
-        "title": "[Epic] Provide anomaly detection to increase customer confidence in metered consumption model"
+        "title": "[Epic] Provide anomaly detection to increase customer confidence in metered consumption model",
+        "AI Summary": "Implement anomaly detection to boost customer confidence in the metered consumption model."
     },
     {
         "issue_number": 263,
         "state": "open",
-        "title": "Elsevier - RELX - Customer feedback on Billing platform"
+        "title": "Elsevier - RELX - Customer feedback on Billing platform",
+        "AI Summary": "Address customer feedback from Elsevier - RELX regarding the billing platform."
     },
     {
         "issue_number": 261,
         "state": "open",
-        "title": "[Feature request] - Provide invoices for manual and failed payments"
+        "title": "[Feature request] - Provide invoices for manual and failed payments",
+        "AI Summary": "Enable generation of invoices for manual and failed payments."
     },
     {
         "issue_number": 253,
         "state": "open",
-        "title": "Need help understanding payment methods available for invoiced customers on different billing platforms (Meuse and vNext) for Invoiced Accounts"
+        "title": "Need help understanding payment methods available for invoiced customers on different billing platforms (Meuse and vNext) for Invoiced Accounts",
+        "AI Summary": "Clarify payment methods for invoiced customers across Meuse and vNext platforms."
     },
     {
         "issue_number": 252,
         "state": "open",
-        "title": "FTC - Click to cancel - subscriptions compliance"
+        "title": "FTC - Click to cancel - subscriptions compliance",
+        "AI Summary": "Ensure compliance with FTC regulations for subscription cancellation."
     },
     {
         "issue_number": 250,
         "state": "open",
-        "title": "Billing FGPs for Cost centers"
+        "title": "Billing FGPs for Cost centers",
+        "AI Summary": "Develop Billing FGPs tailored for cost centers."
     },
     {
         "issue_number": 249,
         "state": "open",
-        "title": "[TASK] Design explorations"
+        "title": "[TASK] Design explorations",
+        "AI Summary": "Conduct design explorations for improved user experience."
     },
     {
         "issue_number": 251,
         "state": "open",
-        "title": "Add REST API endpoint to list Cost Center resources"
+        "title": "Add REST API endpoint to list Cost Center resources",
+        "AI Summary": "Create a REST API endpoint to list resources associated with cost centers."
     },
     {
         "issue_number": 247,
         "state": "open",
-        "title": "Feature Request/Customer Feedback - Make adding/removing/updating repos scalable"
+        "title": "Feature Request/Customer Feedback - Make adding/removing/updating repos scalable",
+        "AI Summary": "Enable scalable addition, removal, and updating of repositories based on customer feedback."
     },
     {
         "issue_number": 245,
         "state": "open",
-        "title": "Improve product summary carousel"
+        "title": "Improve product summary carousel",
+        "AI Summary": "Enhance the product summary carousel for better user interaction."
     },
     {
         "issue_number": 244,
         "state": "open",
-        "title": "Cost center auditlogs/ webhooks"
+        "title": "Cost center auditlogs/ webhooks",
+        "AI Summary": "Introduce audit logs and webhooks for cost center activities."
     },
     {
         "issue_number": 235,
         "state": "open",
-        "title": "Billing FGPs/ Roles and Permissions - based on the Enterprise Roles and Permissions (ERP) initiative"
+        "title": "Billing FGPs/ Roles and Permissions - based on the Enterprise Roles and Permissions (ERP) initiative",
+        "AI Summary": "Develop Billing FGPs aligned with the Enterprise Roles and Permissions initiative."
     },
     {
         "issue_number": 234,
         "state": "open",
-        "title": "Custom discounts on vNext"
+        "title": "Custom discounts on vNext",
+        "AI Summary": "Enable custom discounts for users on the vNext platform."
     },
     {
         "issue_number": 222,
         "state": "open",
-        "title": "[Initiative] Promotions (Discounts, Coupons, Credits) for Vol and Metered"
+        "title": "[Initiative] Promotions (Discounts, Coupons, Credits) for Vol and Metered",
+        "AI Summary": "Implement promotions including discounts, coupons, and credits for volume and metered billing."
     },
     {
         "issue_number": 221,
         "state": "open",
-        "title": "Find ways to make connecting an Azure subscription easier and scalable"
+        "title": "Find ways to make connecting an Azure subscription easier and scalable",
+        "AI Summary": "Simplify and scale the process of connecting Azure subscriptions."
     },
     {
         "issue_number": 220,
         "state": "open",
-        "title": "[TASK]Remove deleted Cost Centers from UI/API results"
+        "title": "[TASK]Remove deleted Cost Centers from UI/API results",
+        "AI Summary": "Exclude deleted cost centers from UI and API results."
     },
     {
         "issue_number": 219,
         "state": "open",
-        "title": "Request a feature for making included actions minutes configurable"
+        "title": "Request a feature for making included actions minutes configurable",
+        "AI Summary": "Enable configuration of included actions minutes for better customization."
     },
     {
         "issue_number": 218,
         "state": "open",
-        "title": "Initiative: Usage reports improvements"
+        "title": "Initiative: Usage reports improvements",
+        "AI Summary": "Enhance usage reports for better insights and usability."
     },
     {
         "issue_number": 212,
         "state": "open",
-        "title": "[Initiative] CanProceedWithUsage unified experience"
+        "title": "[Initiative] CanProceedWithUsage unified experience",
+        "AI Summary": "Create a unified experience for CanProceedWithUsage functionality."
     },
     {
         "issue_number": 211,
         "state": "open",
-        "title": "[Initiative] Lost Revenue"
+        "title": "[Initiative] Lost Revenue",
+        "AI Summary": "Address issues related to lost revenue and improve recovery mechanisms."
     },
     {
         "issue_number": 208,
         "state": "open",
-        "title": "[from Support] Change request: Add `Are you sure?` modal to Copilot trial upgrade flow"
+        "title": "[from Support] Change request: Add `Are you sure?` modal to Copilot trial upgrade flow",
+        "AI Summary": "Introduce a confirmation modal in the Copilot trial upgrade flow."
     },
     {
         "issue_number": 209,
         "state": "open",
-        "title": "Epic: Usage page improvements"
+        "title": "Epic: Usage page improvements",
+        "AI Summary": "Enhance the usage page for better user experience and insights."
     },
     {
         "issue_number": 207,
         "state": "open",
-        "title": "[Epic] Feature parity for Usage API"
+        "title": "[Epic] Feature parity for Usage API",
+        "AI Summary": "Achieve feature parity for the Usage API across platforms."
     },
     {
         "issue_number": 206,
         "state": "open",
-        "title": "Customizable usage reports  "
+        "title": "Customizable usage reports  ",
+        "AI Summary": "Enable customization of usage reports for tailored insights."
     },
     {
         "issue_number": 204,
         "state": "open",
-        "title": "Control included minutes consumption & show included minutes in usage report -"
+        "title": "Control included minutes consumption & show included minutes in usage report -",
+        "AI Summary": "Provide controls for included minutes consumption and display them in usage reports."
     },
     {
         "issue_number": 203,
         "state": "open",
-        "title": "Billing vNext Customer Feedback: Amway"
+        "title": "Billing vNext Customer Feedback: Amway",
+        "AI Summary": "Address customer feedback from Amway regarding Billing vNext."
     },
     {
         "issue_number": 200,
         "state": "open",
-        "title": "[Epic]Add user to cost center when invited to org"
+        "title": "[Epic]Add user to cost center when invited to org",
+        "AI Summary": "Automatically add users to cost centers when invited to an organization."
     },
     {
         "issue_number": 194,
         "state": "open",
-        "title": "[Epic] Update CanProceedWithUsage Logic and Alerts (Copilot)"
+        "title": "[Epic] Update CanProceedWithUsage Logic and Alerts (Copilot)",
+        "AI Summary": "Revise CanProceedWithUsage logic and alerts for Copilot."
     },
     {
         "issue_number": 387,
         "state": "open",
-        "title": "Publish individuals API documentation"
+        "title": "Publish individuals API documentation",
+        "AI Summary": "Release API documentation for individual users."
     },
     {
         "issue_number": 188,
         "state": "open",
-        "title": "Question: Billing for GitHub Models"
+        "title": "Question: Billing for GitHub Models",
+        "AI Summary": "Clarify billing processes for GitHub Models."
     },
     {
         "issue_number": 184,
         "state": "open",
-        "title": "[Design Task] Reorganizing the information in Billing to better organize and consider removing pages like billing contacts, past invoices"
+        "title": "[Design Task] Reorganizing the information in Billing to better organize and consider removing pages like billing contacts, past invoices",
+        "AI Summary": "Reorganize billing information and consider removing redundant pages."
     },
     {
         "issue_number": 183,
         "state": "open",
-        "title": "[Design Task] Improve budgets feature"
+        "title": "[Design Task] Improve budgets feature",
+        "AI Summary": "Enhance the budgets feature for better usability."
     },
     {
         "issue_number": 182,
         "state": "open",
-        "title": "[Design Task] How do we show more billing functionality to users during the trial?"
+        "title": "[Design Task] How do we show more billing functionality to users during the trial?",
+        "AI Summary": "Explore ways to showcase more billing functionality during user trials."
     },
     {
         "issue_number": 180,
         "state": "open",
-        "title": "[Design Task] When a customer has never done invoicing payments before, do not show the past invoices page"
+        "title": "[Design Task] When a customer has never done invoicing payments before, do not show the past invoices page",
+        "AI Summary": "Hide the past invoices page for customers new to invoicing payments."
     },
     {
         "issue_number": 179,
         "state": "open",
-        "title": "[Design Task] Adding more clarity to the Payment options in Billing"
+        "title": "[Design Task] Adding more clarity to the Payment options in Billing",
+        "AI Summary": "Improve clarity of payment options in the billing section."
     },
     {
         "issue_number": 178,
         "state": "open",
-        "title": "[Design Task] Billing information sometimes lives in Billing and Licensing, and other times lives in Settings"
+        "title": "[Design Task] Billing information sometimes lives in Billing and Licensing, and other times lives in Settings",
+        "AI Summary": "Standardize the location of billing information across Billing, Licensing, and Settings."
     },
     {
         "issue_number": 177,
         "state": "open",
-        "title": "[Design Task] Reduce redundancy of showing the usage graph twice on \"Overview\" and \"Usage\""
+        "title": "[Design Task] Reduce redundancy of showing the usage graph twice on \"Overview\" and \"Usage\"",
+        "AI Summary": "Eliminate redundancy by showing the usage graph only once."
     },
     {
         "issue_number": 176,
         "state": "open",
-        "title": "[Design Task] How might we create a page to view all usage whether it is free or paid so we can track overall usage (even with trials)."
+        "title": "[Design Task] How might we create a page to view all usage whether it is free or paid so we can track overall usage (even with trials).",
+        "AI Summary": "Develop a unified page to track all usage, including free and paid."
     },
     {
         "issue_number": 174,
         "state": "open",
-        "title": "Bring Copilot to the billing administration experience"
+        "title": "Bring Copilot to the billing administration experience",
+        "AI Summary": "Integrate Copilot into the billing administration experience."
     },
     {
         "issue_number": 173,
         "state": "open",
-        "title": "[TASK] Budget & alert notifications for Licenses"
+        "title": "[TASK] Budget & alert notifications for Licenses",
+        "AI Summary": "Implement budget and alert notifications for licenses."
     },
     {
         "issue_number": 172,
         "state": "open",
-        "title": "[Design Task] In product guidance to support net new Billing customers and Meuse customers transitioning over to Billing"
+        "title": "[Design Task] In product guidance to support net new Billing customers and Meuse customers transitioning over to Billing",
+        "AI Summary": "Provide in-product guidance for new Billing customers and Meuse transitions."
     },
     {
         "issue_number": 171,
         "state": "open",
-        "title": "[Design Task] How might we organize Licensing and Billing pages so usage reports make more sense"
+        "title": "[Design Task] How might we organize Licensing and Billing pages so usage reports make more sense",
+        "AI Summary": "Reorganize Licensing and Billing pages for better understanding of usage reports."
     },
     {
         "issue_number": 170,
         "state": "open",
-        "title": "Accenture scalability and security challenges with regard to cost centers and Azure subscriptions"
+        "title": "Accenture scalability and security challenges with regard to cost centers and Azure subscriptions",
+        "AI Summary": "Address scalability and security challenges for Accenture related to cost centers and Azure subscriptions."
     },
     {
         "issue_number": 168,
         "state": "open",
-        "title": "[Design Task] Filling out billing info auto fills out the shipping info with the same address, then also shows error msg with shipping info"
+        "title": "[Design Task] Filling out billing info auto fills out the shipping info with the same address, then also shows error msg with shipping info",
+        "AI Summary": "Fix auto-fill and error message issues with billing and shipping info."
     },
     {
         "issue_number": 167,
         "state": "open",
-        "title": "[Design Task] Improve the first time customer experience when a new user activates an Enterprise 30 day free trial"
+        "title": "[Design Task] Improve the first time customer experience when a new user activates an Enterprise 30 day free trial",
+        "AI Summary": "Enhance the onboarding experience for new users activating an Enterprise free trial."
     },
     {
         "issue_number": 165,
         "state": "open",
-        "title": "[Placeholder]  License / seat forecasting for metered Trials"
+        "title": "[Placeholder]  License / seat forecasting for metered Trials",
+        "AI Summary": "Develop forecasting tools for licenses and seats in metered trials."
     },
     {
         "issue_number": 161,
         "state": "open",
-        "title": "[Epic] Update the Billing & Licensing Overview page"
+        "title": "[Epic] Update the Billing & Licensing Overview page",
+        "AI Summary": "Revise the Billing & Licensing Overview page for better usability."
     },
     {
         "issue_number": 158,
         "state": "open",
-        "title": "Improve shared storage experience for Actions & Packages"
+        "title": "Improve shared storage experience for Actions & Packages",
+        "AI Summary": "Enhance shared storage functionality for Actions and Packages."
     },
     {
         "issue_number": 156,
         "state": "open",
-        "title": "Zuora invoice enhancement"
+        "title": "Zuora invoice enhancement",
+        "AI Summary": "Improve Zuora invoice features for better user experience."
     },
     {
         "issue_number": 147,
         "state": "open",
-        "title": "Cost Centers 2.0"
+        "title": "Cost Centers 2.0",
+        "AI Summary": "Develop the next iteration of cost centers with enhanced features."
     },
     {
         "issue_number": 140,
         "state": "open",
-        "title": "Epic : Cost center UI updates"
+        "title": "Epic : Cost center UI updates",
+        "AI Summary": "Update the cost center UI for better usability and functionality."
     },
     {
         "issue_number": 135,
         "state": "open",
-        "title": "Clarify \"unlimited by default\" behavior of metered billing on BvN"
+        "title": "Clarify \"unlimited by default\" behavior of metered billing on BvN",
+        "AI Summary": "Provide clarity on the \"unlimited by default\" behavior of metered billing on BvN."
     },
     {
         "issue_number": 134,
         "state": "open",
-        "title": "Billing platform Research (post GA)"
+        "title": "Billing platform Research (post GA)",
+        "AI Summary": "Conduct research on the billing platform post-GA for improvements."
     },
     {
         "issue_number": 131,
         "state": "open",
-        "title": "[Epic] Phase 2 - Auth and Capture "
+        "title": "[Epic] Phase 2 - Auth and Capture ",
+        "AI Summary": "Implement Phase 2 of Auth and Capture for enhanced security."
     },
     {
         "issue_number": 130,
         "state": "open",
-        "title": "[Epic] Phase 3 - Promo Abuse"
+        "title": "[Epic] Phase 3 - Promo Abuse",
+        "AI Summary": "Address promo abuse in Phase 3 for better compliance."
     },
     {
         "issue_number": 133,
         "state": "open",
-        "title": "[from Support] Metered billing - Larger runners spend feedback"
+        "title": "[from Support] Metered billing - Larger runners spend feedback",
+        "AI Summary": "Incorporate feedback on larger runners' spend in metered billing."
     },
     {
         "issue_number": 126,
         "state": "open",
-        "title": "[Epic] Phase 2 - Proxima Payment Abuse"
+        "title": "[Epic] Phase 2 - Proxima Payment Abuse",
+        "AI Summary": "Address payment abuse in Phase 2 for Proxima."
     },
     {
         "issue_number": 122,
         "state": "open",
-        "title": "[Epic] Create a report of all \"late renewal\" accounts."
+        "title": "[Epic] Create a report of all \"late renewal\" accounts.",
+        "AI Summary": "Generate reports for accounts with late renewals."
     },
     {
         "issue_number": 120,
         "state": "open",
-        "title": "[Epic] Hard Budget Limits for Seat-Based Metered Products"
+        "title": "[Epic] Hard Budget Limits for Seat-Based Metered Products",
+        "AI Summary": "Implement hard budget limits for seat-based metered products."
     },
     {
         "issue_number": 125,
         "state": "open",
-        "title": "Bring back deleted Cost Center viewing for Stafftools"
+        "title": "Bring back deleted Cost Center viewing for Stafftools",
+        "AI Summary": "Enable viewing of deleted cost centers in Stafftools."
     },
     {
         "issue_number": 119,
         "state": "open",
-        "title": "Allow organizations to be added to a cost center if its child repos are in a Cost Center + Generic Cost Center Improvements[Open to discussion/change]"
+        "title": "Allow organizations to be added to a cost center if its child repos are in a Cost Center + Generic Cost Center Improvements[Open to discussion/change]",
+        "AI Summary": "Allow organizations to be added to cost centers based on child repositories."
     },
     {
         "issue_number": 117,
         "state": "open",
-        "title": "[Epic] Phase 3 - Payment Abuse for Trials"
+        "title": "[Epic] Phase 3 - Payment Abuse for Trials",
+        "AI Summary": "Address payment abuse in Phase 3 for trials."
     },
     {
         "issue_number": 115,
         "state": "open",
-        "title": "[Epic] Bring billing settings to enterprise organizations"
+        "title": "[Epic] Bring billing settings to enterprise organizations",
+        "AI Summary": "Integrate billing settings into enterprise organizations."
     },
     {
         "issue_number": 114,
         "state": "open",
-        "title": "[Epic] Discount engine for Actions pricing change for FY25"
+        "title": "[Epic] Discount engine for Actions pricing change for FY25",
+        "AI Summary": "Develop a discount engine for Actions pricing changes in FY25."
     },
     {
         "issue_number": 113,
         "state": "open",
-        "title": "Update budget banner behaviors on the overview page"
+        "title": "Update budget banner behaviors on the overview page",
+        "AI Summary": "Revise budget banner behaviors on the overview page for better clarity."
     },
     {
         "issue_number": 112,
         "state": "open",
-        "title": "Support Feedback: How can we identify customers on GitHub Paper or MSFT Paper (not on BvN) (via Stafftools, Chatops?)"
+        "title": "Support Feedback: How can we identify customers on GitHub Paper or MSFT Paper (not on BvN) (via Stafftools, Chatops?)",
+        "AI Summary": "Develop methods to identify customers on GitHub Paper or MSFT Paper using Stafftools or Chatops."
     },
     {
         "issue_number": 111,
         "state": "open",
-        "title": "Request a feature for cost center usage to be assignable to a specific Azure Resource Group"
+        "title": "Request a feature for cost center usage to be assignable to a specific Azure Resource Group",
+        "AI Summary": "Enable assignment of cost center usage to specific Azure Resource Groups."
     },
     {
         "issue_number": 110,
         "state": "open",
-        "title": "[from Support] Customer feedback - vNext metered usage feedback/confusion"
+        "title": "[from Support] Customer feedback - vNext metered usage feedback/confusion",
+        "AI Summary": "Address customer feedback and confusion regarding vNext metered usage."
     },
     {
         "issue_number": 109,
         "state": "open",
-        "title": "[Epic] If sellers can be attached to accounts on the Team plan, make sure they can be compensated"
+        "title": "[Epic] If sellers can be attached to accounts on the Team plan, make sure they can be compensated",
+        "AI Summary": "Ensure sellers attached to Team plan accounts are properly compensated."
     },
     {
         "issue_number": 105,
         "state": "open",
-        "title": "Placeholder [Epic]Enable GH app authentication to vnext end points"
+        "title": "Placeholder [Epic]Enable GH app authentication to vnext end points",
+        "AI Summary": "Enable GitHub app authentication for vNext endpoints."
     },
     {
         "issue_number": 104,
         "state": "open",
-        "title": "[Epic] Block Prepaid cards"
+        "title": "[Epic] Block Prepaid cards",
+        "AI Summary": "Implement measures to block prepaid cards for better compliance."
     },
     {
         "issue_number": 99,
         "state": "open",
-        "title": "EMU Trial/Pilot Billing Flow if Copilot Enabled"
+        "title": "EMU Trial/Pilot Billing Flow if Copilot Enabled",
+        "AI Summary": "Develop billing flow for EMU trials and pilots with Copilot enabled."
     },
     {
         "issue_number": 97,
         "state": "open",
-        "title": "Review Zuora Account Creation Process for Sales Serve Customers"
+        "title": "Review Zuora Account Creation Process for Sales Serve Customers",
+        "AI Summary": "Evaluate and improve the Zuora account creation process for Sales Serve customers."
     },
     {
         "issue_number": 118,
         "state": "open",
-        "title": "Add a query param to the Billing Overview URL to filter for products"
+        "title": "Add a query param to the Billing Overview URL to filter for products",
+        "AI Summary": "Introduce a query parameter to filter products on the Billing Overview URL."
     },
     {
         "issue_number": 90,
         "state": "open",
-        "title": "[Epic] Automatically add repos to a Cost Center based on defined repo properties"
+        "title": "[Epic] Automatically add repos to a Cost Center based on defined repo properties",
+        "AI Summary": "Enable automatic addition of repositories to cost centers based on defined properties."
     },
     {
         "issue_number": 94,
         "state": "open",
-        "title": "Unify enterprise billing checkout page"
+        "title": "Unify enterprise billing checkout page",
+        "AI Summary": "Create a unified enterprise billing checkout page for better user experience."
     },
     {
         "issue_number": 88,
         "state": "open",
-        "title": "Initiative - Unified Metered Trials"
+        "title": "Initiative - Unified Metered Trials",
+        "AI Summary": "Develop a unified approach for metered trials."
     },
     {
         "issue_number": 92,
         "state": "open",
-        "title": "Confusion with the new volume licensing spend tile on the overview page"
+        "title": "Confusion with the new volume licensing spend tile on the overview page",
+        "AI Summary": "Address confusion regarding the new volume licensing spend tile on the overview page."
     },
     {
         "issue_number": 85,
         "state": "open",
-        "title": "[Epic] Copilot Business for non-GHE customers can self-provision their own metered enterprise account"
+        "title": "[Epic] Copilot Business for non-GHE customers can self-provision their own metered enterprise account",
+        "AI Summary": "Enable self-provisioning of metered enterprise accounts for non-GHE customers using Copilot Business."
     },
     {
         "issue_number": 84,
         "state": "open",
-        "title": "[Epic] Handle the VSS emissions to show usage/consumption data without billing for it"
+        "title": "[Epic] Handle the VSS emissions to show usage/consumption data without billing for it",
+        "AI Summary": "Manage VSS emissions to display usage data without associated billing."
     },
     {
         "issue_number": 79,
         "state": "open",
-        "title": "[Epic] Copilot Business for non-GHE customers can support non-Azure payments"
+        "title": "[Epic] Copilot Business for non-GHE customers can support non-Azure payments",
+        "AI Summary": "Enable Copilot Business for non-GHE customers to support non-Azure payment methods."
     },
     {
         "issue_number": 74,
         "state": "open",
-        "title": "[Epic] Design Exploration - Forecasting"
+        "title": "[Epic] Design Exploration - Forecasting",
+        "AI Summary": "Conduct design exploration for forecasting features."
     },
     {
         "issue_number": 73,
         "state": "open",
-        "title": "[Epic] Phase 2 -  Trust Tier Restructuring"
+        "title": "[Epic] Phase 2 -  Trust Tier Restructuring",
+        "AI Summary": "Restructure trust tiers in Phase 2 for better compliance and usability."
     },
     {
         "issue_number": 232,
         "state": "open",
-        "title": "Product Hub Links Overview"
+        "title": "Product Hub Links Overview",
+        "AI Summary": "Provide an overview of Product Hub links for better navigation."
     },
     {
         "issue_number": 71,
         "state": "open",
-        "title": "Copilot, GHE, and GHAS validations with billing platform"
+        "title": "Copilot, GHE, and GHAS validations with billing platform",
+        "AI Summary": "Ensure validations for Copilot, GHE, and GHAS with the billing platform."
     },
     {
         "issue_number": 70,
         "state": "open",
-        "title": "[Initiative] Payment Methods"
+        "title": "[Initiative] Payment Methods",
+        "AI Summary": "Explore and implement diverse payment methods for better accessibility."
     },
     {
         "issue_number": 231,
         "state": "open",
-        "title": "Epic: Phase 3 of Promotions and Discounts on BvN"
+        "title": "Epic: Phase 3 of Promotions and Discounts on BvN",
+        "AI Summary": "Implement Phase 3 of promotions and discounts on BvN."
     },
     {
         "issue_number": 230,
         "state": "open",
-        "title": "Epic: Metered Coupons"
+        "title": "Epic: Metered Coupons",
+        "AI Summary": "Develop metered coupons for better promotional offers."
     },
     {
         "issue_number": 128,
         "state": "open",
-        "title": "[from Support] Enterprise trials confused and angry with Actions limits"
+        "title": "[from Support] Enterprise trials confused and angry with Actions limits",
+        "AI Summary": "Address confusion and dissatisfaction with Actions limits in enterprise trials."
     },
     {
         "issue_number": 58,
         "state": "open",
-        "title": "Initiative: Non enterprise experience in Billing vNext"
+        "title": "Initiative: Non enterprise experience in Billing vNext",
+        "AI Summary": "Enhance the non-enterprise experience in Billing vNext."
     },
     {
         "issue_number": 50,
         "state": "open",
-        "title": "Don't Billing Lock an account if it has no paid subscriptions"
+        "title": "Don't Billing Lock an account if it has no paid subscriptions",
+        "AI Summary": "Prevent billing locks on accounts without paid subscriptions."
     },
     {
         "issue_number": 44,
         "state": "open",
-        "title": "Easier installation of GitHub Subscription Permissions Validation Entra app"
+        "title": "Easier installation of GitHub Subscription Permissions Validation Entra app",
+        "AI Summary": "Simplify installation of the GitHub Subscription Permissions Validation Entra app."
     },
     {
         "issue_number": 229,
         "state": "open",
-        "title": "`Manage seats` button missing from enterprise accounts with failed payments"
+        "title": "`Manage seats` button missing from enterprise accounts with failed payments",
+        "AI Summary": "Restore the `Manage seats` button for enterprise accounts with failed payments."
     },
     {
         "issue_number": 32,
         "state": "open",
-        "title": "Support tooling enhancements in stafftools: cancelling accidentally purchased licenses for metered GHE and GHAS"
+        "title": "Support tooling enhancements in stafftools: cancelling accidentally purchased licenses for metered GHE and GHAS",
+        "AI Summary": "Enhance support tooling in stafftools to cancel accidentally purchased licenses for metered GHE and GHAS."
     },
     {
         "issue_number": 197,
         "state": "open",
-        "title": "[Epic] Actions non-billable usage minutes"
+        "title": "[Epic] Actions non-billable usage minutes",
+        "AI Summary": "Enable tracking of non-billable usage minutes for Actions."
     },
     {
         "issue_number": 311,
         "state": "open",
-        "title": "vNext GA - Enhance docs for usage reports"
+        "title": "vNext GA - Enhance docs for usage reports",
+        "AI Summary": "Improve documentation for usage reports in vNext GA."
     },
     {
         "issue_number": 23,
         "state": "open",
-        "title": "vNext GA - Usage - Stafftools insight for individual workflow usage"
+        "title": "vNext GA - Usage - Stafftools insight for individual workflow usage",
+        "AI Summary": "Provide insights into individual workflow usage in Stafftools for vNext GA."
     },
     {
         "issue_number": 22,
         "state": "open",
-        "title": "Request a feature for more control over vNext Billing Permissions"
+        "title": "Request a feature for more control over vNext Billing Permissions",
+        "AI Summary": "Enable greater control over billing permissions in vNext."
     },
     {
         "issue_number": 196,
         "state": "open",
-        "title": "Budgets UI should display budget type"
+        "title": "Budgets UI should display budget type",
+        "AI Summary": "Update the Budgets UI to display the type of budget."
     },
     {
         "issue_number": 26,
         "state": "open",
-        "title": "[Epic] Add support to manage Cost centers via GitHub teams"
+        "title": "[Epic] Add support to manage Cost centers via GitHub teams",
+        "AI Summary": "Enable management of cost centers through GitHub teams."
     },
     {
         "issue_number": 195,
         "state": "open",
-        "title": "vNext GA Bug - Budget Email Alerts"
+        "title": "vNext GA Bug - Budget Email Alerts",
+        "AI Summary": "Fix bugs related to budget email alerts in vNext GA."
     },
     {
         "issue_number": 96,
         "state": "open",
-        "title": "Placeholder : Post GA work on Alert recipients"
+        "title": "Placeholder : Post GA work on Alert recipients",
+        "AI Summary": "Conduct post-GA work on alert recipient functionality."
     },
     {
         "issue_number": 28,
         "state": "open",
-        "title": "Request a feature for Startup Program Coupon Abuse Prevention"
+        "title": "Request a feature for Startup Program Coupon Abuse Prevention",
+        "AI Summary": "Develop features to prevent coupon abuse in the Startup Program."
     },
     {
         "issue_number": 159,
         "state": "open",
-        "title": "vNext GA Bug - Clarify what adding optional Azure subscription to cost center does"
+        "title": "vNext GA Bug - Clarify what adding optional Azure subscription to cost center does",
+        "AI Summary": "Clarify the functionality of adding optional Azure subscriptions to cost centers in vNext GA."
     },
     {
         "issue_number": 20,
         "state": "open",
-        "title": "[Batch] Confirm with the Salesforce team that managed accounts that were created self-serve will invoice through Zuora"
+        "title": "[Batch] Confirm with the Salesforce team that managed accounts that were created self-serve will invoice through Zuora",
+        "AI Summary": "Verify with the Salesforce team that self-serve managed accounts invoice through Zuora."
     },
     {
         "issue_number": 1,
         "state": "open",
-        "title": "[Epic] Standardize Billing models across all Products"
+        "title": "[Epic] Standardize Billing models across all Products",
+        "AI Summary": "Create standardized billing models for all products."
     },
     {
         "issue_number": 2,
         "state": "open",
-        "title": "[Epic] Bring Actions into compliance with GitHub's policy on charging for all consumption"
+        "title": "[Epic] Bring Actions into compliance with GitHub's policy on charging for all consumption",
+        "AI Summary": "Ensure Actions comply with GitHub's policy on charging for all consumption."
     },
     {
         "issue_number": 3,
         "state": "open",
-        "title": "[Epic] Cover all integration points for all new billing features"
+        "title": "[Epic] Cover all integration points for all new billing features",
+        "AI Summary": "Address all integration points for new billing features."
     },
     {
         "issue_number": 7,
         "state": "open",
-        "title": "[Epic] Repair gaps in Salesforce or Revenue processes that lead to incorrect information in Zuora or Billing"
+        "title": "[Epic] Repair gaps in Salesforce or Revenue processes that lead to incorrect information in Zuora or Billing",
+        "AI Summary": "Fix gaps in Salesforce or Revenue processes causing incorrect information in Zuora or Billing."
     },
     {
         "issue_number": 18,
         "state": "open",
-        "title": "[Initiative] Alignment with Azure commerce programs"
+        "title": "[Initiative] Alignment with Azure commerce programs",
+        "AI Summary": "Align billing processes with Azure commerce programs."
     },
     {
         "issue_number": 15,
         "state": "open",
-        "title": "[Epic] Centralized process for customer facing teams to know when billing errors are occurring and allow them to guide customers through errors"
+        "title": "[Epic] Centralized process for customer facing teams to know when billing errors are occurring and allow them to guide customers through errors",
+        "AI Summary": "Develop a centralized process for customer-facing teams to address billing errors."
     },
     {
         "issue_number": 14,
         "state": "open",
-        "title": "[Epic] Create alignment with MSFT engineering and operations to jointly troubleshoot customer challenges when reported"
+        "title": "[Epic] Create alignment with MSFT engineering and operations to jointly troubleshoot customer challenges when reported",
+        "AI Summary": "Collaborate with MSFT engineering and operations to troubleshoot customer challenges."
     },
     {
         "issue_number": 13,
         "state": "open",
-        "title": "[Epic] Review and Fix account configuration process flow for upcoming metered launches"
+        "title": "[Epic] Review and Fix account configuration process flow for upcoming metered launches",
+        "AI Summary": "Evaluate and improve account configuration process flow for metered launches."
     },
     {
         "issue_number": 11,
         "state": "open",
-        "title": "[Epic] Feedback loop in product when billing errors occur and proactive notification to the Account Team"
+        "title": "[Epic] Feedback loop in product when billing errors occur and proactive notification to the Account Team",
+        "AI Summary": "Create a feedback loop for billing errors and notify the Account Team proactively."
     },
     {
         "issue_number": 10,
         "state": "open",
-        "title": "[Epic] Create/standardize on metered billing release requirements that incorporate the operational nuances"
+        "title": "[Epic] Create/standardize on metered billing release requirements that incorporate the operational nuances",
+        "AI Summary": "Standardize metered billing release requirements with operational nuances."
     },
     {
         "issue_number": 9,
         "state": "open",
-        "title": "[Epic] Connect and automate the end to end processes/systems associated with metered billing"
+        "title": "[Epic] Connect and automate the end to end processes/systems associated with metered billing",
+        "AI Summary": "Automate end-to-end processes and systems for metered billing."
     },
     {
         "issue_number": 8,
         "state": "open",
-        "title": "EPD+R LT: Resolve Metered Skipped Billing Issues"
+        "title": "EPD+R LT: Resolve Metered Skipped Billing Issues",
+        "AI Summary": "Address and resolve issues related to metered skipped billing."
     },
     {
         "issue_number": 192,
         "state": "open",
-        "title": "[Bug] Org owner cannot create cost centers with their org -- Comcast"
+        "title": "[Bug] Org owner cannot create cost centers with their org -- Comcast",
+        "AI Summary": "Fix bug preventing org owners from creating cost centers with their organization."
     },
     {
         "issue_number": 87,
         "state": "open",
-        "title": "[Epic] Trials on BvN -- Product investigation"
+        "title": "[Epic] Trials on BvN -- Product investigation",
+        "AI Summary": "Investigate product trials on BvN for better insights."
     },
     {
         "issue_number": 342,
         "state": "open",
-        "title": "Epic: Customers want to manage cost centers at the product level"
+        "title": "Epic: Customers want to manage cost centers at the product level",
+        "AI Summary": "Enable cost center management at the product level for customers."
     },
     {
         "issue_number": 388,
         "state": "open",
-        "title": "[Bug] Disparity between REST API and Enterprise Billing Dashboard"
+        "title": "[Bug] Disparity between REST API and Enterprise Billing Dashboard",
+        "AI Summary": "Resolve discrepancies between REST API and Enterprise Billing Dashboard."
     },
     {
         "issue_number": 186,
         "state": "open",
-        "title": "[Feature Request]: Additional Payment Methods in India and Europe"
+        "title": "[Feature Request]: Additional Payment Methods in India and Europe",
+        "AI Summary": "Introduce additional payment methods for users in India and Europe."
     },
     {
         "issue_number": 138,
         "state": "open",
-        "title": "Upgrades to Enterprise are blocked by seat downgrade"
+        "title": "Upgrades to Enterprise are blocked by seat downgrade",
+        "AI Summary": "Fix issues blocking Enterprise upgrades due to seat downgrades."
     },
     {
         "issue_number": 228,
         "state": "open",
-        "title": "Incremental coupon improvements - `Microsoft for Startups` "
+        "title": "Incremental coupon improvements - `Microsoft for Startups` ",
+        "AI Summary": "Enhance coupon functionality for the `Microsoft for Startups` program."
     },
     {
         "issue_number": 163,
         "state": "open",
-        "title": "Add warning module in stafftools when changing accounts with paid Marketplace apps to invoiced"
+        "title": "Add warning module in stafftools when changing accounts with paid Marketplace apps to invoiced",
+        "AI Summary": "Introduce a warning module in stafftools for account changes involving paid Marketplace apps."
     },
     {
         "issue_number": 162,
         "state": "open",
-        "title": "Epic: Receipt Redesign"
+        "title": "Epic: Receipt Redesign",
+        "AI Summary": "Redesign receipts for better clarity and usability."
     },
     {
         "issue_number": 389,
         "state": "open",
-        "title": "[Epic]: Enforce trust-tier spending limit with vNext budget"
+        "title": "[Epic]: Enforce trust-tier spending limit with vNext budget",
+        "AI Summary": "Implement trust-tier spending limits with vNext budget."
     }
 ]
