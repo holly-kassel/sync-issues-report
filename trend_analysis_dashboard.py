@@ -173,7 +173,7 @@ def generate_dashboard(df):
         specs=[
             [{"colspan": 2}, None],
             [{"colspan": 2}, None],
-            [{}, {}]
+            [{"type": "domain"}, {}]
         ],
         subplot_titles=(
             "Issue Creation Over Time", 
