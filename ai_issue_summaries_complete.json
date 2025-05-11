@@ -1,0 +1,2221 @@
+{
+  "metadata": {
+    "generatedOn": "2025-05-08 17:11:29",
+    "generatedBy": "issue_summary_test model",
+    "totalIssues": 811
+  },
+  "issueSummaries": [
+    {
+      "issueNumber": 442,
+      "title": "Explore budget policies",
+      "summary": "Based on the description of this issue, it appears to involve explore budget policies. The issue focuses on addressing needs related to explore budget policies in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of explore budget policies",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 441,
+      "title": "\ud83d\udea7 [Epic] Explore how trial usage is shown within the Billing and Licensing space",
+      "summary": "Based on the description of this issue, it appears to involve \ud83d\udea7 [epic] explore how trial usage is shown within the billing and licensing space. The issue focuses on addressing needs related to \ud83d\udea7 [epic] explore how trial usage is shown within the billing and licensing space in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of \ud83d\udea7 [epic] explore how trial usage is shown within the billing and licensing space",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 20060,
+      "title": "[Bug] Unable to filter budgets by cost center scope",
+      "summary": "Based on the description of this issue, it appears to involve [bug] unable to filter budgets by cost center scope. The issue focuses on addressing needs related to [bug] unable to filter budgets by cost center scope in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] unable to filter budgets by cost center scope",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 20054,
+      "title": "Skip billing roll out plan",
+      "summary": "Based on the description of this issue, it appears to involve skip billing roll out plan. The issue focuses on addressing needs related to skip billing roll out plan in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of skip billing roll out plan",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 20053,
+      "title": "Reconsider onboarding customer for business owned orgs to billing platform",
+      "summary": "Based on the description of this issue, it appears to involve reconsider onboarding customer for business owned orgs to billing platform. The issue focuses on addressing needs related to reconsider onboarding customer for business owned orgs to billing platform in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of reconsider onboarding customer for business owned orgs to billing platform",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 20304,
+      "title": "Introduce Billing for GitHub Spark by Microsoft Build (5/19)",
+      "summary": "Based on the description of this issue, it appears to involve introduce billing for github spark by microsoft build (5/19). The issue focuses on addressing needs related to introduce billing for github spark by microsoft build (5/19) in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of introduce billing for github spark by microsoft build (5/19)",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 20050,
+      "title": "Configuration for RBI payments on vNext is not working for `Dehaat` and maybe others?",
+      "summary": "Based on the description of this issue, it appears to involve configuration for rbi payments on vnext is not working for `dehaat` and maybe others?. The issue focuses on addressing needs related to configuration for rbi payments on vnext is not working for `dehaat` and maybe others? in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of configuration for rbi payments on vnext is not working for `dehaat` and maybe others?",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 20048,
+      "title": "[Epic] Enable TTL in Cosmos container and documents",
+      "summary": "Based on the description of this issue, it appears to involve [epic] enable ttl in cosmos container and documents. The issue focuses on addressing needs related to [epic] enable ttl in cosmos container and documents in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [epic] enable ttl in cosmos container and documents",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18923,
+      "title": "[Batch] Stafftools Azure Emission Page Improvements",
+      "summary": "Based on the description of this issue, it appears to involve [batch] stafftools azure emission page improvements. The issue focuses on addressing needs related to [batch] stafftools azure emission page improvements in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [batch] stafftools azure emission page improvements",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 19588,
+      "title": "Cost center filter missing from enterprise outside_collaborators page",
+      "summary": "Based on the description of this issue, it appears to involve cost center filter missing from enterprise outside_collaborators page. The issue focuses on addressing needs related to cost center filter missing from enterprise outside_collaborators page in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of cost center filter missing from enterprise outside_collaborators page",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18893,
+      "title": "Test Organizations using Copilot Premium Features",
+      "summary": "Based on the description of this issue, it appears to involve test organizations using copilot premium features. The issue focuses on addressing needs related to test organizations using copilot premium features in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of test organizations using copilot premium features",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18891,
+      "title": "LFS product : Add documentation",
+      "summary": "Based on the description of this issue, it appears to involve lfs product : add documentation. The issue focuses on addressing needs related to lfs product : add documentation in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of lfs product : add documentation",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18882,
+      "title": "Estimated and current storage for the month are still returned in an API to migrated users despite being inaccurate",
+      "summary": "Based on the description of this issue, it appears to involve estimated and current storage for the month are still returned in an api to migrated users despite being inaccurate. The issue focuses on addressing needs related to estimated and current storage for the month are still returned in an api to migrated users despite being inaccurate in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of estimated and current storage for the month are still returned in an api to migrated users despite being inaccurate",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18878,
+      "title": "Remove `user_id` from coupon_redemptions",
+      "summary": "Based on the description of this issue, it appears to involve remove `user_id` from coupon_redemptions. The issue focuses on addressing needs related to remove `user_id` from coupon_redemptions in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of remove `user_id` from coupon_redemptions",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18874,
+      "title": "Availability: `gh-billing-platform-staff-wus2-01` Cosmos DB secondary region is not optimal pair for resilience",
+      "summary": "Based on the description of this issue, it appears to involve availability: `gh-billing-platform-staff-wus2-01` cosmos db secondary region is not optimal pair for resilience. The issue focuses on addressing needs related to availability: `gh-billing-platform-staff-wus2-01` cosmos db secondary region is not optimal pair for resilience in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of availability: `gh-billing-platform-staff-wus2-01` cosmos db secondary region is not optimal pair for resilience",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18869,
+      "title": "Search for deleted enterprises using former admin email in Stafftools",
+      "summary": "Based on the description of this issue, it appears to involve search for deleted enterprises using former admin email in stafftools. The issue focuses on addressing needs related to search for deleted enterprises using former admin email in stafftools in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of search for deleted enterprises using former admin email in stafftools",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18855,
+      "title": "[Bug] Billing Vnext customer entitlement issue",
+      "summary": "Based on the description of this issue, it appears to involve [bug] billing vnext customer entitlement issue. The issue focuses on addressing needs related to [bug] billing vnext customer entitlement issue in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] billing vnext customer entitlement issue",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18849,
+      "title": "[Bug] Usage aggregations in usage table rounding accuracy",
+      "summary": "Based on the description of this issue, it appears to involve [bug] usage aggregations in usage table rounding accuracy. The issue focuses on addressing needs related to [bug] usage aggregations in usage table rounding accuracy in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] usage aggregations in usage table rounding accuracy",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18848,
+      "title": "[Bug] Org admin group by repo does not show all other in usage chart",
+      "summary": "Based on the description of this issue, it appears to involve [bug] org admin group by repo does not show all other in usage chart. The issue focuses on addressing needs related to [bug] org admin group by repo does not show all other in usage chart in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] org admin group by repo does not show all other in usage chart",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18838,
+      "title": "[Bug] Usage page filtering",
+      "summary": "Based on the description of this issue, it appears to involve [bug] usage page filtering. The issue focuses on addressing needs related to [bug] usage page filtering in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] usage page filtering",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18836,
+      "title": "Billing/Licensing/Trade Compliance offsite prep!",
+      "summary": "Based on the description of this issue, it appears to involve billing/licensing/trade compliance offsite prep!. The issue focuses on addressing needs related to billing/licensing/trade compliance offsite prep! in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of billing/licensing/trade compliance offsite prep!",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18831,
+      "title": "Migrate billing-platform CI to use Cosmos DB emulator instead of Azure CosmosDB",
+      "summary": "Based on the description of this issue, it appears to involve migrate billing-platform ci to use cosmos db emulator instead of azure cosmosdb. The issue focuses on addressing needs related to migrate billing-platform ci to use cosmos db emulator instead of azure cosmosdb in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of migrate billing-platform ci to use cosmos db emulator instead of azure cosmosdb",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 19611,
+      "title": "[Bug] EMU users get served a 404 when they try to redeem a GHEC coupon on github.com/redeem",
+      "summary": "Based on the description of this issue, it appears to involve [bug] emu users get served a 404 when they try to redeem a ghec coupon on github.com/redeem. The issue focuses on addressing needs related to [bug] emu users get served a 404 when they try to redeem a ghec coupon on github.com/redeem in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] emu users get served a 404 when they try to redeem a ghec coupon on github.com/redeem",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18834,
+      "title": "Make sure that Stafftools view of billing overview matches what is shown to customers",
+      "summary": "Based on the description of this issue, it appears to involve make sure that stafftools view of billing overview matches what is shown to customers. The issue focuses on addressing needs related to make sure that stafftools view of billing overview matches what is shown to customers in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of make sure that stafftools view of billing overview matches what is shown to customers",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18823,
+      "title": "Usage showing up on billing overview page for organization that's no longer part of the enterprise",
+      "summary": "Based on the description of this issue, it appears to involve usage showing up on billing overview page for organization that's no longer part of the enterprise. The issue focuses on addressing needs related to usage showing up on billing overview page for organization that's no longer part of the enterprise in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of usage showing up on billing overview page for organization that's no longer part of the enterprise",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18790,
+      "title": "Deploy GitHub.Billing RP API",
+      "summary": "Based on the description of this issue, it appears to involve deploy github.billing rp api. The issue focuses on addressing needs related to deploy github.billing rp api in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of deploy github.billing rp api",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18788,
+      "title": "Onboard GitHub.Billng RP to ARM Private RP (or PPE)",
+      "summary": "Based on the description of this issue, it appears to involve onboard github.billng rp to arm private rp (or ppe). The issue focuses on addressing needs related to onboard github.billng rp to arm private rp (or ppe) in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of onboard github.billng rp to arm private rp (or ppe)",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18787,
+      "title": "Create billing RP API",
+      "summary": "Based on the description of this issue, it appears to involve create billing rp api. The issue focuses on addressing needs related to create billing rp api in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of create billing rp api",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18767,
+      "title": "[Epic] Transfer Specific Billing Copilot Engineering Code to Billing Engineering",
+      "summary": "Based on the description of this issue, it appears to involve [epic] transfer specific billing copilot engineering code to billing engineering. The issue focuses on addressing needs related to [epic] transfer specific billing copilot engineering code to billing engineering in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [epic] transfer specific billing copilot engineering code to billing engineering",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18758,
+      "title": "Batch: refactor `event:rollups` to use a `total` item instead of storing all events",
+      "summary": "Based on the description of this issue, it appears to involve batch: refactor `event:rollups` to use a `total` item instead of storing all events. The issue focuses on addressing needs related to batch: refactor `event:rollups` to use a `total` item instead of storing all events in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of batch: refactor `event:rollups` to use a `total` item instead of storing all events",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18756,
+      "title": "Design consistency follow ups",
+      "summary": "Based on the description of this issue, it appears to involve design consistency follow ups. The issue focuses on addressing needs related to design consistency follow ups in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of design consistency follow ups",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18749,
+      "title": "Switch from the `EnterpriseCustomerId` to `CustomerId` attribute in cosmosdb Customer record",
+      "summary": "Based on the description of this issue, it appears to involve switch from the `enterprisecustomerid` to `customerid` attribute in cosmosdb customer record. The issue focuses on addressing needs related to switch from the `enterprisecustomerid` to `customerid` attribute in cosmosdb customer record in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of switch from the `enterprisecustomerid` to `customerid` attribute in cosmosdb customer record",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 19363,
+      "title": "[Epic] Billing support for Copilot Consumption Model - Premium Feature Overages",
+      "summary": "Based on the description of this issue, it appears to involve [epic] billing support for copilot consumption model - premium feature overages. The issue focuses on addressing needs related to [epic] billing support for copilot consumption model - premium feature overages in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [epic] billing support for copilot consumption model - premium feature overages",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 19911,
+      "title": "Address Packages usage on vnext and lack of repository attribution",
+      "summary": "Based on the description of this issue, it appears to involve address packages usage on vnext and lack of repository attribution. The issue focuses on addressing needs related to address packages usage on vnext and lack of repository attribution in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of address packages usage on vnext and lack of repository attribution",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18710,
+      "title": "Sponsorships not processed",
+      "summary": "Based on the description of this issue, it appears to involve sponsorships not processed. The issue focuses on addressing needs related to sponsorships not processed in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of sponsorships not processed",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18706,
+      "title": "GetUsageTotal is sending `sku=true` to `GetUnitTypeForSku`",
+      "summary": "Based on the description of this issue, it appears to involve getusagetotal is sending `sku=true` to `getunittypeforsku`. The issue focuses on addressing needs related to getusagetotal is sending `sku=true` to `getunittypeforsku` in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of getusagetotal is sending `sku=true` to `getunittypeforsku`",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 16479,
+      "title": "Create a better way to exceed billing platform discounts for testing purposes",
+      "summary": "Based on the description of this issue, it appears to involve create a better way to exceed billing platform discounts for testing purposes. The issue focuses on addressing needs related to create a better way to exceed billing platform discounts for testing purposes in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of create a better way to exceed billing platform discounts for testing purposes",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 17327,
+      "title": "Payment not processed on deletion for metered GHE usage",
+      "summary": "Based on the description of this issue, it appears to involve payment not processed on deletion for metered ghe usage. The issue focuses on addressing needs related to payment not processed on deletion for metered ghe usage in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of payment not processed on deletion for metered ghe usage",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 16415,
+      "title": "Return requested product and SKU on `canProceedWithUsage` requests",
+      "summary": "Based on the description of this issue, it appears to involve return requested product and sku on `canproceedwithusage` requests. The issue focuses on addressing needs related to return requested product and sku on `canproceedwithusage` requests in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of return requested product and sku on `canproceedwithusage` requests",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 16370,
+      "title": "Track deleted dotcom customer in Billing Platform",
+      "summary": "Based on the description of this issue, it appears to involve track deleted dotcom customer in billing platform. The issue focuses on addressing needs related to track deleted dotcom customer in billing platform in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of track deleted dotcom customer in billing platform",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 16369,
+      "title": "Track soft-deleted Business in the vNext customer",
+      "summary": "Based on the description of this issue, it appears to involve track soft-deleted business in the vnext customer. The issue focuses on addressing needs related to track soft-deleted business in the vnext customer in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of track soft-deleted business in the vnext customer",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 16349,
+      "title": "[from Support] Oodles of billing confusion on oodlestechnologies",
+      "summary": "Based on the description of this issue, it appears to involve [from support] oodles of billing confusion on oodlestechnologies. The issue focuses on addressing needs related to [from support] oodles of billing confusion on oodlestechnologies in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] oodles of billing confusion on oodlestechnologies",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 16350,
+      "title": "[from Support] Update Armed Forces option in address drop-down, investigate 500 error",
+      "summary": "Based on the description of this issue, it appears to involve [from support] update armed forces option in address drop-down, investigate 500 error. The issue focuses on addressing needs related to [from support] update armed forces option in address drop-down, investigate 500 error in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] update armed forces option in address drop-down, investigate 500 error",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 16318,
+      "title": "Epic: Accessibility issues after Primer Select Panel updates",
+      "summary": "Based on the description of this issue, it appears to involve epic: accessibility issues after primer select panel updates. The issue focuses on addressing needs related to epic: accessibility issues after primer select panel updates in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of epic: accessibility issues after primer select panel updates",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 16280,
+      "title": "Improve performance of add users to cost center API endpoint",
+      "summary": "Based on the description of this issue, it appears to involve improve performance of add users to cost center api endpoint. The issue focuses on addressing needs related to improve performance of add users to cost center api endpoint in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of improve performance of add users to cost center api endpoint",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 16139,
+      "title": "Address slow queries to ByOrgRepoProductSku partition",
+      "summary": "Based on the description of this issue, it appears to involve address slow queries to byorgrepoproductsku partition. The issue focuses on addressing needs related to address slow queries to byorgrepoproductsku partition in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of address slow queries to byorgrepoproductsku partition",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 16134,
+      "title": "[Bug] Billing managers who are not also members of the organization cannot link an Azure Subscription",
+      "summary": "Based on the description of this issue, it appears to involve [bug] billing managers who are not also members of the organization cannot link an azure subscription. The issue focuses on addressing needs related to [bug] billing managers who are not also members of the organization cannot link an azure subscription in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] billing managers who are not also members of the organization cannot link an azure subscription",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18776,
+      "title": "Paginate lists of resources(orgs, repos, members) on the cost center edit/view details page in vNext",
+      "summary": "Based on the description of this issue, it appears to involve paginate lists of resources(orgs, repos, members) on the cost center edit/view details page in vnext. The issue focuses on addressing needs related to paginate lists of resources(orgs, repos, members) on the cost center edit/view details page in vnext in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of paginate lists of resources(orgs, repos, members) on the cost center edit/view details page in vnext",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 16096,
+      "title": "Chargeback ticket creation update",
+      "summary": "Based on the description of this issue, it appears to involve chargeback ticket creation update. The issue focuses on addressing needs related to chargeback ticket creation update in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of chargeback ticket creation update",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 16088,
+      "title": "Customers moving to Azure mid-cycle don't have the partial usage emitted to Zuora",
+      "summary": "Based on the description of this issue, it appears to involve customers moving to azure mid-cycle don't have the partial usage emitted to zuora. The issue focuses on addressing needs related to customers moving to azure mid-cycle don't have the partial usage emitted to zuora in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of customers moving to azure mid-cycle don't have the partial usage emitted to zuora",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 16021,
+      "title": "Account's billing settings out of sync",
+      "summary": "Based on the description of this issue, it appears to involve account's billing settings out of sync. The issue focuses on addressing needs related to account's billing settings out of sync in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of account's billing settings out of sync",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15849,
+      "title": "Job is removing invoiced customer's LFS pack purchase",
+      "summary": "Based on the description of this issue, it appears to involve job is removing invoiced customer's lfs pack purchase. The issue focuses on addressing needs related to job is removing invoiced customer's lfs pack purchase in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of job is removing invoiced customer's lfs pack purchase",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15835,
+      "title": "Vnext bug: When linking an Azure subscription to a cost center, the wrong state is saved/displayed in the form",
+      "summary": "Based on the description of this issue, it appears to involve vnext bug: when linking an azure subscription to a cost center, the wrong state is saved/displayed in the form. The issue focuses on addressing needs related to vnext bug: when linking an azure subscription to a cost center, the wrong state is saved/displayed in the form in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of vnext bug: when linking an azure subscription to a cost center, the wrong state is saved/displayed in the form",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15820,
+      "title": "[Epic] Centralize Auth and Capture for Billing",
+      "summary": "Based on the description of this issue, it appears to involve [epic] centralize auth and capture for billing. The issue focuses on addressing needs related to [epic] centralize auth and capture for billing in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [epic] centralize auth and capture for billing",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15799,
+      "title": "[From Support] Copilot Subscription on Google Play Store or Apple App store does not unlock billing on accounts",
+      "summary": "Based on the description of this issue, it appears to involve [from support] copilot subscription on google play store or apple app store does not unlock billing on accounts. The issue focuses on addressing needs related to [from support] copilot subscription on google play store or apple app store does not unlock billing on accounts in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] copilot subscription on google play store or apple app store does not unlock billing on accounts",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15753,
+      "title": "Update GHAS/GHEC Auth N Capture Approach after Licensify onboarding",
+      "summary": "Based on the description of this issue, it appears to involve update ghas/ghec auth n capture approach after licensify onboarding. The issue focuses on addressing needs related to update ghas/ghec auth n capture approach after licensify onboarding in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of update ghas/ghec auth n capture approach after licensify onboarding",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15725,
+      "title": "allow script/produce to create specific dollar amounts of usage",
+      "summary": "Based on the description of this issue, it appears to involve allow script/produce to create specific dollar amounts of usage. The issue focuses on addressing needs related to allow script/produce to create specific dollar amounts of usage in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of allow script/produce to create specific dollar amounts of usage",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15724,
+      "title": "Invoiced customers migrating to self-serve enterprise have subscriptions out of sync",
+      "summary": "Based on the description of this issue, it appears to involve invoiced customers migrating to self-serve enterprise have subscriptions out of sync. The issue focuses on addressing needs related to invoiced customers migrating to self-serve enterprise have subscriptions out of sync in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of invoiced customers migrating to self-serve enterprise have subscriptions out of sync",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15713,
+      "title": "Review `entityDetail.CustomerId` field and `entityDetail.GetCustomerId` method",
+      "summary": "Based on the description of this issue, it appears to involve review `entitydetail.customerid` field and `entitydetail.getcustomerid` method. The issue focuses on addressing needs related to review `entitydetail.customerid` field and `entitydetail.getcustomerid` method in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of review `entitydetail.customerid` field and `entitydetail.getcustomerid` method",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15690,
+      "title": "vNext GA Bug - Included Actions minutes doubled for a trial account",
+      "summary": "Based on the description of this issue, it appears to involve vnext ga bug - included actions minutes doubled for a trial account. The issue focuses on addressing needs related to vnext ga bug - included actions minutes doubled for a trial account in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of vnext ga bug - included actions minutes doubled for a trial account",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15603,
+      "title": "Explore how to dynamically fetch credentials while using SPN",
+      "summary": "Based on the description of this issue, it appears to involve explore how to dynamically fetch credentials while using spn. The issue focuses on addressing needs related to explore how to dynamically fetch credentials while using spn in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of explore how to dynamically fetch credentials while using spn",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15440,
+      "title": "Epic: Budgets - post-GA Enhancements",
+      "summary": "Based on the description of this issue, it appears to involve epic: budgets - post-ga enhancements. The issue focuses on addressing needs related to epic: budgets - post-ga enhancements in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of epic: budgets - post-ga enhancements",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15365,
+      "title": "[Bug] Ubuntu Advanced 2-Core runners not showing on the billing API",
+      "summary": "Based on the description of this issue, it appears to involve [bug] ubuntu advanced 2-core runners not showing on the billing api. The issue focuses on addressing needs related to [bug] ubuntu advanced 2-core runners not showing on the billing api in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] ubuntu advanced 2-core runners not showing on the billing api",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15350,
+      "title": "vNext GA Bug - Actions Billable Time is always 0 (via API)",
+      "summary": "Based on the description of this issue, it appears to involve vnext ga bug - actions billable time is always 0 (via api). The issue focuses on addressing needs related to vnext ga bug - actions billable time is always 0 (via api) in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of vnext ga bug - actions billable time is always 0 (via api)",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15342,
+      "title": "Account with multiple failed renewal payments not locked because of successful seat addition payment",
+      "summary": "Based on the description of this issue, it appears to involve account with multiple failed renewal payments not locked because of successful seat addition payment. The issue focuses on addressing needs related to account with multiple failed renewal payments not locked because of successful seat addition payment in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of account with multiple failed renewal payments not locked because of successful seat addition payment",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15339,
+      "title": "Clean up usage ingestion (invoice items for monthly Zuora emission)",
+      "summary": "Based on the description of this issue, it appears to involve clean up usage ingestion (invoice items for monthly zuora emission). The issue focuses on addressing needs related to clean up usage ingestion (invoice items for monthly zuora emission) in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of clean up usage ingestion (invoice items for monthly zuora emission)",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15320,
+      "title": "[Initiative] Customer migrations from Meuse to Billing Platform",
+      "summary": "Based on the description of this issue, it appears to involve [initiative] customer migrations from meuse to billing platform. The issue focuses on addressing needs related to [initiative] customer migrations from meuse to billing platform in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [initiative] customer migrations from meuse to billing platform",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15299,
+      "title": "[Bug] Customer converted from invoiced to self-serve enterprise plan receiving warning that protected branch rules are not available until they upgrade plans",
+      "summary": "Based on the description of this issue, it appears to involve [bug] customer converted from invoiced to self-serve enterprise plan receiving warning that protected branch rules are not available until they upgrade plans . The issue focuses on addressing needs related to [bug] customer converted from invoiced to self-serve enterprise plan receiving warning that protected branch rules are not available until they upgrade plans  in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] customer converted from invoiced to self-serve enterprise plan receiving warning that protected branch rules are not available until they upgrade plans",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15189,
+      "title": "Show reversed / charged back PayPal transactions in stafftools",
+      "summary": "Based on the description of this issue, it appears to involve show reversed / charged back paypal transactions in stafftools. The issue focuses on addressing needs related to show reversed / charged back paypal transactions in stafftools in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of show reversed / charged back paypal transactions in stafftools",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15151,
+      "title": "Billing platform smoke test suite",
+      "summary": "Based on the description of this issue, it appears to involve billing platform smoke test suite. The issue focuses on addressing needs related to billing platform smoke test suite in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of billing platform smoke test suite",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15121,
+      "title": "Epic: Test business continuity disaster recovery plan - vNext",
+      "summary": "Based on the description of this issue, it appears to involve epic: test business continuity disaster recovery plan - vnext. The issue focuses on addressing needs related to epic: test business continuity disaster recovery plan - vnext in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of epic: test business continuity disaster recovery plan - vnext",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15114,
+      "title": "[Epic] vNext Pre-Mortem Action Items",
+      "summary": "Based on the description of this issue, it appears to involve [epic] vnext pre-mortem action items. The issue focuses on addressing needs related to [epic] vnext pre-mortem action items in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [epic] vnext pre-mortem action items",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18770,
+      "title": "Test billing-platform recovery after being down",
+      "summary": "Based on the description of this issue, it appears to involve test billing-platform recovery after being down. The issue focuses on addressing needs related to test billing-platform recovery after being down in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of test billing-platform recovery after being down",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18332,
+      "title": "Create an all-encompassing SLO for billing-platform",
+      "summary": "Based on the description of this issue, it appears to involve create an all-encompassing slo for billing-platform. The issue focuses on addressing needs related to create an all-encompassing slo for billing-platform in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of create an all-encompassing slo for billing-platform",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 15633,
+      "title": "Basic enterprises, non EMU: Copilot can be enabled without payment information",
+      "summary": "Based on the description of this issue, it appears to involve basic enterprises, non emu: copilot can be enabled without payment information. The issue focuses on addressing needs related to basic enterprises, non emu: copilot can be enabled without payment information in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of basic enterprises, non emu: copilot can be enabled without payment information",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 14922,
+      "title": "[from Support] Users self-reporting that Copilot renewal payments have not processed",
+      "summary": "Based on the description of this issue, it appears to involve [from support] users self-reporting that copilot renewal payments have not processed. The issue focuses on addressing needs related to [from support] users self-reporting that copilot renewal payments have not processed in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] users self-reporting that copilot renewal payments have not processed",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 14858,
+      "title": "[Risk] Define long term strategy for Azure Commerce AAD apps",
+      "summary": "Based on the description of this issue, it appears to involve [risk] define long term strategy for azure commerce aad apps. The issue focuses on addressing needs related to [risk] define long term strategy for azure commerce aad apps in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [risk] define long term strategy for azure commerce aad apps",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 14849,
+      "title": "Auth holds for Azure",
+      "summary": "Based on the description of this issue, it appears to involve auth holds for azure. The issue focuses on addressing needs related to auth holds for azure in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of auth holds for azure",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 14845,
+      "title": "[Bug] Paginate the Azure Subscriptions list when linking to customer account",
+      "summary": "Based on the description of this issue, it appears to involve [bug] paginate the azure subscriptions list when linking to customer account. The issue focuses on addressing needs related to [bug] paginate the azure subscriptions list when linking to customer account in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] paginate the azure subscriptions list when linking to customer account",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 14718,
+      "title": "[from Support] Incorrect prorated refund calculated for cancelled `CfI` subscription",
+      "summary": "Based on the description of this issue, it appears to involve [from support] incorrect prorated refund calculated for cancelled `cfi` subscription. The issue focuses on addressing needs related to [from support] incorrect prorated refund calculated for cancelled `cfi` subscription in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] incorrect prorated refund calculated for cancelled `cfi` subscription",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 14634,
+      "title": "[from Support] Duplicate payment transaction only visible in Stripe",
+      "summary": "Based on the description of this issue, it appears to involve [from support] duplicate payment transaction only visible in stripe. The issue focuses on addressing needs related to [from support] duplicate payment transaction only visible in stripe in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] duplicate payment transaction only visible in stripe",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 14501,
+      "title": "[Bounty] Billing manager in an organization when added to an enterprise is hidden from all admins and still exists on the organization",
+      "summary": "Based on the description of this issue, it appears to involve [bounty] billing manager in an organization when added to an enterprise is hidden from all admins and still exists on the organization. The issue focuses on addressing needs related to [bounty] billing manager in an organization when added to an enterprise is hidden from all admins and still exists on the organization in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bounty] billing manager in an organization when added to an enterprise is hidden from all admins and still exists on the organization",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 14470,
+      "title": "[Risk] Mitigation Options for Billing Cluster on MySQL (Meuse)",
+      "summary": "Based on the description of this issue, it appears to involve [risk] mitigation options for billing cluster on mysql (meuse). The issue focuses on addressing needs related to [risk] mitigation options for billing cluster on mysql (meuse) in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [risk] mitigation options for billing cluster on mysql (meuse)",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 14375,
+      "title": "Initiative: Azure integration improvements",
+      "summary": "Based on the description of this issue, it appears to involve initiative: azure integration improvements. The issue focuses on addressing needs related to initiative: azure integration improvements in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of initiative: azure integration improvements",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 14373,
+      "title": "Add support to detect and disallow trial, dev, and test Azure subscriptions",
+      "summary": "Based on the description of this issue, it appears to involve add support to detect and disallow trial, dev, and test azure subscriptions. The issue focuses on addressing needs related to add support to detect and disallow trial, dev, and test azure subscriptions in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of add support to detect and disallow trial, dev, and test azure subscriptions",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 14352,
+      "title": "Epic: Improve Go patterns in billing-platform",
+      "summary": "Based on the description of this issue, it appears to involve epic: improve go patterns in billing-platform. The issue focuses on addressing needs related to epic: improve go patterns in billing-platform in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of epic: improve go patterns in billing-platform",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 14331,
+      "title": "[Task] Missing Payment information banner for Copilot Standalone customers in vNext",
+      "summary": "Based on the description of this issue, it appears to involve [task] missing payment information banner for copilot standalone customers in vnext . The issue focuses on addressing needs related to [task] missing payment information banner for copilot standalone customers in vnext  in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [task] missing payment information banner for copilot standalone customers in vnext",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 18774,
+      "title": "[Task] Ensure usage sent to billing platform is handled by billing platform",
+      "summary": "Based on the description of this issue, it appears to involve [task] ensure usage sent to billing platform is handled by billing platform. The issue focuses on addressing needs related to [task] ensure usage sent to billing platform is handled by billing platform in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [task] ensure usage sent to billing platform is handled by billing platform",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 14180,
+      "title": "Clean up old creds in 1Password",
+      "summary": "Based on the description of this issue, it appears to involve clean up old creds in 1password. The issue focuses on addressing needs related to clean up old creds in 1password in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of clean up old creds in 1password",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 14071,
+      "title": "[from Support] Canceling Copilot on renewal date will cancel subscription AND process charge",
+      "summary": "Based on the description of this issue, it appears to involve [from support] canceling copilot on renewal date will cancel subscription and process charge. The issue focuses on addressing needs related to [from support] canceling copilot on renewal date will cancel subscription and process charge in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] canceling copilot on renewal date will cancel subscription and process charge",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 14032,
+      "title": "6209 Cred Roll Follow-up: New Azure creds have 6 month expiration",
+      "summary": "Based on the description of this issue, it appears to involve 6209 cred roll follow-up: new azure creds have 6 month expiration. The issue focuses on addressing needs related to 6209 cred roll follow-up: new azure creds have 6 month expiration in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of 6209 cred roll follow-up: new azure creds have 6 month expiration",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 14033,
+      "title": "Request for S&R Support Billing Squad to be able to reinstate a user's Copilot subscription",
+      "summary": "Based on the description of this issue, it appears to involve request for s&r support billing squad to be able to reinstate a user's copilot subscription. The issue focuses on addressing needs related to request for s&r support billing squad to be able to reinstate a user's copilot subscription in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of request for s&r support billing squad to be able to reinstate a user's copilot subscription",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13911,
+      "title": "Epic: Nonprofit Enterprise Coupon for Non-profits",
+      "summary": "Based on the description of this issue, it appears to involve epic: nonprofit enterprise coupon for non-profits. The issue focuses on addressing needs related to epic: nonprofit enterprise coupon for non-profits in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of epic: nonprofit enterprise coupon for non-profits",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13841,
+      "title": "Batch: Enhance `IsBillable` for `canProceedWithUsage` in billing platform",
+      "summary": "Based on the description of this issue, it appears to involve batch: enhance `isbillable` for `canproceedwithusage` in billing platform. The issue focuses on addressing needs related to batch: enhance `isbillable` for `canproceedwithusage` in billing platform in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of batch: enhance `isbillable` for `canproceedwithusage` in billing platform",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 17150,
+      "title": "Request a feature for Supporting Azure Government Subscription Authentication",
+      "summary": "Based on the description of this issue, it appears to involve request a feature for supporting azure government subscription authentication. The issue focuses on addressing needs related to request a feature for supporting azure government subscription authentication in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of request a feature for supporting azure government subscription authentication",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13777,
+      "title": "Fix customer billing target via \"Microsoft Order - GitHub Co-Sell\" subscriptions",
+      "summary": "Based on the description of this issue, it appears to involve fix customer billing target via \"microsoft order - github co-sell\" subscriptions. The issue focuses on addressing needs related to fix customer billing target via \"microsoft order - github co-sell\" subscriptions in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of fix customer billing target via \"microsoft order - github co-sell\" subscriptions",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13611,
+      "title": "[Usage] Show additional chart type/visualization of the usage graph for timeframe bigger than a month",
+      "summary": "Based on the description of this issue, it appears to involve [usage] show additional chart type/visualization of the usage graph for timeframe bigger than a month. The issue focuses on addressing needs related to [usage] show additional chart type/visualization of the usage graph for timeframe bigger than a month in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [usage] show additional chart type/visualization of the usage graph for timeframe bigger than a month",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13584,
+      "title": "[Billing Overview] Update \u2018Spend by\u2026\u2019 card under product tabs to show gross, billed and discount amounts",
+      "summary": "Based on the description of this issue, it appears to involve [billing overview] update \u2018spend by\u2026\u2019 card under product tabs to show gross, billed and discount amounts. The issue focuses on addressing needs related to [billing overview] update \u2018spend by\u2026\u2019 card under product tabs to show gross, billed and discount amounts in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [billing overview] update \u2018spend by\u2026\u2019 card under product tabs to show gross, billed and discount amounts",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13563,
+      "title": "[Epic] Discounts applied over the target amount",
+      "summary": "Based on the description of this issue, it appears to involve [epic] discounts applied over the target amount. The issue focuses on addressing needs related to [epic] discounts applied over the target amount in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [epic] discounts applied over the target amount",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13436,
+      "title": "Expose entity information on usage report API",
+      "summary": "Based on the description of this issue, it appears to involve expose entity information on usage report api. The issue focuses on addressing needs related to expose entity information on usage report api in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of expose entity information on usage report api",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13390,
+      "title": "Billing platform should support cost center slugs",
+      "summary": "Based on the description of this issue, it appears to involve billing platform should support cost center slugs. The issue focuses on addressing needs related to billing platform should support cost center slugs in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of billing platform should support cost center slugs",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13353,
+      "title": "[Bug] watermark handler deadletter queue actions storage errors",
+      "summary": "Based on the description of this issue, it appears to involve [bug] watermark handler deadletter queue actions storage errors. The issue focuses on addressing needs related to [bug] watermark handler deadletter queue actions storage errors in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] watermark handler deadletter queue actions storage errors",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13334,
+      "title": "[Stafftools request] Display chargebacks in payment history",
+      "summary": "Based on the description of this issue, it appears to involve [stafftools request] display chargebacks in payment history. The issue focuses on addressing needs related to [stafftools request] display chargebacks in payment history in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [stafftools request] display chargebacks in payment history",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13239,
+      "title": "[from Support] RBI account + subscription changes cause credit balance confusion - `dhani-services`",
+      "summary": "Based on the description of this issue, it appears to involve [from support] rbi account + subscription changes cause credit balance confusion - `dhani-services`. The issue focuses on addressing needs related to [from support] rbi account + subscription changes cause credit balance confusion - `dhani-services` in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] rbi account + subscription changes cause credit balance confusion - `dhani-services`",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13219,
+      "title": "[Bug] find_cost_center_for api usage is inconsistent with the other cost center apis",
+      "summary": "Based on the description of this issue, it appears to involve [bug] find_cost_center_for api usage is inconsistent with the other cost center apis. The issue focuses on addressing needs related to [bug] find_cost_center_for api usage is inconsistent with the other cost center apis in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] find_cost_center_for api usage is inconsistent with the other cost center apis",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13218,
+      "title": "[Bug] add_resource_to_cost_center always reports a failure even when the call was successful",
+      "summary": "Based on the description of this issue, it appears to involve [bug] add_resource_to_cost_center always reports a failure even when the call was successful. The issue focuses on addressing needs related to [bug] add_resource_to_cost_center always reports a failure even when the call was successful in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] add_resource_to_cost_center always reports a failure even when the call was successful",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13217,
+      "title": "It would be helpful if find_cost_center_for returned the cost center name in the response",
+      "summary": "Based on the description of this issue, it appears to involve it would be helpful if find_cost_center_for returned the cost center name in the response. The issue focuses on addressing needs related to it would be helpful if find_cost_center_for returned the cost center name in the response in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of it would be helpful if find_cost_center_for returned the cost center name in the response",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13216,
+      "title": "[Bug] costCenterKey returned from find_cost_center_for can't be used in get_cost_center",
+      "summary": "Based on the description of this issue, it appears to involve [bug] costcenterkey returned from find_cost_center_for can't be used in get_cost_center. The issue focuses on addressing needs related to [bug] costcenterkey returned from find_cost_center_for can't be used in get_cost_center in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] costcenterkey returned from find_cost_center_for can't be used in get_cost_center",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13176,
+      "title": "Ensure deleted enterprises are handled in vNext",
+      "summary": "Based on the description of this issue, it appears to involve ensure deleted enterprises are handled in vnext. The issue focuses on addressing needs related to ensure deleted enterprises are handled in vnext in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of ensure deleted enterprises are handled in vnext",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13130,
+      "title": "[Bug] Missing descriptions for audit log events",
+      "summary": "Based on the description of this issue, it appears to involve [bug] missing descriptions for audit log events. The issue focuses on addressing needs related to [bug] missing descriptions for audit log events in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] missing descriptions for audit log events",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13128,
+      "title": "[Tracking] Improving CX workflow for `CfI` Annual <> Monthly cycle changes",
+      "summary": "Based on the description of this issue, it appears to involve [tracking] improving cx workflow for `cfi` annual <> monthly cycle changes. The issue focuses on addressing needs related to [tracking] improving cx workflow for `cfi` annual <> monthly cycle changes in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [tracking] improving cx workflow for `cfi` annual <> monthly cycle changes",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13039,
+      "title": "Handle `nil` plan_subscription in payment processed Zuora webhook",
+      "summary": "Based on the description of this issue, it appears to involve handle `nil` plan_subscription in payment processed zuora webhook. The issue focuses on addressing needs related to handle `nil` plan_subscription in payment processed zuora webhook in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of handle `nil` plan_subscription in payment processed zuora webhook",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 13000,
+      "title": "Add 100% LFS discount for non-profit customers",
+      "summary": "Based on the description of this issue, it appears to involve add 100% lfs discount for non-profit customers. The issue focuses on addressing needs related to add 100% lfs discount for non-profit customers in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of add 100% lfs discount for non-profit customers",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 12971,
+      "title": "[Bug] India RBI customers are able to access Copilot indefinitely with payment declines",
+      "summary": "Based on the description of this issue, it appears to involve [bug] india rbi customers are able to access copilot indefinitely with payment declines. The issue focuses on addressing needs related to [bug] india rbi customers are able to access copilot indefinitely with payment declines in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] india rbi customers are able to access copilot indefinitely with payment declines",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 12899,
+      "title": "[investigation] daily billing run is increasing read/write latency on users table in mysql1",
+      "summary": "Based on the description of this issue, it appears to involve [investigation] daily billing run is increasing read/write latency on users table in mysql1. The issue focuses on addressing needs related to [investigation] daily billing run is increasing read/write latency on users table in mysql1 in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [investigation] daily billing run is increasing read/write latency on users table in mysql1",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11931,
+      "title": "Add guards to prevent invalid Azure subscriptions",
+      "summary": "Based on the description of this issue, it appears to involve add guards to prevent invalid azure subscriptions. The issue focuses on addressing needs related to add guards to prevent invalid azure subscriptions in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of add guards to prevent invalid azure subscriptions",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11778,
+      "title": "[Fanout Tracking] Product Catalog move background jobs and stream processors to read from replicas",
+      "summary": "Based on the description of this issue, it appears to involve [fanout tracking] product catalog move background jobs and stream processors to read from replicas. The issue focuses on addressing needs related to [fanout tracking] product catalog move background jobs and stream processors to read from replicas in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [fanout tracking] product catalog move background jobs and stream processors to read from replicas",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11776,
+      "title": "[Fanout Tracking] Payment Processing move background jobs and stream processors to read from replicas",
+      "summary": "Based on the description of this issue, it appears to involve [fanout tracking] payment processing move background jobs and stream processors to read from replicas. The issue focuses on addressing needs related to [fanout tracking] payment processing move background jobs and stream processors to read from replicas in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [fanout tracking] payment processing move background jobs and stream processors to read from replicas",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11771,
+      "title": "[Fanout Tracking] Account Management Stafftools move background jobs and stream processors to read from replicas",
+      "summary": "Based on the description of this issue, it appears to involve [fanout tracking] account management stafftools move background jobs and stream processors to read from replicas. The issue focuses on addressing needs related to [fanout tracking] account management stafftools move background jobs and stream processors to read from replicas in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [fanout tracking] account management stafftools move background jobs and stream processors to read from replicas",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11750,
+      "title": "[Fanout Tracking] Account Management move background jobs and stream processors to read from replicas",
+      "summary": "Based on the description of this issue, it appears to involve [fanout tracking] account management move background jobs and stream processors to read from replicas. The issue focuses on addressing needs related to [fanout tracking] account management move background jobs and stream processors to read from replicas in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [fanout tracking] account management move background jobs and stream processors to read from replicas",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11647,
+      "title": "Customers that move from GH-direct to MS still access their GH invoices from the EntAct Billing dashboard",
+      "summary": "Based on the description of this issue, it appears to involve customers that move from gh-direct to ms still access their gh invoices from the entact billing dashboard. The issue focuses on addressing needs related to customers that move from gh-direct to ms still access their gh invoices from the entact billing dashboard in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of customers that move from gh-direct to ms still access their gh invoices from the entact billing dashboard",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11620,
+      "title": "`Failed to fetch authentication information from Azure` error when connecting Azure subscription to organization",
+      "summary": "Based on the description of this issue, it appears to involve `failed to fetch authentication information from azure` error when connecting azure subscription to organization. The issue focuses on addressing needs related to `failed to fetch authentication information from azure` error when connecting azure subscription to organization in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of `failed to fetch authentication information from azure` error when connecting azure subscription to organization",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11592,
+      "title": "Customer billed twice after cancelling Copilot subscription",
+      "summary": "Based on the description of this issue, it appears to involve customer billed twice after cancelling copilot subscription. The issue focuses on addressing needs related to customer billed twice after cancelling copilot subscription in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of customer billed twice after cancelling copilot subscription",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11553,
+      "title": "[from Support] Users in dunning confused when subscription is not immediately canceled",
+      "summary": "Based on the description of this issue, it appears to involve [from support] users in dunning confused when subscription is not immediately canceled. The issue focuses on addressing needs related to [from support] users in dunning confused when subscription is not immediately canceled in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] users in dunning confused when subscription is not immediately canceled",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11495,
+      "title": "[Task] Zuora Webhooks Stafftools Improvements",
+      "summary": "Based on the description of this issue, it appears to involve [task] zuora webhooks stafftools improvements . The issue focuses on addressing needs related to [task] zuora webhooks stafftools improvements  in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [task] zuora webhooks stafftools improvements",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11477,
+      "title": "Allow cancelling and removing a zuora subscription from stafftools",
+      "summary": "Based on the description of this issue, it appears to involve allow cancelling and removing a zuora subscription from stafftools. The issue focuses on addressing needs related to allow cancelling and removing a zuora subscription from stafftools in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of allow cancelling and removing a zuora subscription from stafftools",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11437,
+      "title": "IcM Incident Management Alert for Usage Anomaly:Dip Detected for GitHubSecurityOps",
+      "summary": "Based on the description of this issue, it appears to involve icm incident management alert for usage anomaly:dip detected for githubsecurityops. The issue focuses on addressing needs related to icm incident management alert for usage anomaly:dip detected for githubsecurityops in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of icm incident management alert for usage anomaly:dip detected for githubsecurityops",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11293,
+      "title": "Epic: handle Azure emission processing errors",
+      "summary": "Based on the description of this issue, it appears to involve epic: handle azure emission processing errors. The issue focuses on addressing needs related to epic: handle azure emission processing errors in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of epic: handle azure emission processing errors",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11160,
+      "title": "Feature request: Multiple payment methods on an account",
+      "summary": "Based on the description of this issue, it appears to involve feature request: multiple payment methods on an account. The issue focuses on addressing needs related to feature request: multiple payment methods on an account in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of feature request: multiple payment methods on an account",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11153,
+      "title": "[Bug] Properly handle multiple budget banners in the UI",
+      "summary": "Based on the description of this issue, it appears to involve [bug] properly handle multiple budget banners in the ui. The issue focuses on addressing needs related to [bug] properly handle multiple budget banners in the ui in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] properly handle multiple budget banners in the ui",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11103,
+      "title": "Feature request: Make historic billing records available for orgs that move into an EntAcct",
+      "summary": "Based on the description of this issue, it appears to involve feature request: make historic billing records available for orgs that move into an entacct. The issue focuses on addressing needs related to feature request: make historic billing records available for orgs that move into an entacct in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of feature request: make historic billing records available for orgs that move into an entacct",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11074,
+      "title": "Investigate ensuring parity between sandbox and production Zuora configurations",
+      "summary": "Based on the description of this issue, it appears to involve investigate ensuring parity between sandbox and production zuora configurations. The issue focuses on addressing needs related to investigate ensuring parity between sandbox and production zuora configurations in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of investigate ensuring parity between sandbox and production zuora configurations",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 11014,
+      "title": "[from Support] India user reporting issue with bill pay link on gist",
+      "summary": "Based on the description of this issue, it appears to involve [from support] india user reporting issue with bill pay link on gist. The issue focuses on addressing needs related to [from support] india user reporting issue with bill pay link on gist in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] india user reporting issue with bill pay link on gist",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 10941,
+      "title": "User has active CfI subscription and CfB seat",
+      "summary": "Based on the description of this issue, it appears to involve user has active cfi subscription and cfb seat. The issue focuses on addressing needs related to user has active cfi subscription and cfb seat in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of user has active cfi subscription and cfb seat",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 10934,
+      "title": "RBI invoices appear to remain open for manual payment after being adjusted away",
+      "summary": "Based on the description of this issue, it appears to involve rbi invoices appear to remain open for manual payment after being adjusted away. The issue focuses on addressing needs related to rbi invoices appear to remain open for manual payment after being adjusted away in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of rbi invoices appear to remain open for manual payment after being adjusted away",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 10870,
+      "title": "[Bug] Invoiced accounts receive no feedback when paying with a credit card for their invoice",
+      "summary": "Based on the description of this issue, it appears to involve [bug] invoiced accounts receive no feedback when paying with a credit card for their invoice. The issue focuses on addressing needs related to [bug] invoiced accounts receive no feedback when paying with a credit card for their invoice in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [bug] invoiced accounts receive no feedback when paying with a credit card for their invoice",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 10771,
+      "title": "[from Support] 3x failed payments not canceling Copilot (again)",
+      "summary": "Based on the description of this issue, it appears to involve [from support] 3x failed payments not canceling copilot (again). The issue focuses on addressing needs related to [from support] 3x failed payments not canceling copilot (again) in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] 3x failed payments not canceling copilot (again)",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 10662,
+      "title": "[from Support] Add separate billing email on personal user accounts",
+      "summary": "Based on the description of this issue, it appears to involve [from support] add separate billing email on personal user accounts. The issue focuses on addressing needs related to [from support] add separate billing email on personal user accounts in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] add separate billing email on personal user accounts",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 10438,
+      "title": "[from Support] User unable to upgrade to Pro until March 22? - josefcs",
+      "summary": "Based on the description of this issue, it appears to involve [from support] user unable to upgrade to pro until march 22? - josefcs. The issue focuses on addressing needs related to [from support] user unable to upgrade to pro until march 22? - josefcs in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] user unable to upgrade to pro until march 22? - josefcs",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 10428,
+      "title": "[from Support] India accounts expect subscription changes to affect payment due, surprised by higher charge",
+      "summary": "Based on the description of this issue, it appears to involve [from support] india accounts expect subscription changes to affect payment due, surprised by higher charge. The issue focuses on addressing needs related to [from support] india accounts expect subscription changes to affect payment due, surprised by higher charge in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] india accounts expect subscription changes to affect payment due, surprised by higher charge",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 9864,
+      "title": "Update CollectZuoraInvoiceJob to report declined payments",
+      "summary": "Based on the description of this issue, it appears to involve update collectzuorainvoicejob to report declined payments. The issue focuses on addressing needs related to update collectzuorainvoicejob to report declined payments in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of update collectzuorainvoicejob to report declined payments",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 9834,
+      "title": "Enable automatic refunds for paying organizations added to (self-serve) Enterprise Accounts",
+      "summary": "Based on the description of this issue, it appears to involve enable automatic refunds for paying organizations added to (self-serve) enterprise accounts. The issue focuses on addressing needs related to enable automatic refunds for paying organizations added to (self-serve) enterprise accounts in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of enable automatic refunds for paying organizations added to (self-serve) enterprise accounts",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 9789,
+      "title": "Make Zuora subscription syncs idempotent",
+      "summary": "Based on the description of this issue, it appears to involve make zuora subscription syncs idempotent. The issue focuses on addressing needs related to make zuora subscription syncs idempotent in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of make zuora subscription syncs idempotent",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 9652,
+      "title": "[from Support] GHEC Trial behavior when org is on annual Team plan",
+      "summary": "Based on the description of this issue, it appears to involve [from support] ghec trial behavior when org is on annual team plan. The issue focuses on addressing needs related to [from support] ghec trial behavior when org is on annual team plan in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] ghec trial behavior when org is on annual team plan",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 9608,
+      "title": "[from Support] Payment Lock For One Product Clears All Products",
+      "summary": "Based on the description of this issue, it appears to involve [from support] payment lock for one product clears all products. The issue focuses on addressing needs related to [from support] payment lock for one product clears all products in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] payment lock for one product clears all products",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 9450,
+      "title": "Missing Refund Webhooks",
+      "summary": "Based on the description of this issue, it appears to involve missing refund webhooks . The issue focuses on addressing needs related to missing refund webhooks  in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of missing refund webhooks",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 9282,
+      "title": "Billing::Zuora::ZeroOutError: You can not adjust the invoice balance from a positive amount to a negative amount.",
+      "summary": "Based on the description of this issue, it appears to involve billing::zuora::zeroouterror: you can not adjust the invoice balance from a positive amount to a negative amount.. The issue focuses on addressing needs related to billing::zuora::zeroouterror: you can not adjust the invoice balance from a positive amount to a negative amount. in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of billing::zuora::zeroouterror: you can not adjust the invoice balance from a positive amount to a negative amount.",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 9135,
+      "title": "Metered Billing Lock: Customer Still Has Access to Entitlements",
+      "summary": "Based on the description of this issue, it appears to involve metered billing lock: customer still has access to entitlements. The issue focuses on addressing needs related to metered billing lock: customer still has access to entitlements in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of metered billing lock: customer still has access to entitlements",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 9080,
+      "title": "Add ability to pause adding line items from problematic account to Zuora batch files",
+      "summary": "Based on the description of this issue, it appears to involve add ability to pause adding line items from problematic account to zuora batch files. The issue focuses on addressing needs related to add ability to pause adding line items from problematic account to zuora batch files in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of add ability to pause adding line items from problematic account to zuora batch files",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 8747,
+      "title": "Allow customers to unsubscribe from Billing External Emails directly from the email.",
+      "summary": "Based on the description of this issue, it appears to involve allow customers to unsubscribe from billing external emails directly from the email.. The issue focuses on addressing needs related to allow customers to unsubscribe from billing external emails directly from the email. in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of allow customers to unsubscribe from billing external emails directly from the email.",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 8551,
+      "title": "Automate Provisioning for GitHub Advanced Security in stafftools for sales-served customers",
+      "summary": "Based on the description of this issue, it appears to involve automate provisioning for github advanced security in stafftools for sales-served customers. The issue focuses on addressing needs related to automate provisioning for github advanced security in stafftools for sales-served customers in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of automate provisioning for github advanced security in stafftools for sales-served customers",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 8531,
+      "title": "Dunning process creates negative invoice",
+      "summary": "Based on the description of this issue, it appears to involve dunning process creates negative invoice. The issue focuses on addressing needs related to dunning process creates negative invoice in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of dunning process creates negative invoice",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 8449,
+      "title": "Coupon Doesn't Clear RBI Due Date",
+      "summary": "Based on the description of this issue, it appears to involve coupon doesn't clear rbi due date . The issue focuses on addressing needs related to coupon doesn't clear rbi due date  in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of coupon doesn't clear rbi due date",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 8180,
+      "title": "Stafftools Feature request from Support: Ability to temporarily unlock account for longer than 2 days",
+      "summary": "Based on the description of this issue, it appears to involve stafftools feature request from support: ability to temporarily unlock account for longer than 2 days. The issue focuses on addressing needs related to stafftools feature request from support: ability to temporarily unlock account for longer than 2 days in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of stafftools feature request from support: ability to temporarily unlock account for longer than 2 days",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 7938,
+      "title": "[from Support] Bug: Custom Roles set during Enterprise Trial affect ability to upgrade when trial ends",
+      "summary": "Based on the description of this issue, it appears to involve [from support] bug: custom roles set during enterprise trial affect ability to upgrade when trial ends. The issue focuses on addressing needs related to [from support] bug: custom roles set during enterprise trial affect ability to upgrade when trial ends in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of [from support] bug: custom roles set during enterprise trial affect ability to upgrade when trial ends",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 7678,
+      "title": "Investigate Usage Anomaly Spike Detected for GitHubSecurityOps",
+      "summary": "Based on the description of this issue, it appears to involve investigate usage anomaly spike detected for githubsecurityops. The issue focuses on addressing needs related to investigate usage anomaly spike detected for githubsecurityops in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of investigate usage anomaly spike detected for githubsecurityops",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 5728,
+      "title": "Improve retry payment flow and messaging for payment failure",
+      "summary": "Based on the description of this issue, it appears to involve improve retry payment flow and messaging for payment failure. The issue focuses on addressing needs related to improve retry payment flow and messaging for payment failure in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of improve retry payment flow and messaging for payment failure",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    },
+    {
+      "issueNumber": 4008,
+      "title": "Find accounts impacted by uncollectible outstanding balances clean up",
+      "summary": "Based on the description of this issue, it appears to involve find accounts impacted by uncollectible outstanding balances clean up. The issue focuses on addressing needs related to find accounts impacted by uncollectible outstanding balances clean up in the GitHub billing system.",
+      "whyNeeded": "Solving this issue will improve the billing experience for GitHub customers and potentially increase revenue or customer satisfaction.",
+      "technicalRequirements": [
+        "Review and understand the current implementation of find accounts impacted by uncollectible outstanding balances clean up",
+        "Identify gaps in the current functionality",
+        "Implement necessary changes to address the identified gaps",
+        "Test the changes thoroughly to ensure they work as expected",
+        "Update documentation to reflect the changes"
+      ],
+      "additionalConsiderations": "Please note that this is an AI-generated summary based on the issue title and the first 1000 characters of its description. For a complete understanding, please review the full issue and its comments."
+    }
+  ]
+}
